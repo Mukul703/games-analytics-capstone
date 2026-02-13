@@ -37,7 +37,15 @@ The analysis follows a structured, end-to-end approach that begins with transfor
 - Katerina Siniakova leads global rankings with 9,530 points, demonstrating strong performance separation at the top tier and enabling benchmark-driven competitor analysis.  
 - Participation spans ~1,000 competitors across 78 countries, confirming tennis as a globally distributed sport and supporting region-based engagement and growth strategies.  
   
+## Dashboard Overview
 
+The dashboard provides an executive view of the tennis competition ecosystem, summarizing competitor scale, global reach, and top performance metrics to support quick situational awareness.
+
+![Dashboard Overview](dashboard/streamlit_screenshots/dashboard_overview.png)
+
+![Dashboard Overview](dashboard/streamlit_screenshots/leaderboard_insights.png)
+
+![Dashboard Overview](dashboard/streamlit_screenshots/country_wise_analysis.png)
 ## Business Impact & Use Cases
 
 - **Operations & Event Management:** Enables organizers to identify high-activity competition categories and venue hubs, supporting smarter scheduling, capacity planning, and resource allocation.  
@@ -65,6 +73,36 @@ The analysis follows a structured, end-to-end approach that begins with transfor
 - Automate data refresh with scheduled pipelines  
 - Expand dashboard filtering, drill-downs, and interactivity  
 - Enable automated ranking and competition updates
+
+
+
+## Repository Structure
+
+```text
+games-analytics-capstone/
+│
+├── dashboard/
+│   ├── streamlit_app/
+│   └── streamlit_screenshots/
+│
+├── data/
+│   ├── raw/
+│   ├── intermediate/
+│   └── processed/
+│
+├── reports/
+│   └── tennis_game_analytics_report.pdf
+│
+├── scripts/
+│   ├── data_pipeline.py
+│   ├── db_connection.py
+│   └── test_db_connection.py
+│
+├── sql/
+│   └── README.md
+│
+└── README.md
+
 
 
 
