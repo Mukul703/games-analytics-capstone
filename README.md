@@ -37,6 +37,26 @@ The data is structured into a relational SQL schema to support analytical queryi
 The analysis follows a structured, end-to-end approach that begins with transforming semi-structured API data into a normalized relational model designed for analytical querying. Competition hierarchies, venues, and competitors are modeled to reflect real-world relationships, enabling consistent aggregation and comparison across levels. Insights are derived through targeted analytical queries that focus on volume, hierarchy, ranking, and distribution, ensuring findings are directly aligned with decision-making needs rather than exploratory analysis.
 
 
+## Sample SQL Queries
+
+### Competition Volume by Category
+
+**Business Question:** 
+
+Which competition categories host the highest number of tournaments?
+
+<img src="sql/sql_Screenshots/competition_by_category.png" width="599"/>
+
+
+### Top Venues by Event Hosting Volume
+
+Business Question:
+
+Which venues act as strategic hubs by hosting the highest number of competitions?
+
+<img src="sql/sql_Screenshots/venue_with_complex_associated.png" width="599"/>
+
+
 ## Key Insights
 
 - ITF Men (2,198) and ITF Women (2,032) account for the highest competition volume, indicating where scheduling, operations, and participation demand are most concentrated.  
@@ -115,6 +135,7 @@ games-analytics-capstone/
 │   └── README.md
 │
 └── README.md
+
 
 
 
