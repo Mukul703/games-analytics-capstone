@@ -43,7 +43,7 @@ The dashboard provides an executive view of the tennis competition ecosystem, su
 
 ![Dashboard Overview](dashboard/streamlit_screenshots/dashboard_overview.png)
 
-![Dashboard Overview](dashboard/streamlit_screenshots/leaderboard_insights.png)
+![Leaderboard Insights](dashboard/streamlit_screenshots/leaderboard_insights.png)
 
 ![Dashboard Overview](dashboard/streamlit_screenshots/country_wise_analysis.png)
 ## Business Impact & Use Cases
@@ -102,6 +102,7 @@ games-analytics-capstone/
 │   └── README.md
 │
 └── README.md
+
 
 
 
