@@ -1,0 +1,3171 @@
+venue_id,venue_name,city_name,country_name,country_code,timezone,complex_id
+70045,Cancha Central,Santiago,Chile,CHL,America/Santiago,705
+74856,Centre Court,Seville,Spain,ESP,Europe/Madrid,1078
+74858,Court One,Seville,Spain,ESP,Europe/Madrid,1078
+1496,COURT 1,Saint Petersburg,Russia,RUS,Europe/Moscow,1495
+1500,CENTER COURT,Saint Petersburg,Russia,RUS,Europe/Moscow,1495
+62149,Sibur Arena,Saint Petersburg,Russia,RUS,Europe/Moscow,1495
+62153,TC Dynamo,Saint Petersburg,Russia,RUS,Europe/Moscow,1495
+57912,Central,Oeiras,Portugal,PRT,Europe/Lisbon,2375
+70805,Campo 3,Oeiras,Portugal,PRT,Europe/Lisbon,2375
+70807,Campo 4,Oeiras,Portugal,PRT,Europe/Lisbon,2375
+77423,Campo 1,Oeiras,Portugal,PRT,Europe/Lisbon,2375
+77437,Campo 8,Oeiras,Portugal,PRT,Europe/Lisbon,2375
+13912,Centre Court,Ostrava,Czechia,CZE,Europe/Prague,5526
+13914,Court 3,Ostrava,Czechia,CZE,Europe/Prague,5526
+13916,Court 6,Ostrava,Czechia,CZE,Europe/Prague,5526
+13942,Court 4,Ostrava,Czechia,CZE,Europe/Prague,5526
+55221,Court 1,Ostrava,Czechia,CZE,Europe/Prague,5526
+55223,Court 2,Ostrava,Czechia,CZE,Europe/Prague,5526
+77271,Table 1,Varazdin,Croatia,HRV,Europe/Zagreb,6310
+77273,Table 2,Varazdin,Croatia,HRV,Europe/Zagreb,6310
+77275,Table 3,Varazdin,Croatia,HRV,Europe/Zagreb,6310
+77277,Table 4,Varazdin,Croatia,HRV,Europe/Zagreb,6310
+77279,Table 5,Varazdin,Croatia,HRV,Europe/Zagreb,6310
+77281,Table 6,Varazdin,Croatia,HRV,Europe/Zagreb,6310
+77283,Table 7,Varazdin,Croatia,HRV,Europe/Zagreb,6310
+77285,Table 8,Varazdin,Croatia,HRV,Europe/Zagreb,6310
+2146,Court 1,Montpellier,France,FRA,Europe/Paris,6484
+19477,Court Patrice Dominguez,Montpellier,France,FRA,Europe/Paris,6484
+30567,Court Central,Montpellier,France,FRA,Europe/Paris,6484
+30569,Court 2,Montpellier,France,FRA,Europe/Paris,6484
+39934,Court 3,Montpellier,France,FRA,Europe/Paris,6484
+66107,Court 2,Orchies,France,FRA,Europe/Paris,6890
+66109,Court 3,Orleans,France,FRA,Europe/Paris,6890
+66111,Court 4,Orleans,France,FRA,Europe/Paris,6890
+70605,Court 5,Orleans,France,FRA,Europe/Paris,6890
+74195,Center Court,Orleans,France,FRA,Europe/Paris,6890
+74197,Court 1,Orleans,France,FRA,Europe/Paris,6890
+72565,Pista Cental,Malaga,Spain,ESP,Europe/Madrid,7048
+72567,Pista 2,Malaga,Spain,ESP,Europe/Madrid,7048
+72569,Pista 3,Malaga,Spain,ESP,Europe/Madrid,7048
+72571,Pista 4,Malaga,Spain,ESP,Europe/Madrid,7048
+17756,Center Court,Sofia,Bulgaria,BGR,Europe/Sofia,9725
+17758,Court 1,Sofia,Bulgaria,BGR,Europe/Sofia,9725
+23352,Court 3,Sofia,Bulgaria,BGR,Europe/Sofia,9725
+23354,Court 4,Sofia,Bulgaria,BGR,Europe/Sofia,9725
+23356,Court 2,Sofia,Bulgaria,BGR,Europe/Sofia,9725
+66889,Center Court,Rouen,France,FRA,Europe/Paris,10063
+66925,Amelie Mauresmo,Rouen,France,FRA,Europe/Paris,10063
+66979,Celine Dumerc,Rouen,France,FRA,Europe/Paris,10063
+74546,Court 1,Rouen,France,FRA,Europe/Paris,10063
+67857,Cancha Central,Temuco,Chile,CHL,America/Santiago,11769
+67859,Cancha 1,Temuco,Chile,CHL,America/Santiago,11769
+67861,Cancha 2,Temuco,Chile,CHL,America/Santiago,11769
+67863,Cancha 3,Temuco,Chile,CHL,America/Santiago,11769
+30465,Indoor 1,Lyon,France,FRA,Europe/Paris,12241
+30467,Indoor 2,Lyon,France,FRA,Europe/Paris,12241
+30469,Indoor 3,Lyon,France,FRA,Europe/Paris,12241
+39773,Court 23,Lyon,France,FRA,Europe/Paris,12241
+39842,Court 14,Lyon,France,FRA,Europe/Paris,12241
+39844,Court 15,Lyon,France,FRA,Europe/Paris,12241
+58692,Court 12,Lyon,France,FRA,Europe/Paris,12241
+15010,La Foret 3,Orleans,France,FRA,Europe/Paris,15014
+16880,Central Court,Orleans,France,FRA,Europe/Paris,15014
+23652,La Foret 2,Orleans,France,FRA,Europe/Paris,15014
+66105,Court 1,Orleans,France,FRA,Europe/Paris,15014
+66137,La Foret 4,Orleans,France,FRA,Europe/Paris,15014
+66139,La Foret 1,Orleans,France,FRA,Europe/Paris,15014
+70603,Court 2,Orleans,France,FRA,Europe/Paris,15014
+67869,Court 2,Andria,Italy,ITA,Europe/Rome,15371
+67871,Court 3,Andria,Italy,ITA,Europe/Rome,15371
+68095,Campo Tato Paride,Andria,Italy,ITA,Europe/Rome,15371
+68097,Campo Arpex,Andria,Italy,ITA,Europe/Rome,15371
+16022,Atg 3,Saint-Brieuc,France,FRA,Europe/Paris,16020
+18015,Atg 4,Saint-Brieuc,France,FRA,Europe/Paris,16020
+28371,Tcsb 4,Saint-Brieuc,France,FRA,Europe/Paris,16020
+28373,Tcsb 3,Saint-Brieuc,France,FRA,Europe/Paris,16020
+62697,Court Steredenn,Saint-Brieuc,France,FRA,Europe/Paris,16020
+80523,Court TCSB,Saint-Brieuc,France,FRA,Europe/Paris,16020
+14874,Court Limak Enerji,Istanbul,Turkiye,TUR,Europe/Istanbul,16069
+1765,Centre Court,Stuttgart,Germany,DEU,Europe/Berlin,16612
+77411,Court 1,Stuttgart,Germany,DEU,Europe/Berlin,16612
+77413,Court 2,Stuttgart,Germany,DEU,Europe/Berlin,16612
+1648,Court 1,Rotterdam,Netherlands,NLD,Europe/Brussels,17945
+3696,Court 2,Rotterdam,Netherlands,NLD,Europe/Brussels,17945
+22854,Centre Court,Rotterdam,Netherlands,NLD,Europe/Brussels,17945
+66121,Centre Court,London,England,ENG,Europe/London,18201
+18223,Cedevita Court,Bol,Croatia,HRV,Europe/Zagreb,18221
+18225,Cockta Court,Bol,Croatia,HRV,Europe/Zagreb,18221
+18227,Kala Court,Bol,Croatia,HRV,Europe/Zagreb,18221
+21412,INA Court,Bol,Croatia,HRV,Europe/Zagreb,18221
+21422,Raiffeisen Court,Bol,Croatia,HRV,Europe/Zagreb,18221
+30195,Lukas Court,Bol,Croatia,HRV,Europe/Zagreb,18221
+39715,Center Court,Bol,Croatia,HRV,Europe/Zagreb,18221
+39717,Court 1,Bol,Croatia,HRV,Europe/Zagreb,18221
+1695,Center Court,Monterrey,Mexico,MEX,America/Mexico_City,19737
+1696,Court 1,Monterrey,Mexico,MEX,America/Mexico_City,19737
+62341,Court 4,Monterrey,Mexico,MEX,America/Mexico_City,19737
+1520,Court Central,Paris,France,FRA,Europe/Paris,19951
+1521,Court 1,Paris,France,FRA,Europe/Paris,19951
+1522,Court 2,Paris,France,FRA,Europe/Paris,19951
+21868,Next Gen Arena,Umag,Croatia,HRV,Europe/Zagreb,21870
+1938,Roy Emerson Arena,Gstaad,Switzerland,CHE,Europe/Zurich,21910
+1939,Court 1,Gstaad,Switzerland,CHE,Europe/Zurich,21910
+1953,Sportzentrum 1,Gstaad,Switzerland,CHE,Europe/Zurich,21910
+2461,Sportzentrum 3,Gstaad,Switzerland,CHE,Europe/Zurich,21910
+1728,Centre Court,Marbella,Spain,ESP,Europe/Madrid,26983
+1729,Court 1,Marbella,Spain,ESP,Europe/Madrid,26983
+1730,Court 7,Marbella,Spain,ESP,Europe/Madrid,26983
+28357,Court 2,Marbella,Spain,ESP,Europe/Madrid,26983
+33908,Court 3,Marbella,Spain,ESP,Europe/Madrid,26983
+33916,Court 4,Marbella,Spain,ESP,Europe/Madrid,26983
+57732,Estadio Manolo Santana,Marbella,Spain,ESP,Europe/Madrid,26983
+62729,Court 8,Marbella,Spain,ESP,Europe/Madrid,26983
+62731,Court 9,Marbella,Spain,ESP,Europe/Madrid,26983
+1383,Astana Arena,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+2595,Astana,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+14620,Center Court,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+14622,Court 1,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+14624,Court 2,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+14626,Court 3,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+14628,Court 6,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+18439,Court 4,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+31557,Court 9,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+32005,Indoor Center Court,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+43100,Court 5,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+59164,Indoor Court 3,Astana,Kazakhstan,KAZ,Asia/Almaty,26985
+25218,Court 4,Canberra,Australia,AUS,Australia/ACT,27093
+25292,Centre Court,Canberra,Australia,AUS,Australia/ACT,27093
+25296,Court 7,Canberra,Australia,AUS,Australia/ACT,27093
+25298,Court 5,Canberra,Australia,AUS,Australia/ACT,27093
+68975,Court 1,Canberra,Australia,AUS,Australia/ACT,27093
+68977,Court 6,Canberra,Australia,AUS,Australia/ACT,27093
+75825,Court 2,Canberra,Australia,AUS,Australia/ACT,27093
+59476,Center Court,Cluj Napoca,Romania,ROU,Europe/Bucharest,27095
+59478,Court 2,Cluj Napoca,Romania,ROU,Europe/Bucharest,27095
+14846,Center Court,Genoa,Italy,ITA,Europe/Rome,28457
+14848,Court 1,Genoa,Italy,ITA,Europe/Rome,28457
+14850,Court 2,Genoa,Italy,ITA,Europe/Rome,28457
+14852,Campo 3,Genoa,Italy,ITA,Europe/Rome,28457
+58750,Court 3,Genoa,Italy,ITA,Europe/Rome,28457
+58754,Court 4,Genoa,Italy,ITA,Europe/Rome,28457
+66059,Centrale,Genoa,Italy,ITA,Europe/Rome,28457
+66061,Campo 1,Genoa,Italy,ITA,Europe/Rome,28457
+66063,Campo 2,Genoa,Italy,ITA,Europe/Rome,28457
+1766,Court 1,Stuttgart,Germany,DEU,Europe/Berlin,28617
+2345,Court 2,Stuttgart,Germany,DEU,Europe/Berlin,28617
+2421,Court 18,Stuttgart,Germany,DEU,Europe/Berlin,28617
+16273,Court 3,Stuttgart,Germany,DEU,Europe/Berlin,28617
+30921,Court 4,Stuttgart,Germany,DEU,Europe/Berlin,28617
+13904,Centre Court,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+13906,Court 2,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+15298,Court 1,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+31685,Court 3,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+31687,Show court,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+31689,Court 4,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+31947,Court 6,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+31951,Court 7,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+31953,Court 5,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+31955,Court 8,Taipei,Chinese Taipei,TPE,Asia/Taipei,32327
+15250,Centre Court,Kallang,Singapore,SGP,Asia/Singapore,32812
+57252,Court 1,Kallang,Singapore,SGP,Asia/Singapore,32812
+71439,Court 2,Kallang,Singapore,SGP,Asia/Singapore,32812
+71441,Court 3,Kallang,Singapore,SGP,Asia/Singapore,32812
+71443,Court 4,Kallang,Singapore,SGP,Asia/Singapore,32812
+1665,Central,Marseille,France,FRA,Europe/Paris,33186
+1666,Court 1,Marseille,France,FRA,Europe/Paris,33186
+38311,Court 2,Marseille,France,FRA,Europe/Paris,33186
+56690,Pista 2,Madrid,Spain,ESP,Europe/Madrid,33188
+56692,Pista 3,Madrid,Spain,ESP,Europe/Madrid,33188
+68305,Court Central,Madrid,Spain,ESP,Europe/Madrid,33188
+1846,Court 1,London,England,ENG,Europe/London,33190
+1848,Court 9,London,England,ENG,Europe/London,33190
+1849,Court 10,London,England,ENG,Europe/London,33190
+1855,Court 3,London,England,ENG,Europe/London,33190
+1856,Court 12,London,England,ENG,Europe/London,33190
+1884,Court 4,London,England,ENG,Europe/London,33190
+1886,Court 6,London,England,ENG,Europe/London,33190
+1887,Court 7,London,England,ENG,Europe/London,33190
+1888,Court 8,London,England,ENG,Europe/London,33190
+1889,Court 11,London,England,ENG,Europe/London,33190
+1890,Court 13,London,England,ENG,Europe/London,33190
+1891,Court 14,London,England,ENG,Europe/London,33190
+1892,Court 15,London,England,ENG,Europe/London,33190
+1893,Court 16,London,England,ENG,Europe/London,33190
+1894,Court 18,London,England,ENG,Europe/London,33190
+1900,Court 17,London,England,ENG,Europe/London,33190
+19070,Centre Court,London,England,ENG,Europe/London,33190
+21634,Court 2,London,England,ENG,Europe/London,33190
+21642,Court 5,London,England,ENG,Europe/London,33190
+1809,Court 6,Paris,France,FRA,Europe/Paris,33192
+1810,Court 7,Paris,France,FRA,Europe/Paris,33192
+1811,Court 8,Paris,France,FRA,Europe/Paris,33192
+1812,Court 9,Paris,France,FRA,Europe/Paris,33192
+1813,Court 10,Paris,France,FRA,Europe/Paris,33192
+1814,Court 11,Paris,France,FRA,Europe/Paris,33192
+1815,Court 12,Paris,France,FRA,Europe/Paris,33192
+1816,Court 13,Paris,France,FRA,Europe/Paris,33192
+1817,Court 14,Paris,France,FRA,Europe/Paris,33192
+1818,Court 15,Paris,France,FRA,Europe/Paris,33192
+1819,Court 16,Paris,France,FRA,Europe/Paris,33192
+1826,Court Philippe Chatrier,Paris,France,FRA,Europe/Paris,33192
+1827,Court Suzanne Lenglen,Paris,France,FRA,Europe/Paris,33192
+1828,Court 3,Paris,France,FRA,Europe/Paris,33192
+1829,Court 4,Paris,France,FRA,Europe/Paris,33192
+1830,Court 5,Paris,France,FRA,Europe/Paris,33192
+39589,Court Simonne Mathieu,Paris,France,FRA,Europe/Paris,33192
+1572,Court 3,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1573,Court 4,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1574,Court 5,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1575,Court 6,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1576,Court 7,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1577,Court 8,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1578,Court 10,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1579,Court 11,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1580,Court 9,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1581,Court 12,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1582,Court 13,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1583,Court 14,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1584,Court 15,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1586,Rod Laver Arena,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1587,John Cain Arena,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1588,Margaret Court Arena,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1589,1573 Arena,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1590,Court 18,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1591,Court 19,Melbourne,Australia,AUS,Australia/Melbourne,33196
+1592,Court 21,Melbourne,Australia,AUS,Australia/Melbourne,33196
+10536,Court 20,Melbourne,Australia,AUS,Australia/Melbourne,33196
+10538,Court 22,Melbourne,Australia,AUS,Australia/Melbourne,33196
+57064,Court 16,Melbourne,Australia,AUS,Australia/Melbourne,33196
+57072,Court 17,Melbourne,Australia,AUS,Australia/Melbourne,33196
+61865,Kia Arena,Melbourne,Australia,AUS,Australia/Melbourne,33196
+23520,Indoor West,Shanghai,China,CHN,Asia/Shanghai,33198
+24396,Indoor 1,Shanghai,China,CHN,Asia/Shanghai,33198
+2575,Center Court,Winston Salem,USA,USA,America/New_York,33200
+2577,Court 2,Winston Salem,USA,USA,America/New_York,33200
+2579,Court 3,Winston Salem,USA,USA,America/New_York,33200
+2581,Court 4,Winston Salem,USA,USA,America/New_York,33200
+2583,Court 5,Winston Salem,USA,USA,America/New_York,33200
+16760,Stadium,Winston Salem,USA,USA,America/New_York,33200
+49715,Show Court 1,Adelaide,Australia,AUS,Australia/South,33206
+49717,Court 2,Adelaide,Australia,AUS,Australia/South,33206
+49719,Court 3,Adelaide,Australia,AUS,Australia/South,33206
+61817,Court 4,Adelaide,Australia,AUS,Australia/South,33206
+61851,Centre Court,Adelaide,Australia,AUS,Australia/South,33206
+1924,Stadium Court,Atlanta,USA,USA,America/New_York,33208
+1925,Court 1,Atlanta,USA,USA,America/New_York,33208
+1926,Court 2,Atlanta,USA,USA,America/New_York,33208
+8563,AJC Grandstand Court,Atlanta,USA,USA,America/New_York,33208
+1910,Center,"Newport, Rhode Island",USA,USA,America/New_York,33210
+1911,Court 1,"Newport, Rhode Island",USA,USA,America/New_York,33210
+1912,Court 2,"Newport, Rhode Island",USA,USA,America/New_York,33210
+16394,Court 3,"Newport, Rhode Island",USA,USA,America/New_York,33210
+18401,Stadium,"Newport, Rhode Island",USA,USA,America/New_York,33210
+21864,Center 1,"Newport, Rhode Island",USA,USA,America/New_York,33210
+21866,Center 2,"Newport, Rhode Island",USA,USA,America/New_York,33210
+14950,Cancha Central,Quito,Ecuador,ECU,America/Guayaquil,33214
+63705,Court 5,Quito,Ecuador,ECU,America/Guayaquil,33214
+63707,Court 2,Quito,Ecuador,ECU,America/Guayaquil,33214
+63709,Court 6,Quito,Ecuador,ECU,America/Guayaquil,33214
+63711,Court 4,Quito,Ecuador,ECU,America/Guayaquil,33214
+63713,Court 1,Quito,Ecuador,ECU,America/Guayaquil,33214
+63715,Court 3,Quito,Ecuador,ECU,America/Guayaquil,33214
+63813,Court 14,Quito,Ecuador,ECU,America/Guayaquil,33214
+63815,Court 15,Quito,Ecuador,ECU,America/Guayaquil,33214
+63821,Court 16,Quito,Ecuador,ECU,America/Guayaquil,33214
+64219,Court 11,Quito,Ecuador,ECU,America/Guayaquil,33214
+64221,Court 7,Quito,Ecuador,ECU,America/Guayaquil,33214
+64223,Court 8,Quito,Ecuador,ECU,America/Guayaquil,33214
+64225,Court 12,Quito,Ecuador,ECU,America/Guayaquil,33214
+64227,Court 13,Quito,Ecuador,ECU,America/Guayaquil,33214
+17911,Court 2,Zhuhai,China,CHN,Asia/Shanghai,33218
+17913,Court 3,Zhuhai,China,CHN,Asia/Shanghai,33218
+17915,Court 4,Zhuhai,China,CHN,Asia/Shanghai,33218
+17917,Court 5,Zhuhai,China,CHN,Asia/Shanghai,33218
+17933,Center,Zhuhai,China,CHN,Asia/Shanghai,33218
+17937,Court 1,Zhuhai,China,CHN,Asia/Shanghai,33218
+19000,Stadium,Zhuhai,China,CHN,Asia/Shanghai,33218
+26108,Court M3,Zhuhai,China,CHN,Asia/Shanghai,33218
+26110,Court M5,Zhuhai,China,CHN,Asia/Shanghai,33218
+26112,Court M2,Zhuhai,China,CHN,Asia/Shanghai,33218
+38589,Covered Court 2,Zhuhai,China,CHN,Asia/Shanghai,33218
+38591,Covered Court 4,Zhuhai,China,CHN,Asia/Shanghai,33218
+46676,Court 14,Zhuhai,China,CHN,Asia/Shanghai,33218
+74171,Center Court,Zhuhai,China,CHN,Asia/Shanghai,33218
+1663,Estadio 2,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+1664,Estadio 3,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+13212,Cancha 10,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+13214,Cancha 11,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+13216,Cancha 2,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+15722,Court 14,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+17290,Cancha 3,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+17292,Central,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+17312,Cancha  4,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+17524,Cancha 5,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+19465,Court Guillermo Vilas,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+19601,Cancha 1,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+23316,Court 2,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+23318,Court 1,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+23320,Court 3,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+24058,Cancha 8,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+24192,Court 9,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+24194,Court 10,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+24196,Court 7,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+24198,Court 8,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+24200,Court 11,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+24222,Cancha 9,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+24224,Cancha 12,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+34438,Court 6,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+34440,Court 4,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+34546,Court 5,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+35848,Cancha 7,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+46290,Court 12,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+51673,Court Central,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+61122,Cancha Central,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,33222
+1676,Stadium,Delray Beach,USA,USA,America/New_York,33228
+1677,Court 1,Delray Beach,USA,USA,America/New_York,33228
+1678,Court 2,Delray Beach,USA,USA,America/New_York,33228
+1679,Court 4,Delray Beach,USA,USA,America/New_York,33228
+1680,Court 5,Delray Beach,USA,USA,America/New_York,33228
+1681,Court 6,Delray Beach,USA,USA,America/New_York,33228
+15684,Court 3,Delray Beach,USA,USA,America/New_York,33228
+1392,CENTRAL,Luxembourg,Luxembourg,LUX,Europe/Paris,33230
+1393,COURT 1,Luxembourg,Luxembourg,LUX,Europe/Paris,33230
+24322,Court 2,Luxembourg,Luxembourg,LUX,Europe/Paris,33230
+24324,Court 3,Luxembourg,Luxembourg,LUX,Europe/Paris,33230
+24488,Stadium,Luxembourg,Luxembourg,LUX,Europe/Paris,33230
+61008,Court 1,Moscow,Russia,RUS,Europe/Moscow,33236
+61010,Court 2,Moscow,Russia,RUS,Europe/Moscow,33236
+80451,Center Court,Osaka,Japan,JPN,Asia/Tokyo,33238
+80453,Court 1,Osaka,Japan,JPN,Asia/Tokyo,33238
+80455,Court 8,Osaka,Japan,JPN,Asia/Tokyo,33238
+80457,Court 9,Osaka,Japan,JPN,Asia/Tokyo,33238
+14990,Court 2,Wuhan,China,CHN,Asia/Shanghai,33240
+14992,Court 3,Wuhan,China,CHN,Asia/Shanghai,33240
+14994,Court 4,Wuhan,China,CHN,Asia/Shanghai,33240
+14996,Court 5,Wuhan,China,CHN,Asia/Shanghai,33240
+14998,Court 1,Wuhan,China,CHN,Asia/Shanghai,33240
+15000,Center Court,Wuhan,China,CHN,Asia/Shanghai,33240
+16864,Court 6,Wuhan,China,CHN,Asia/Shanghai,33240
+23666,Indoor 2,Wuhan,China,CHN,Asia/Shanghai,33240
+23668,Indoor 4,Wuhan,China,CHN,Asia/Shanghai,33240
+28978,Court 10,Wuhan,China,CHN,Asia/Shanghai,33240
+28982,Court 9,Wuhan,China,CHN,Asia/Shanghai,33240
+28984,Court 8,Wuhan,China,CHN,Asia/Shanghai,33240
+28986,Court 7,Wuhan,China,CHN,Asia/Shanghai,33240
+2677,Centre Court,Guangzhou,China,CHN,Asia/Shanghai,33242
+2679,Court 1,Guangzhou,China,CHN,Asia/Shanghai,33242
+2681,Court 3,Guangzhou,China,CHN,Asia/Shanghai,33242
+2683,Court 4,Guangzhou,China,CHN,Asia/Shanghai,33242
+2685,Court 2,Guangzhou,China,CHN,Asia/Shanghai,33242
+16844,Indoor 2,Guangzhou,China,CHN,Asia/Shanghai,33242
+16846,Indoor 3,Guangzhou,China,CHN,Asia/Shanghai,33242
+34572,Court 7,Guangzhou,China,CHN,Asia/Shanghai,33242
+1550,Ken Rosewall Arena,Sydney,Australia,AUS,Australia/Sydney,33244
+1551,Court 1,Sydney,Australia,AUS,Australia/Sydney,33244
+1552,Court 2,Sydney,Australia,AUS,Australia/Sydney,33244
+1553,Court 3,Sydney,Australia,AUS,Australia/Sydney,33244
+1554,Court 4,Sydney,Australia,AUS,Australia/Sydney,33244
+1555,Court 5,Sydney,Australia,AUS,Australia/Sydney,33244
+1556,Court 6,Sydney,Australia,AUS,Australia/Sydney,33244
+1564,Court 8,Sydney,Australia,AUS,Australia/Sydney,33244
+2210,Center Court,Sydney,Australia,AUS,Australia/Sydney,33244
+10472,Court 7,Sydney,Australia,AUS,Australia/Sydney,33244
+15501,Court 9,Sydney,Australia,AUS,Australia/Sydney,33244
+26447,Show Court 1,Sydney,Australia,AUS,Australia/Sydney,33244
+14868,Centre Court,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+14870,Court 1,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+14872,Court 2,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+15560,Court 11,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+15562,Court 13,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+18876,Show Court 1,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+18878,Show Court 2,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+24042,Show Court 3,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+24044,Court 3,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+24046,Court 12,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+26317,Court 10,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+26367,Court 6,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+26369,Court 5,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+26371,Court 5,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+31497,Indoor C1,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+31499,Indoor C2,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,33246
+14232,Central Court,Tianjin,China,CHN,Asia/Shanghai,33248
+14234,Court 1,Tianjin,China,CHN,Asia/Shanghai,33248
+14236,Court 2,Tianjin,China,CHN,Asia/Shanghai,33248
+14246,Court 3,Tianjin,China,CHN,Asia/Shanghai,33248
+24038,Court 4,Tianjin,China,CHN,Asia/Shanghai,33248
+24040,Court 5,Tianjin,China,CHN,Asia/Shanghai,33248
+24226,Indoor Court 2,Tianjin,China,CHN,Asia/Shanghai,33248
+24228,Indoor 3,Tianjin,China,CHN,Asia/Shanghai,33248
+24230,Indoor 4,Tianjin,China,CHN,Asia/Shanghai,33248
+24252,Indoor 1,Tianjin,China,CHN,Asia/Shanghai,33248
+35098,Indoor 1,Tashkent,Uzbekistan,UZB,Asia/Tashkent,33250
+35102,Indoor 2,Tashkent,Uzbekistan,UZB,Asia/Tashkent,33250
+47004,Diamond,Beijing,China,CHN,Asia/Shanghai,33252
+1379,Center,Osaka,Japan,JPN,Asia/Tokyo,33254
+1380,Court 1,Osaka,Japan,JPN,Asia/Tokyo,33254
+1381,Court 2,Osaka,Japan,JPN,Asia/Tokyo,33254
+2112,Court 3,Osaka,Japan,JPN,Asia/Tokyo,33254
+2711,Court 4,Osaka,Japan,JPN,Asia/Tokyo,33254
+73839,Court 8,Osaka,Japan,JPN,Asia/Tokyo,33254
+73841,Court 9,Osaka,Japan,JPN,Asia/Tokyo,33254
+2039,Stadium,New Haven,USA,USA,America/New_York,33258
+2040,SportMaster Grandstand,New Haven,USA,USA,America/New_York,33258
+2041,Court 1,New Haven,USA,USA,America/New_York,33258
+2042,Court 2,New Haven,USA,USA,America/New_York,33258
+2043,Court 3,New Haven,USA,USA,America/New_York,33258
+2051,Court C,New Haven,USA,USA,America/New_York,33258
+9077,Court 4,New Haven,USA,USA,America/New_York,33258
+14784,Court A,New Haven,USA,USA,America/New_York,33258
+18579,Court G,New Haven,USA,USA,America/New_York,33258
+18581,Court I,New Haven,USA,USA,America/New_York,33258
+33528,Court G,New Haven,USA,USA,America/New_York,33258
+1969,Stadium,Toronto,Canada,CAN,Canada/Eastern,33266
+1970,Rogers 5G Grandstand,Toronto,Canada,CAN,Canada/Eastern,33266
+1971,Court 1,Toronto,Canada,CAN,Canada/Eastern,33266
+1972,Court 3,Toronto,Canada,CAN,Canada/Eastern,33266
+1982,Centre Court,Toronto,Canada,CAN,Canada/Eastern,33266
+1989,Court 4,Toronto,Canada,CAN,Canada/Eastern,33266
+2533,Court 2,Toronto,Canada,CAN,Canada/Eastern,33266
+2535,Court 5,Toronto,Canada,CAN,Canada/Eastern,33266
+23322,Court 10,Toronto,Canada,CAN,Canada/Eastern,33266
+23324,Court 12,Toronto,Canada,CAN,Canada/Eastern,33266
+23326,Court 9,Toronto,Canada,CAN,Canada/Eastern,33266
+32589,National Bank Grandstand,Toronto,Canada,CAN,Canada/Eastern,33266
+73017,Grandstand,Toronto,Canada,CAN,Canada/Eastern,33266
+79171,Cashmere Grandstand,Toronto,Canada,CAN,Canada/Eastern,33266
+1973,Center Court,Cincinnati,USA,USA,America/New_York,33268
+1974,Grandstand,Cincinnati,USA,USA,America/New_York,33268
+1975,Court 3,Cincinnati,USA,USA,America/New_York,33268
+1976,Court 4,Cincinnati,USA,USA,America/New_York,33268
+1977,Court 5,Cincinnati,USA,USA,America/New_York,33268
+1983,Court 1,Cincinnati,USA,USA,America/New_York,33268
+2029,Stadium,Cincinnati,USA,USA,America/New_York,33268
+2557,Court 9,Cincinnati,USA,USA,America/New_York,33268
+2559,Court 6,Cincinnati,USA,USA,America/New_York,33268
+2561,Court 7,Cincinnati,USA,USA,America/New_York,33268
+2563,Porsche Court,Cincinnati,USA,USA,America/New_York,33268
+18565,Stadium 3,Cincinnati,USA,USA,America/New_York,33268
+22660,Court 8,Cincinnati,USA,USA,America/New_York,33268
+22662,Court 11,Cincinnati,USA,USA,America/New_York,33268
+79243,Court 10,Cincinnati,USA,USA,America/New_York,33268
+1801,Centre Court,Strasbourg,France,FRA,Europe/Paris,33274
+1802,Court 2,Strasbourg,France,FRA,Europe/Paris,33274
+1803,Court 3,Strasbourg,France,FRA,Europe/Paris,33274
+2362,Court 1,Strasbourg,France,FRA,Europe/Paris,33274
+16167,Court Patrice Dominguez,Strasbourg,France,FRA,Europe/Paris,33274
+20037,Court A,Strasbourg,France,FRA,Europe/Paris,33274
+20039,Court B,Strasbourg,France,FRA,Europe/Paris,33274
+20041,Court D,Strasbourg,France,FRA,Europe/Paris,33274
+39517,Court 4,Strasbourg,France,FRA,Europe/Paris,33274
+39579,Indoor C,Strasbourg,France,FRA,Europe/Paris,33274
+58624,Indoor Court 1,Strasbourg,France,FRA,Europe/Paris,33274
+1850,Centre Court,Birmingham,England,ENG,Europe/London,33276
+1851,Court 1,Birmingham,England,ENG,Europe/London,33276
+1852,Court 2,Birmingham,England,ENG,Europe/London,33276
+1853,Court 3,Birmingham,England,ENG,Europe/London,33276
+1854,Court 4,Birmingham,England,ENG,Europe/London,33276
+14210,Ann Jones Centre Court,Birmingham,England,ENG,Europe/London,33276
+18311,Indoor 4,Birmingham,England,ENG,Europe/London,33276
+18313,Indoor 6,Birmingham,England,ENG,Europe/London,33276
+11661,Center Court,Marrakech,Morocco,MAR,Africa/Casablanca,33278
+11663,Court 1,Marrakech,Morocco,MAR,Africa/Casablanca,33278
+11665,Court 2,Marrakech,Morocco,MAR,Africa/Casablanca,33278
+11667,Court 4,Marrakech,Morocco,MAR,Africa/Casablanca,33278
+28545,Court 5,Marrakech,Morocco,MAR,Africa/Casablanca,33278
+28719,Court 9,Marrakech,Morocco,MAR,Africa/Casablanca,33278
+11985,Center Court,Nuremberg,Germany,DEU,Europe/Berlin,33280
+11987,Show Court,Nuremberg,Germany,DEU,Europe/Berlin,33280
+11989,Court 1,Nuremberg,Germany,DEU,Europe/Berlin,33280
+11995,Court 2,Nuremberg,Germany,DEU,Europe/Berlin,33280
+14068,Court 4,Nuremberg,Germany,DEU,Europe/Berlin,33280
+18203,Show Court 3,Nuremberg,Germany,DEU,Europe/Berlin,33280
+18205,Court 5,Nuremberg,Germany,DEU,Europe/Berlin,33280
+1876,Centre Court,Eastbourne,England,ENG,Europe/London,33282
+1877,Court 1,Eastbourne,England,ENG,Europe/London,33282
+1878,Court 2,Eastbourne,England,ENG,Europe/London,33282
+1879,Court 3,Eastbourne,England,ENG,Europe/London,33282
+1880,Court 4,Eastbourne,England,ENG,Europe/London,33282
+2394,Court 5,Eastbourne,England,ENG,Europe/London,33282
+14218,Court 7,Eastbourne,England,ENG,Europe/London,33282
+14220,Court 8,Eastbourne,England,ENG,Europe/London,33282
+14222,Court 9,Eastbourne,England,ENG,Europe/London,33282
+14224,Court 10,Eastbourne,England,ENG,Europe/London,33282
+14226,Court 11,Eastbourne,England,ENG,Europe/London,33282
+58830,Court 12,Eastbourne,England,ENG,Europe/London,33282
+1920,ECM Court,Prague,Czechia,CZE,Europe/Prague,33286
+14200,Centre Court,Prague,Czechia,CZE,Europe/Prague,33286
+14204,Court A,Prague,Czechia,CZE,Europe/Prague,33286
+14716,Allianz Court,Prague,Czechia,CZE,Europe/Prague,33286
+23384,Court 7,Prague,Czechia,CZE,Europe/Prague,33286
+33876,Court 6,Prague,Czechia,CZE,Europe/Prague,33286
+33880,Court 5,Prague,Czechia,CZE,Europe/Prague,33286
+33882,Court 3,Prague,Czechia,CZE,Europe/Prague,33286
+33888,Court 8,Prague,Czechia,CZE,Europe/Prague,33286
+39441,Court 6 - Centre,Prague,Czechia,CZE,Europe/Prague,33286
+45100,Court 1,Prague,Czechia,CZE,Europe/Prague,33286
+53063,Sparta Centre Court,Prague,Czechia,CZE,Europe/Prague,33286
+58324,Court 11,Prague,Czechia,CZE,Europe/Prague,33286
+58326,Court 13,Prague,Czechia,CZE,Europe/Prague,33286
+71011,Court 2,Prague,Czechia,CZE,Europe/Prague,33286
+72767,Practice Court 1,Prague,Czechia,CZE,Europe/Prague,33286
+1503,Centre Court,Doha,Qatar,QAT,Asia/Qatar,33290
+1546,Court 1,Doha,Qatar,QAT,Asia/Qatar,33290
+1547,Court 2,Doha,Qatar,QAT,Asia/Qatar,33290
+1548,Court 4,Doha,Qatar,QAT,Asia/Qatar,33290
+1549,Court 3,Doha,Qatar,QAT,Asia/Qatar,33290
+3828,Court 5,Doha,Qatar,QAT,Asia/Qatar,33290
+56918,Court A,Doha,Qatar,QAT,Asia/Qatar,33290
+56920,Court B,Doha,Qatar,QAT,Asia/Qatar,33290
+62253,Grandstand 1,Doha,Qatar,QAT,Asia/Qatar,33290
+62255,Grandstand 2,Doha,Qatar,QAT,Asia/Qatar,33290
+62257,Grandstand 3,Doha,Qatar,QAT,Asia/Qatar,33290
+62259,Grandstand 4,Doha,Qatar,QAT,Asia/Qatar,33290
+1697,Court 2,Monterrey,Mexico,MEX,America/Mexico_City,33292
+13744,Estadio GNP Seguros,Monterrey,Mexico,MEX,America/Mexico_City,33292
+13746,Cancha 1,Monterrey,Mexico,MEX,America/Mexico_City,33292
+13748,Cancha 2,Monterrey,Mexico,MEX,America/Mexico_City,33292
+15808,Cancha  3,Monterrey,Mexico,MEX,America/Mexico_City,33292
+17228,Cancha 4,Monterrey,Mexico,MEX,America/Mexico_City,33292
+23716,Court 3,Monterrey,Mexico,MEX,America/Mexico_City,33292
+25898,Court Torner,Monterrey,Mexico,MEX,America/Mexico_City,33292
+25906,Court 5,Monterrey,Mexico,MEX,America/Mexico_City,33292
+25922,Court 8,Monterrey,Mexico,MEX,America/Mexico_City,33292
+25938,Court 7,Monterrey,Mexico,MEX,America/Mexico_City,33292
+13520,Quadra Guga Kuerten,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+13524,Quadra 2,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+15678,Court 3,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+15680,Court 6,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+15682,Quadra 5,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+18505,Court 7,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+18507,Court 8,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+18509,Quadra 4,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+25886,Quadra 3,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+25888,Quadra 1,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+47254,Centra Court,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+47294,Court 2,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+47296,Center Court,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+56430,Court 1,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+61739,Quadra Central,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+65325,Central Court,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+66903,Central,Rio de Janeiro,Brazil,BRA,Brazil/East,33296
+2256,Cancha Central,Acapulco,Mexico,MEX,America/Mexico_City,33298
+2259,Cancha 4,Acapulco,Mexico,MEX,America/Mexico_City,33298
+2260,Cancha 1,Acapulco,Mexico,MEX,America/Mexico_City,33298
+11388,Cancha 5,Acapulco,Mexico,MEX,America/Mexico_City,33298
+18023,Credit One Stadium,Charleston,USA,USA,America/New_York,33302
+38738,Court 7,Charleston,USA,USA,America/New_York,33302
+38740,Court 5,Charleston,USA,USA,America/New_York,33302
+38742,Court 4,Charleston,USA,USA,America/New_York,33302
+38744,Court 3,Charleston,USA,USA,America/New_York,33302
+38886,Althea Gibson Club Court,Charleston,USA,USA,America/New_York,33302
+1505,Center Court,Basel,Switzerland,CHE,Europe/Zurich,33320
+1506,Court 2,Basel,Switzerland,CHE,Europe/Zurich,33320
+24630,IWB Court 1,Basel,Switzerland,CHE,Europe/Zurich,33320
+70371,Court 3,Basel,Switzerland,CHE,Europe/Zurich,33320
+70373,Court 4,Basel,Switzerland,CHE,Europe/Zurich,33320
+70375,Court 5,Basel,Switzerland,CHE,Europe/Zurich,33320
+70473,Table 3,Basel,Switzerland,CHE,Europe/Zurich,33320
+70475,Table 1,Basel,Switzerland,CHE,Europe/Zurich,33320
+70477,Table 4,Basel,Switzerland,CHE,Europe/Zurich,33320
+70479,Table 2,Basel,Switzerland,CHE,Europe/Zurich,33320
+70493,Court 6,Basel,Switzerland,CHE,Europe/Zurich,33320
+1499,COURT B,Vienna,Austria,AUT,Europe/Vienna,33322
+24824,Next Gen Court,Vienna,Austria,AUT,Europe/Vienna,33322
+10394,Court 2,Shenzhen,China,CHN,Asia/Shanghai,33334
+13308,Center Court,Shenzhen,China,CHN,Asia/Shanghai,33334
+1535,Pat Rafter Arena,Brisbane,Australia,AUS,Australia/Brisbane,33336
+1536,Court 1,Brisbane,Australia,AUS,Australia/Brisbane,33336
+1537,Court 2,Brisbane,Australia,AUS,Australia/Brisbane,33336
+1539,Court 5,Brisbane,Australia,AUS,Australia/Brisbane,33336
+2199,Court 10,Brisbane,Australia,AUS,Australia/Brisbane,33336
+2200,Court 14,Brisbane,Australia,AUS,Australia/Brisbane,33336
+15475,Court 16,Brisbane,Australia,AUS,Australia/Brisbane,33336
+23830,Ct 6,Brisbane,Australia,AUS,Australia/Brisbane,33336
+23856,Ct 4,Brisbane,Australia,AUS,Australia/Brisbane,33336
+26391,Stadium Court,Brisbane,Australia,AUS,Australia/Brisbane,33336
+26393,Show Court 2,Brisbane,Australia,AUS,Australia/Brisbane,33336
+34932,Ct 10,Brisbane,Australia,AUS,Australia/Brisbane,33336
+34934,Ct 8,Brisbane,Australia,AUS,Australia/Brisbane,33336
+34936,Ct 14,Brisbane,Australia,AUS,Australia/Brisbane,33336
+47010,Court 6,Brisbane,Australia,AUS,Australia/Brisbane,33336
+47014,Court 3,Brisbane,Australia,AUS,Australia/Brisbane,33336
+75819,Show Court 1,Brisbane,Australia,AUS,Australia/Brisbane,33336
+80991,Ct 16,Brisbane,Australia,AUS,Australia/Brisbane,33336
+80993,Ct 13,Brisbane,Australia,AUS,Australia/Brisbane,33336
+80995,Ct 15,Brisbane,Australia,AUS,Australia/Brisbane,33336
+14490,Court 3,Hamburg,Germany,DEU,Europe/Berlin,33338
+24894,Court 5,Hamburg,Germany,DEU,Europe/Berlin,33338
+24908,Court 4,Hamburg,Germany,DEU,Europe/Berlin,33338
+53557,Head Gravity Court,Hamburg,Germany,DEU,Europe/Berlin,33338
+1388,Centre Court,Stockholm,Sweden,SWE,Europe/Stockholm,33340
+1394,Court 1,Stockholm,Sweden,SWE,Europe/Stockholm,33340
+15198,Court 2,Stockholm,Sweden,SWE,Europe/Stockholm,33340
+24320,Court 3,Stockholm,Sweden,SWE,Europe/Stockholm,33340
+61435,ShowCourt,Stockholm,Sweden,SWE,Europe/Stockholm,33340
+2481,Centre Court,Kitzbuhel,Austria,AUT,Europe/Vienna,33342
+2483,Grandstand,Kitzbuhel,Austria,AUT,Europe/Vienna,33342
+2485,Court Kuchenmeister,Kitzbuhel,Austria,AUT,Europe/Vienna,33342
+2487,Court 3,Kitzbuhel,Austria,AUT,Europe/Vienna,33342
+14664,Court 2,Kitzbuhel,Austria,AUT,Europe/Vienna,33342
+21964,Kaps,Kitzbuhel,Austria,AUT,Europe/Vienna,33342
+32193,Court Riedel,Kitzbuhel,Austria,AUT,Europe/Vienna,33342
+78887,Court Stadtwerke,Kitzbuhel,Austria,AUT,Europe/Vienna,33342
+30715,Stadion,Halle,Germany,DEU,Europe/Berlin,33346
+14146,Court 1,Nottingham,England,ENG,Europe/London,33348
+14148,Court 3,Nottingham,England,ENG,Europe/London,33348
+14150,Centre Court,Nottingham,England,ENG,Europe/London,33348
+14152,Court 2,Nottingham,England,ENG,Europe/London,33348
+14154,Court 4,Nottingham,England,ENG,Europe/London,33348
+14164,Court 7,Nottingham,England,ENG,Europe/London,33348
+14166,Court 8,Nottingham,England,ENG,Europe/London,33348
+16348,Indoor 2,Nottingham,England,ENG,Europe/London,33348
+16350,Indoor 4,Nottingham,England,ENG,Europe/London,33348
+21572,Court 5,Nottingham,England,ENG,Europe/London,33348
+34214,Court 6,Nottingham,England,ENG,Europe/London,33348
+34230,Court 9,Nottingham,England,ENG,Europe/London,33348
+34298,Indoor 5,Nottingham,England,ENG,Europe/London,33348
+34300,Indoor 6,Nottingham,England,ENG,Europe/London,33348
+39830,Indoor 1,Nottingham,England,ENG,Europe/London,33348
+39846,Trent 1,Nottingham,England,ENG,Europe/London,33348
+39848,Trent 2,Nottingham,England,ENG,Europe/London,33348
+58776,Indoor 3,Nottingham,England,ENG,Europe/London,33348
+1907,Court 1,Bastad,Sweden,SWE,Europe/Stockholm,33350
+1908,Court 2,Bastad,Sweden,SWE,Europe/Stockholm,33350
+1909,Court 3,Bastad,Sweden,SWE,Europe/Stockholm,33350
+8567,Court 4,Bastad,Sweden,SWE,Europe/Stockholm,33350
+8569,Court 5,Bastad,Sweden,SWE,Europe/Stockholm,33350
+21874,Centre Court,Bastad,Sweden,SWE,Europe/Stockholm,33350
+15266,Centre Court,Geneva,Switzerland,CHE,Europe/Zurich,33356
+15268,Court 2,Geneva,Switzerland,CHE,Europe/Zurich,33356
+16169,Court 1,Geneva,Switzerland,CHE,Europe/Zurich,33356
+16171,Court 3,Geneva,Switzerland,CHE,Europe/Zurich,33356
+16173,Court 4,Geneva,Switzerland,CHE,Europe/Zurich,33356
+1873,Centre Court,'s-Hertogenbosch,Netherlands,NLD,Europe/Brussels,33364
+1874,Court 1,'s-Hertogenbosch,Netherlands,NLD,Europe/Brussels,33364
+1875,Court 2,'s-Hertogenbosch,Netherlands,NLD,Europe/Brussels,33364
+1881,Court 3,'s-Hertogenbosch,Netherlands,NLD,Europe/Brussels,33364
+1882,Court 5,'s-Hertogenbosch,Netherlands,NLD,Europe/Brussels,33364
+1883,Court 6,'s-Hertogenbosch,Netherlands,NLD,Europe/Brussels,33364
+1896,Court 4,'s-Hertogenbosch,Netherlands,NLD,Europe/Brussels,33364
+1341,CENTRALA,Bucharest,Romania,ROU,Europe/Bucharest,33366
+1342,SEMI CENTRALA,Bucharest,Romania,ROU,Europe/Bucharest,33366
+1348,COURT 3,Bucharest,Romania,ROU,Europe/Bucharest,33366
+13852,Court 4,Bucharest,Romania,ROU,Europe/Bucharest,33366
+13854,Court 5,Bucharest,Romania,ROU,Europe/Bucharest,33366
+18385,Grandstand,Bucharest,Romania,ROU,Europe/Bucharest,33366
+18387,Court 7,Bucharest,Romania,ROU,Europe/Bucharest,33366
+21852,Court 6,Bucharest,Romania,ROU,Europe/Bucharest,33366
+22784,Court 8,Bucharest,Romania,ROU,Europe/Bucharest,33366
+22948,Court 9,Bucharest,Romania,ROU,Europe/Bucharest,33366
+1773,Center Court,Munich,Germany,DEU,Europe/Berlin,33368
+1774,Court 4,Munich,Germany,DEU,Europe/Berlin,33368
+1775,Court 8,Munich,Germany,DEU,Europe/Berlin,33368
+1776,Court 10,Munich,Germany,DEU,Europe/Berlin,33368
+1789,Court 13,Munich,Germany,DEU,Europe/Berlin,33368
+11735,SZ Court,Munich,Germany,DEU,Europe/Berlin,33368
+13908,Court 3,Munich,Germany,DEU,Europe/Berlin,33368
+16063,Court 1,Munich,Germany,DEU,Europe/Berlin,33368
+16065,Court 2,Munich,Germany,DEU,Europe/Berlin,33368
+1745,Centre,Barcelona,Spain,ESP,Europe/Madrid,33372
+1755,Pista 3,Barcelona,Spain,ESP,Europe/Madrid,33372
+1756,Pista 4,Barcelona,Spain,ESP,Europe/Madrid,33372
+1757,Pista Rafa Nadal,Barcelona,Spain,ESP,Europe/Madrid,33372
+2344,Pista 2,Barcelona,Spain,ESP,Europe/Madrid,33372
+6172,Pista 5,Barcelona,Spain,ESP,Europe/Madrid,33372
+57962,Pista Manolo Santana,Barcelona,Spain,ESP,Europe/Madrid,33372
+60710,Pista Central,Barcelona,Spain,ESP,Europe/Madrid,33372
+60712,Pista 1,Barcelona,Spain,ESP,Europe/Madrid,33372
+63203,Pista Jan Kodes,Barcelona,Spain,ESP,Europe/Madrid,33372
+70759,Pista Andres Gimeno,Barcelona,Spain,ESP,Europe/Madrid,33372
+34160,Centre Court,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+34162,Court 2,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+34164,Court 3,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+34166,Court 9,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+34172,Court 4,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+34174,Youme Town,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+34222,Indoor Court 17,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+34224,Indoor Court 20,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+34226,Indoor Court 18,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+34228,Indoor Court 19,Hiroshima,Japan,JPN,Asia/Tokyo,33374
+18231,Court 13,Lyon,France,FRA,Europe/Paris,33390
+21568,Court Sopra Steria,Lyon,France,FRA,Europe/Paris,33390
+58694,Court 12,Lyon,France,FRA,Europe/Paris,33390
+58712,Court 23,Lyon,France,FRA,Europe/Paris,33390
+18469,Court 1,Chengdu,China,CHN,Asia/Shanghai,33392
+18471,Court 2,Chengdu,China,CHN,Asia/Shanghai,33392
+18473,Court 17,Chengdu,China,CHN,Asia/Shanghai,33392
+18481,Court 16,Chengdu,China,CHN,Asia/Shanghai,33392
+18489,Court 18,Chengdu,China,CHN,Asia/Shanghai,33392
+18733,Stadium Court,Chengdu,China,CHN,Asia/Shanghai,33392
+32187,Court 11,Chengdu,China,CHN,Asia/Shanghai,33392
+32189,Court 12,Chengdu,China,CHN,Asia/Shanghai,33392
+34608,Center Court,Chengdu,China,CHN,Asia/Shanghai,33392
+38279,Swiss Tennis Arena,Biel,Switzerland,CHE,Europe/Zurich,33394
+18003,Indoor 4,Shenzhen,China,CHN,Asia/Shanghai,33408
+19597,Court 6,Shenzhen,China,CHN,Asia/Shanghai,33408
+27813,Court 5,Shenzhen,China,CHN,Asia/Shanghai,33408
+74558,Indoor 7,Shenzhen,China,CHN,Asia/Shanghai,33408
+74560,Indoor 5,Shenzhen,China,CHN,Asia/Shanghai,33408
+74652,Centre Court,Shenzhen,China,CHN,Asia/Shanghai,33408
+9251,Estadio Municipal Coll d en Rebassa,Mallorca,Spain,ESP,Europe/Madrid,33418
+18303,Center Court,Mallorca,Spain,ESP,Europe/Madrid,33418
+18305,Court 1,Mallorca,Spain,ESP,Europe/Madrid,33418
+18307,Court 2,Mallorca,Spain,ESP,Europe/Madrid,33418
+18309,Court 3,Mallorca,Spain,ESP,Europe/Madrid,33418
+21624,Court Central,Mallorca,Spain,ESP,Europe/Madrid,33418
+21626,Pista 3,Mallorca,Spain,ESP,Europe/Madrid,33418
+21628,Pista 2,Mallorca,Spain,ESP,Europe/Madrid,33418
+21630,Pista 1,Mallorca,Spain,ESP,Europe/Madrid,33418
+33802,Court 4,Mallorca,Spain,ESP,Europe/Madrid,33418
+33804,Court 5,Mallorca,Spain,ESP,Europe/Madrid,33418
+45182,Indoor,Mallorca,Spain,ESP,Europe/Madrid,33418
+64279,Grandstand,Mallorca,Spain,ESP,Europe/Madrid,33418
+1771,Center Court,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+1788,Court 2,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+41108,Court 4,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+41110,Court 1,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+41114,Court 3,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+41120,Court 5,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+52393,Court 7,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+52395,Court 8,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+56648,Court 9,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+58524,Practice Court 1,Belgrade,Serbia,SRB,Europe/Belgrade,33426
+18175,Estadio 3,Madrid,Spain,ESP,Europe/Madrid,33436
+28659,Court 16,Madrid,Spain,ESP,Europe/Madrid,33436
+28661,Court 14,Madrid,Spain,ESP,Europe/Madrid,33436
+28671,Court 15,Madrid,Spain,ESP,Europe/Madrid,33436
+30219,Indoor 10,Madrid,Spain,ESP,Europe/Madrid,33436
+30589,Court 11,Madrid,Spain,ESP,Europe/Madrid,33436
+30599,Court 10,Madrid,Spain,ESP,Europe/Madrid,33436
+30615,Court 9,Madrid,Spain,ESP,Europe/Madrid,33436
+39930,Court 18,Madrid,Spain,ESP,Europe/Madrid,33436
+39942,Court 19,Madrid,Spain,ESP,Europe/Madrid,33436
+39946,Court 17,Madrid,Spain,ESP,Europe/Madrid,33436
+40030,Court 13,Madrid,Spain,ESP,Europe/Madrid,33436
+40032,Court 12,Madrid,Spain,ESP,Europe/Madrid,33436
+58736,Court 20,Madrid,Spain,ESP,Europe/Madrid,33436
+1357,Centre Court,Bangkok,Thailand,THA,Asia/Bangkok,33440
+1358,COURT 1,Bangkok,Thailand,THA,Asia/Bangkok,33440
+14788,Court 6,Bangkok,Thailand,THA,Asia/Bangkok,33440
+14790,Court 4,Bangkok,Thailand,THA,Asia/Bangkok,33440
+14792,Court 5,Bangkok,Thailand,THA,Asia/Bangkok,33440
+17522,Court 3,Bangkok,Thailand,THA,Asia/Bangkok,33440
+1915,Center Court,Palermo,Italy,ITA,Europe/Rome,33446
+1916,Court 2,Palermo,Italy,ITA,Europe/Rome,33446
+1917,Court 6,Palermo,Italy,ITA,Europe/Rome,33446
+1918,Court 7,Palermo,Italy,ITA,Europe/Rome,33446
+2422,Court 4,Palermo,Italy,ITA,Europe/Rome,33446
+8323,Court 10,Palermo,Italy,ITA,Europe/Rome,33446
+12005,Court 9,Palermo,Italy,ITA,Europe/Rome,33446
+12045,Court 11,Palermo,Italy,ITA,Europe/Rome,33446
+52597,Court 12,Palermo,Italy,ITA,Europe/Rome,33446
+1930,Centre,Portoroz,Slovenia,SVN,Europe/Ljubljana,33448
+1931,Court 1,Portoroz,Slovenia,SVN,Europe/Ljubljana,33448
+1932,Court 2,Portoroz,Slovenia,SVN,Europe/Ljubljana,33448
+14402,Court D,Portoroz,Slovenia,SVN,Europe/Ljubljana,33448
+14404,Court C,Portoroz,Slovenia,SVN,Europe/Ljubljana,33448
+22362,Court A,Portoroz,Slovenia,SVN,Europe/Ljubljana,33448
+1921,Court 2,Prague,Czechia,CZE,Europe/Prague,33460
+1922,Court 4,Prague,Czechia,CZE,Europe/Prague,33460
+61363,Centre Court,Prague,Czechia,CZE,Europe/Prague,33460
+77739,Court 3,Prague,Czechia,CZE,Europe/Prague,33460
+58730,Court 1,Berlin,Germany,DEU,Europe/Berlin,33468
+58732,Court 2,Berlin,Germany,DEU,Europe/Berlin,33468
+58758,Steffi Graf Stadion,Berlin,Germany,DEU,Europe/Berlin,33468
+59076,Centre Court,Budapest,Hungary,HUN,Europe/Budapest,33472
+59078,Court 1,Budapest,Hungary,HUN,Europe/Budapest,33472
+59080,Grandstand 4,Budapest,Hungary,HUN,Europe/Budapest,33472
+78749,Grand Court,Budapest,Hungary,HUN,Europe/Budapest,33472
+48783,Table 1,Tokyo,Japan,JPN,Asia/Tokyo,33478
+1507,Court 1,Valencia,Spain,ESP,Europe/Madrid,33482
+1511,Pista 1,Valencia,Spain,ESP,Europe/Madrid,33482
+17192,Center Court,Valencia,Spain,ESP,Europe/Madrid,33482
+25858,Pista 3,Valencia,Spain,ESP,Europe/Madrid,33482
+25860,Pista 2,Valencia,Spain,ESP,Europe/Madrid,33482
+25864,Pista 4,Valencia,Spain,ESP,Europe/Madrid,33482
+34646,Court 2,Valencia,Spain,ESP,Europe/Madrid,33482
+34648,Court 4,Valencia,Spain,ESP,Europe/Madrid,33482
+46928,Court 3,Valencia,Spain,ESP,Europe/Madrid,33482
+68101,Court 9,Valencia,Spain,ESP,Europe/Madrid,33482
+68253,Court 7,Valencia,Spain,ESP,Europe/Madrid,33482
+68257,Court 5,Valencia,Spain,ESP,Europe/Madrid,33482
+80329,Pista Pablo Andujar,Valencia,Spain,ESP,Europe/Madrid,33482
+2922,Cancha 2,Vina del Mar,Chile,CHL,America/Santiago,33486
+2936,Cancha 1,Vina del Mar,Chile,CHL,America/Santiago,33486
+35804,Cancha Central,Vina del Mar,Chile,CHL,America/Santiago,33486
+35806,Court 5,Vina del Mar,Chile,CHL,America/Santiago,33486
+1308,Court 4,New York,USA,USA,America/New_York,33808
+1310,Arthur Ashe Stadium,New York,USA,USA,America/New_York,33808
+1311,Court 5,New York,USA,USA,America/New_York,33808
+1312,Court 6,New York,USA,USA,America/New_York,33808
+1313,Court 7,New York,USA,USA,America/New_York,33808
+1314,Court 8,New York,USA,USA,America/New_York,33808
+1315,Court 9,New York,USA,USA,America/New_York,33808
+1316,Court 10,New York,USA,USA,America/New_York,33808
+1317,Court 11,New York,USA,USA,America/New_York,33808
+1318,Court 12,New York,USA,USA,America/New_York,33808
+1319,Court 13,New York,USA,USA,America/New_York,33808
+1320,Court 14,New York,USA,USA,America/New_York,33808
+1321,Court 15,New York,USA,USA,America/New_York,33808
+1322,Court 16,New York,USA,USA,America/New_York,33808
+1323,Stadium 17,New York,USA,USA,America/New_York,33808
+1324,Louis Armstrong Stadium,New York,USA,USA,America/New_York,33808
+1325,Grandstand,New York,USA,USA,America/New_York,33808
+55019,MKG 1,Cologne,Germany,DEU,Europe/Berlin,34586
+55021,MKG 2,Cologne,Germany,DEU,Europe/Berlin,34586
+15190,Stadium Court,Tiburon,USA,USA,America/Los_Angeles,34736
+15192,Court 1,Tiburon,USA,USA,America/Los_Angeles,34736
+15194,Court 4,Tiburon,USA,USA,America/Los_Angeles,34736
+16890,Center Court,Tiburon,USA,USA,America/Los_Angeles,34736
+18735,Court 5,Tiburon,USA,USA,America/Los_Angeles,34736
+23654,Court 2,Tiburon,USA,USA,America/Los_Angeles,34736
+23656,Court 3,Tiburon,USA,USA,America/Los_Angeles,34736
+74388,Kennedy-Grossman,Tiburon,USA,USA,America/Los_Angeles,34736
+80217,Backer Mckenzie,Tiburon,USA,USA,America/Los_Angeles,34736
+57810,Cancha 2,Bogota,Colombia,COL,America/Bogota,34766
+57812,Cancha 3,Bogota,Colombia,COL,America/Bogota,34766
+57814,Cancha 4,Bogota,Colombia,COL,America/Bogota,34766
+22966,Court 6,Almaty,Kazakhstan,KAZ,Asia/Almaty,34812
+22968,Court 3,Almaty,Kazakhstan,KAZ,Asia/Almaty,34812
+22970,Court 5,Almaty,Kazakhstan,KAZ,Asia/Almaty,34812
+22972,Court 4,Almaty,Kazakhstan,KAZ,Asia/Almaty,34812
+23722,Court 2,Almaty,Kazakhstan,KAZ,Asia/Almaty,34812
+24080,Indoor 1,Almaty,Kazakhstan,KAZ,Asia/Almaty,34812
+24082,Indoor 2,Almaty,Kazakhstan,KAZ,Asia/Almaty,34812
+14966,Center Court,Campinas,Brazil,BRA,Brazil/East,34814
+14968,Court 1,Campinas,Brazil,BRA,Brazil/East,34814
+14970,Court 2,Campinas,Brazil,BRA,Brazil/East,34814
+16848,Quadra 3,Campinas,Brazil,BRA,Brazil/East,34814
+18825,Quadra 4,Campinas,Brazil,BRA,Brazil/East,34814
+23942,Quadra Joao Lima,Campinas,Brazil,BRA,Brazil/East,34814
+23944,Court 8,Campinas,Brazil,BRA,Brazil/East,34814
+27597,Court 7,Campinas,Brazil,BRA,Brazil/East,34814
+27605,Court 6,Campinas,Brazil,BRA,Brazil/East,34814
+27611,Quadra 5,Campinas,Brazil,BRA,Brazil/East,34814
+66743,Indoors,Campinas,Brazil,BRA,Brazil/East,34814
+18827,Court 1,Stockton,USA,USA,America/Los_Angeles,34816
+18829,Court 2,Stockton,USA,USA,America/Los_Angeles,34816
+18831,Court 5,Stockton,USA,USA,America/Los_Angeles,34816
+18833,Court 6,Stockton,USA,USA,America/Los_Angeles,34816
+18835,Stadium,Stockton,USA,USA,America/Los_Angeles,34816
+18837,Court 3,Stockton,USA,USA,America/Los_Angeles,34816
+18839,Court 4,Stockton,USA,USA,America/Los_Angeles,34816
+23718,Center Court,Stockton,USA,USA,America/Los_Angeles,34816
+60714,Pista 2,Barcelona,Spain,ESP,Europe/Madrid,35048
+15656,Estadio Central,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+15658,Cancha 1,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+15666,Cancha 2,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+26034,Court 8,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+26036,Cancha 7,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+26046,Court 9,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+26048,Court 10,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+26088,Court 11,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+26210,Court 12,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+26299,Court 5,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+65199,Estadio 4,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+65537,Estadio,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+65539,Estadio Mitur,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+65541,Cancha Avena Americana,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+65599,Cancha 3,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+73087,Estadio 3,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+73089,Estadio Sid,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+79245,Estadio Brugal,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo,35052
+15640,Court 1,Antwerp,Belgium,BEL,Europe/Brussels,35142
+15642,Centre Court,Antwerp,Belgium,BEL,Europe/Brussels,35142
+24316,Court 2,Antwerp,Belgium,BEL,Europe/Brussels,35142
+24318,Court 3,Antwerp,Belgium,BEL,Europe/Brussels,35142
+61255,Center Court,Ismaning,Germany,DEU,Europe/Berlin,35212
+61257,Court 1,Ismaning,Germany,DEU,Europe/Berlin,35212
+23100,Court 7,Calgary,Canada,CAN,America/Edmonton,35214
+23102,Court 6,Calgary,Canada,CAN,America/Edmonton,35214
+23104,Court 9,Calgary,Canada,CAN,America/Edmonton,35214
+23106,Court 8,Calgary,Canada,CAN,America/Edmonton,35214
+30653,Court 5,Calgary,Canada,CAN,America/Edmonton,35214
+35206,National Bank Court,Calgary,Canada,CAN,America/Edmonton,35214
+35208,Court 4,Calgary,Canada,CAN,America/Edmonton,35214
+51499,Grandstand Court,Calgary,Canada,CAN,America/Edmonton,35214
+67609,Rogers Court,Calgary,Canada,CAN,America/Edmonton,35214
+15260,Center Court,Ningbo,China,CHN,Asia/Shanghai,35236
+15262,Court 7,Ningbo,China,CHN,Asia/Shanghai,35236
+15264,Court 8,Ningbo,China,CHN,Asia/Shanghai,35236
+17094,Court 6,Ningbo,China,CHN,Asia/Shanghai,35236
+18934,Indoor 2,Ningbo,China,CHN,Asia/Shanghai,35236
+18936,Indoor 3,Ningbo,China,CHN,Asia/Shanghai,35236
+18940,Indoor 1,Ningbo,China,CHN,Asia/Shanghai,35236
+18950,Indoor 4,Ningbo,China,CHN,Asia/Shanghai,35236
+24326,Court 1,Ningbo,China,CHN,Asia/Shanghai,35236
+24328,Court 2,Ningbo,China,CHN,Asia/Shanghai,35236
+24332,Court 3,Ningbo,China,CHN,Asia/Shanghai,35236
+80661,Indoor court 9,Ningbo,China,CHN,Asia/Shanghai,35236
+998,Estadio Nacional,Lima,Peru,PER,America/Lima,35290
+1008,Estadio Monumental,Lima,Peru,PER,America/Lima,35290
+1203,Estadio Alejandro Villanueva,Lima,Peru,PER,America/Lima,35290
+5170,Estadio Alberto Gallardo,Lima,Peru,PER,America/Lima,35290
+8843,Estadio Universidad San Marcos,Lima,Peru,PER,America/Lima,35290
+10582,Estadio Ivan Elias Moreno,Lima,Peru,PER,America/Lima,35290
+15357,Cancha  3,Lima,Peru,PER,America/Lima,35290
+15954,Estadio Municipal de Chorrillos,Lima,Peru,PER,America/Lima,35290
+26289,Court 4,Lima,Peru,PER,America/Lima,35290
+26293,Cancha 6,Lima,Peru,PER,America/Lima,35290
+26295,Court 7,Lima,Peru,PER,America/Lima,35290
+26297,Cancha 5,Lima,Peru,PER,America/Lima,35290
+26301,Court 8,Lima,Peru,PER,America/Lima,35290
+26333,Court 9,Lima,Peru,PER,America/Lima,35290
+26335,Court 13,Lima,Peru,PER,America/Lima,35290
+26337,Court 11,Lima,Peru,PER,America/Lima,35290
+26339,Court 10,Lima,Peru,PER,America/Lima,35290
+26341,Court 14,Lima,Peru,PER,America/Lima,35290
+35074,Court 16,Lima,Peru,PER,America/Lima,35290
+35076,Court 15,Lima,Peru,PER,America/Lima,35290
+35078,Court 12,Lima,Peru,PER,America/Lima,35290
+35080,Court 17,Lima,Peru,PER,America/Lima,35290
+24856,Court 6,Liuzhou,China,CHN,Asia/Shanghai,35292
+24858,Court 3,Liuzhou,China,CHN,Asia/Shanghai,35292
+24860,Court 4,Liuzhou,China,CHN,Asia/Shanghai,35292
+24862,Center,Liuzhou,China,CHN,Asia/Shanghai,35292
+35376,Indoor Court 1,Liuzhou,China,CHN,Asia/Shanghai,35292
+35378,Indoor Court 2,Liuzhou,China,CHN,Asia/Shanghai,35292
+47508,Court 5,Liuzhou,China,CHN,Asia/Shanghai,35292
+15280,Court 7,Charlottesville,USA,USA,America/New_York,35512
+15282,Court 9,Charlottesville,USA,USA,America/New_York,35512
+18984,Court 10,Charlottesville,USA,USA,America/New_York,35512
+25172,Center Court,Charlottesville,USA,USA,America/New_York,35512
+28852,Court 2,Charlottesville,USA,USA,America/New_York,35512
+28854,Court 1,Charlottesville,USA,USA,America/New_York,35512
+28856,Court 3 Stadium,Charlottesville,USA,USA,America/New_York,35512
+35514,Brenda Meyers Court,Charlottesville,USA,USA,America/New_York,35512
+15331,Cancha Central,Guayaquil,Ecuador,ECU,America/Guayaquil,35516
+18986,Estadio,Guayaquil,Ecuador,ECU,America/Guayaquil,35516
+18988,Cancha Raul Viver,Guayaquil,Ecuador,ECU,America/Guayaquil,35516
+18990,Cancha 1,Guayaquil,Ecuador,ECU,America/Guayaquil,35516
+18992,Cancha 2,Guayaquil,Ecuador,ECU,America/Guayaquil,35516
+56292,Court 10,Guayaquil,Ecuador,ECU,America/Guayaquil,35516
+15292,Central,Mouilleron-le-Captif,France,FRA,Europe/Paris,35642
+15294,Court Annexe,Mouilleron-le-Captif,France,FRA,Europe/Paris,35642
+15361,Cancha Central,Montevideo,Uruguay,URY,America/Montevideo,35644
+15363,Cancha 1,Montevideo,Uruguay,URY,America/Montevideo,35644
+15375,Cancha 2,Montevideo,Uruguay,URY,America/Montevideo,35644
+15387,Cancha 15,Montevideo,Uruguay,URY,America/Montevideo,35644
+15310,Court 2,Knoxville,USA,USA,America/Chicago,35646
+15312,Court 3,Knoxville,USA,USA,America/Chicago,35646
+17298,Court 5,Knoxville,USA,USA,America/Chicago,35646
+25374,Court 1,Knoxville,USA,USA,America/Chicago,35646
+25376,Center Court,Knoxville,USA,USA,America/Chicago,35646
+61463,Stadium,Knoxville,USA,USA,America/Chicago,35646
+15296,Court 1,Limoges,France,FRA,Europe/Paris,35648
+15308,Centre,Limoges,France,FRA,Europe/Paris,35648
+17280,Court 2,Limoges,France,FRA,Europe/Paris,35648
+11168,Noevir Stadium,Kobe,Japan,JPN,Asia/Tokyo,35684
+17282,Center Court,Kobe,Japan,JPN,Asia/Tokyo,35684
+17284,Court F,Kobe,Japan,JPN,Asia/Tokyo,35684
+17286,Court G,Kobe,Japan,JPN,Asia/Tokyo,35684
+17288,Court E,Kobe,Japan,JPN,Asia/Tokyo,35684
+67729,Court C,Kobe,Japan,JPN,Asia/Tokyo,35684
+17078,Center Court,Bangalore,India,IND,Asia/Kolkata,35688
+17080,Court 1,Bangalore,India,IND,Asia/Kolkata,35688
+17084,Court 3,Bangalore,India,IND,Asia/Kolkata,35688
+17875,Sree Kanteerava Stadium,Bangalore,India,IND,Asia/Kolkata,35688
+19691,M.Chinnaswamy Stadium,Bangalore,India,IND,Asia/Kolkata,35688
+25806,Court 2,Bangalore,India,IND,Asia/Kolkata,35688
+33464,KSLTA Signature - Kingfisher Stadium,Bangalore,India,IND,Asia/Kolkata,35688
+74524,Cancha 8,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,35690
+74526,Cancha 7,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,35690
+15341,Court 1,Champaign,USA,USA,America/Chicago,35692
+15343,Court 2,Champaign,USA,USA,America/Chicago,35692
+19098,Court 5,Champaign,USA,USA,America/Chicago,35692
+31915,Court N2,Champaign,USA,USA,America/Chicago,35692
+31917,Court S2,Champaign,USA,USA,America/Chicago,35692
+31919,Court N5,Champaign,USA,USA,America/Chicago,35692
+31921,Court N6,Champaign,USA,USA,America/Chicago,35692
+81019,The Schwartz Court,Champaign,USA,USA,America/Chicago,35692
+81021,The Goldenberg Court,Champaign,USA,USA,America/Chicago,35692
+24206,Court 2,Houston,USA,USA,America/Chicago,35694
+24210,Court 4,Houston,USA,USA,America/Chicago,35694
+24216,Court 10,Houston,USA,USA,America/Chicago,35694
+24394,Court 12,Houston,USA,USA,America/Chicago,35694
+33414,Westside Tennis Club,Houston,USA,USA,America/Chicago,35694
+35910,Indoor 1,Houston,USA,USA,America/Chicago,35694
+35912,Indoor 2,Houston,USA,USA,America/Chicago,35694
+15230,Centre Court,Pune,India,IND,Asia/Kolkata,35870
+15232,Court 1,Pune,India,IND,Asia/Kolkata,35870
+15234,Court 2,Pune,India,IND,Asia/Kolkata,35870
+15244,Court 3,Pune,India,IND,Asia/Kolkata,35870
+15246,Court 4,Pune,India,IND,Asia/Kolkata,35870
+26363,Pune Club Ground,Pune,India,IND,Asia/Kolkata,35870
+36371,Court 5,Pune,India,IND,Asia/Kolkata,35870
+15373,Via Delle Querce,Andria,Italy,ITA,Europe/Rome,35902
+1540,Stadium Court,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+1541,Court 4,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+1542,Court 6,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+1560,Court 1,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+1561,Court 2,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+1562,Court 3,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+1563,Court 5,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+2209,Court 8,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+15477,Grandstand,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+69027,Indoor 1,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+69029,Indoor 3,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+69051,Indoor 2,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+69077,Centre Court,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+81619,Indoor 6,Auckland,New Zealand,NZL,Pacific/Auckland,36493
+1557,Centre Court,Hobart,Australia,AUS,Australia/Tasmania,36495
+1565,COURT 8,Hobart,Australia,AUS,Australia/Tasmania,36495
+26481,West Court,Hobart,Australia,AUS,Australia/Tasmania,36495
+16850,Court 5,Columbus,USA,USA,America/New_York,36497
+23578,Center Court,Columbus,USA,USA,America/New_York,36497
+23580,Court 1,Columbus,USA,USA,America/New_York,36497
+23582,Court 2,Columbus,USA,USA,America/New_York,36497
+23584,Court 3,Columbus,USA,USA,America/New_York,36497
+23586,Court 4,Columbus,USA,USA,America/New_York,36497
+39862,Indoor Court 1,Columbus,USA,USA,America/New_York,36497
+19364,Lotto RLP Centre Court,Koblenz,Germany,DEU,Europe/Berlin,36573
+19366,VR Bank Court 1,Koblenz,Germany,DEU,Europe/Berlin,36573
+26795,Center,Newport Beach,USA,USA,America/Los_Angeles,36783
+26801,Stadium,Newport Beach,USA,USA,America/Los_Angeles,36783
+37065,Court 10,Newport Beach,USA,USA,America/Los_Angeles,36783
+50247,Court 8,Newport Beach,USA,USA,America/Los_Angeles,36783
+50249,Court 8,Newport Beach,USA,USA,America/Los_Angeles,36783
+50251,Court 8,Newport Beach,USA,USA,America/Los_Angeles,36783
+15616,Center Court,Burnie,Australia,AUS,Australia/Tasmania,36785
+15618,Court 4,Burnie,Australia,AUS,Australia/Tasmania,36785
+15628,Court 2,Burnie,Australia,AUS,Australia/Tasmania,36785
+15630,Court 6,Burnie,Australia,AUS,Australia/Tasmania,36785
+19412,Court 1,Burnie,Australia,AUS,Australia/Tasmania,36785
+19414,Court 3,Burnie,Australia,AUS,Australia/Tasmania,36785
+19416,Court 5,Burnie,Australia,AUS,Australia/Tasmania,36785
+19422,Cat Court,Burnie,Australia,AUS,Australia/Tasmania,36785
+35960,West Park Oval,Burnie,Australia,AUS,Australia/Tasmania,36785
+27421,Cancha Central,Punta del Este,Uruguay,URY,America/Montevideo,36787
+27423,Cancha 1,Punta del Este,Uruguay,URY,America/Montevideo,36787
+27425,Cancha 4,Punta del Este,Uruguay,URY,America/Montevideo,36787
+27455,Cancha 2,Punta del Este,Uruguay,URY,America/Montevideo,36787
+36789,Cancha 3,Punta del Este,Uruguay,URY,America/Montevideo,36787
+15186,Central Colette Besson,Rennes,France,FRA,Europe/Paris,37007
+15188,Tennis Club De Bruz,Rennes,France,FRA,Europe/Paris,37007
+16982,Court 5,Rennes,France,FRA,Europe/Paris,37007
+17004,Court 4,Rennes,France,FRA,Europe/Paris,37007
+26739,Tennis Club De Bruz 4,Rennes,France,FRA,Europe/Paris,37007
+26741,Tennis Club De Bruz 5,Rennes,France,FRA,Europe/Paris,37007
+15648,Center Court,Launceston,Australia,AUS,Australia/Tasmania,38041
+15650,Court 4,Launceston,Australia,AUS,Australia/Tasmania,38041
+15652,Court 2,Launceston,Australia,AUS,Australia/Tasmania,38041
+15654,Court 5,Launceston,Australia,AUS,Australia/Tasmania,38041
+15668,Court 3,Launceston,Australia,AUS,Australia/Tasmania,38041
+27033,Court 8,Launceston,Australia,AUS,Australia/Tasmania,38041
+17230,Center Court,Hua Hin,Thailand,THA,Asia/Bangkok,38043
+17232,Court 2,Hua Hin,Thailand,THA,Asia/Bangkok,38043
+17240,Court 5,Hua Hin,Thailand,THA,Asia/Bangkok,38043
+17244,Court 3,Hua Hin,Thailand,THA,Asia/Bangkok,38043
+17296,Court 4,Hua Hin,Thailand,THA,Asia/Bangkok,38043
+25372,Court 1,Hua Hin,Thailand,THA,Asia/Bangkok,38043
+12245,Halle des Sports,Quimper,France,FRA,Europe/Paris,38045
+15810,Court Central,Quimper,France,FRA,Europe/Paris,38045
+15812,Annexe,Quimper,France,FRA,Europe/Paris,38045
+19418,Court 1,Quimper,France,FRA,Europe/Paris,38045
+19420,Court 2,Quimper,France,FRA,Europe/Paris,38045
+38063,Court 2,"Cleveland, OH",USA,USA,America/New_York,38047
+50713,Center Court,"Cleveland, OH",USA,USA,America/New_York,38047
+13366,Court 2,Montpellier,France,FRA,Europe/Paris,38187
+80699,Infinity Arena,Montpellier,France,FRA,Europe/Paris,38187
+15236,Cancha Central,Cordoba,Argentina,ARG,America/Argentina/Cordoba,38189
+29870,Cancha 2,Cordoba,Argentina,ARG,America/Argentina/Cordoba,38189
+29872,Cancha 4,Cordoba,Argentina,ARG,America/Argentina/Cordoba,38189
+29874,Cancha 1,Cordoba,Argentina,ARG,America/Argentina/Cordoba,38189
+29876,Cancha 6,Cordoba,Argentina,ARG,America/Argentina/Cordoba,38189
+29878,Cancha 3,Cordoba,Argentina,ARG,America/Argentina/Cordoba,38189
+2587,Grandstand 1,Dallas,USA,USA,America/Chicago,38191
+2589,Grandstand 2,Dallas,USA,USA,America/Chicago,38191
+15620,Hamilton Family Stadium,Dallas,USA,USA,America/Chicago,38191
+15622,Court 1,Dallas,USA,USA,America/Chicago,38191
+17754,Court 2,Dallas,USA,USA,America/Chicago,38191
+1902,Asboth Jozsef,Budapest,Hungary,HUN,Europe/Budapest,38193
+19515,Kormoczy Court,Budapest,Hungary,HUN,Europe/Budapest,38193
+19517,Temesvari Court,Budapest,Hungary,HUN,Europe/Budapest,38193
+1543,Center Court,Chennai,India,IND,Asia/Kolkata,38195
+1544,Court 1,Chennai,India,IND,Asia/Kolkata,38195
+1545,Court 2,Chennai,India,IND,Asia/Kolkata,38195
+15479,Court 3,Chennai,India,IND,Asia/Kolkata,38195
+15481,Court 4,Chennai,India,IND,Asia/Kolkata,38195
+72017,Cancha Estadio,Medellin,Colombia,COL,America/Bogota,38277
+72019,Cancha 1,Medellin,Colombia,COL,America/Bogota,38277
+72021,Cancha 2,Medellin,Colombia,COL,America/Bogota,38277
+72027,Cancha 3,Medellin,Colombia,COL,America/Bogota,38277
+15738,Tourlaville 2,Cherbourg-Octeville,France,FRA,Europe/Paris,38285
+24146,Center Court,Cherbourg-Octeville,France,FRA,Europe/Paris,38285
+24150,Court 1,Cherbourg-Octeville,France,FRA,Europe/Paris,38285
+24390,Court 2,Cherbourg-Octeville,France,FRA,Europe/Paris,38285
+35056,Court 5,Cherbourg-Octeville,France,FRA,Europe/Paris,38285
+1656,Centre Court,Dubai,United Arab Emirates,ARE,Asia/Dubai,38313
+1657,Court 1,Dubai,United Arab Emirates,ARE,Asia/Dubai,38313
+1658,Court 3,Dubai,United Arab Emirates,ARE,Asia/Dubai,38313
+1667,Court 6,Dubai,United Arab Emirates,ARE,Asia/Dubai,38313
+1668,Court 7,Dubai,United Arab Emirates,ARE,Asia/Dubai,38313
+1674,Court 2,Dubai,United Arab Emirates,ARE,Asia/Dubai,38313
+15686,Estadio,Morelos,Mexico,MEX,America/Mexico_City,38315
+15688,Cancha 3,Morelos,Mexico,MEX,America/Mexico_City,38315
+15708,Cancha 5,Morelos,Mexico,MEX,America/Mexico_City,38315
+15714,Cancha 4,Morelos,Mexico,MEX,America/Mexico_City,38315
+17792,Cancha Central,Morelos,Mexico,MEX,America/Mexico_City,38315
+17794,Cancha 6,Morelos,Mexico,MEX,America/Mexico_City,38315
+19513,Grand Stand,Morelos,Mexico,MEX,America/Mexico_City,38315
+38347,Cancha 1,Morelos,Mexico,MEX,America/Mexico_City,38315
+50909,Cancha 2,Morelos,Mexico,MEX,America/Mexico_City,38315
+1700,Stadium 2,Indian Wells,USA,USA,America/Los_Angeles,38419
+1701,Stadium 3,Indian Wells,USA,USA,America/Los_Angeles,38419
+1702,Stadium 4,Indian Wells,USA,USA,America/Los_Angeles,38419
+1703,Stadium 5,Indian Wells,USA,USA,America/Los_Angeles,38419
+1704,Stadium 6,Indian Wells,USA,USA,America/Los_Angeles,38419
+1705,Stadium 7,Indian Wells,USA,USA,America/Los_Angeles,38419
+1706,Stadium 8,Indian Wells,USA,USA,America/Los_Angeles,38419
+1707,Stadium 9,Indian Wells,USA,USA,America/Los_Angeles,38419
+1708,Stadium 1,Indian Wells,USA,USA,America/Los_Angeles,38419
+11486,Court 13,Indian Wells,USA,USA,America/Los_Angeles,38419
+27427,Court 15,Indian Wells,USA,USA,America/Los_Angeles,38419
+27429,Court 17,Indian Wells,USA,USA,America/Los_Angeles,38419
+27431,Court 18,Indian Wells,USA,USA,America/Los_Angeles,38419
+27435,Court 16,Indian Wells,USA,USA,America/Los_Angeles,38419
+27457,Court 19,Indian Wells,USA,USA,America/Los_Angeles,38419
+38461,Court 20,Indian Wells,USA,USA,America/Los_Angeles,38419
+76001,PC3,Indian Wells,USA,USA,America/Los_Angeles,38419
+76003,PC4,Indian Wells,USA,USA,America/Los_Angeles,38419
+76005,PC5,Indian Wells,USA,USA,America/Los_Angeles,38419
+76043,PC6,Indian Wells,USA,USA,America/Los_Angeles,38419
+76087,PC2,Indian Wells,USA,USA,America/Los_Angeles,38419
+15327,Court 1,Yokohama,Japan,JPN,Asia/Tokyo,38421
+19585,Court 7,Yokohama,Japan,JPN,Asia/Tokyo,38421
+27655,Court 8,Yokohama,Japan,JPN,Asia/Tokyo,38421
+27675,Court 9,Yokohama,Japan,JPN,Asia/Tokyo,38421
+27725,Indoor 6,Yokohama,Japan,JPN,Asia/Tokyo,38421
+27727,Indoor 5,Yokohama,Japan,JPN,Asia/Tokyo,38421
+81171,Court 3,Yokohama,Japan,JPN,Asia/Tokyo,38421
+81173,Court 4,Yokohama,Japan,JPN,Asia/Tokyo,38421
+81289,Indoors 2,Yokohama,Japan,JPN,Asia/Tokyo,38421
+38453,Central,Pau,France,FRA,Europe/Paris,38451
+38455,TC Pau 1,Pau,France,FRA,Europe/Paris,38451
+62265,Court 1,Pau,France,FRA,Europe/Paris,38451
+62267,Court 2,Pau,France,FRA,Europe/Paris,38451
+62269,Court 3,Pau,France,FRA,Europe/Paris,38451
+10390,Stadium,Shenzhen,China,CHN,Asia/Shanghai,38603
+13856,Court 10,Shenzhen,China,CHN,Asia/Shanghai,38603
+13858,Court 3,Shenzhen,China,CHN,Asia/Shanghai,38603
+13860,Court 4,Shenzhen,China,CHN,Asia/Shanghai,38603
+17466,Indoor 1,Shenzhen,China,CHN,Asia/Shanghai,38603
+17468,Indoor 2,Shenzhen,China,CHN,Asia/Shanghai,38603
+18001,Indoor 3,Shenzhen,China,CHN,Asia/Shanghai,38603
+19599,Court 8,Shenzhen,China,CHN,Asia/Shanghai,38603
+27817,Court 7,Shenzhen,China,CHN,Asia/Shanghai,38603
+27821,Court 9,Shenzhen,China,CHN,Asia/Shanghai,38603
+27991,Court 11,Shenzhen,China,CHN,Asia/Shanghai,38603
+38633,Center Court,Phoenix,USA,USA,America/Denver,38631
+38635,Court 3,Phoenix,USA,USA,America/Denver,38631
+38637,Court 2,Phoenix,USA,USA,America/Denver,38631
+38682,Court 4,Phoenix,USA,USA,America/Denver,38631
+62521,Court 1,Phoenix,USA,USA,America/Denver,38631
+1711,Court 1,Miami,USA,USA,America/New_York,38678
+1712,Court 2,Miami,USA,USA,America/New_York,38678
+1713,Court 3,Miami,USA,USA,America/New_York,38678
+1714,Court 4,Miami,USA,USA,America/New_York,38678
+1715,Court 5,Miami,USA,USA,America/New_York,38678
+1716,Court 6,Miami,USA,USA,America/New_York,38678
+1717,Court 7,Miami,USA,USA,America/New_York,38678
+1718,Court 8,Miami,USA,USA,America/New_York,38678
+1719,Court 9,Miami,USA,USA,America/New_York,38678
+1720,Court 10,Miami,USA,USA,America/New_York,38678
+1721,Grandstand,Miami,USA,USA,America/New_York,38678
+1722,Stadium,Miami,USA,USA,America/New_York,38678
+38772,Butch Buchholz,Miami,USA,USA,America/New_York,38678
+16053,Cancha 1,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+17951,Center Court,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+17953,Court 1,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+17955,Court 5,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+17957,Court 2,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+19629,Cancha 2,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+38597,Court 4,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+38601,Court 3,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+61483,Estadio Akron de Tenis,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+62307,Abierto Akron Zapopan,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+66867,Akron Tennis Stadium,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+66869,Grandstand Caliente,Guadalajara,Mexico,MEX,America/Mexico_City,38680
+18037,Campo Estadio,Bogota,Colombia,COL,America/Bogota,38684
+16288,Court 10,Prague,Czechia,CZE,Europe/Prague,38690
+58322,Court 12,Prague,Czechia,CZE,Europe/Prague,38690
+78763,Center Court,Prague,Czechia,CZE,Europe/Prague,38690
+78765,Court 1,Prague,Czechia,CZE,Europe/Prague,38690
+78767,Court 2,Prague,Czechia,CZE,Europe/Prague,38690
+78769,Court 3,Prague,Czechia,CZE,Europe/Prague,38690
+78885,Court 14,Prague,Czechia,CZE,Europe/Prague,38690
+26483,Center Court,An-Ning,China,CHN,Asia/Shanghai,38692
+26485,Court 3,An-Ning,China,CHN,Asia/Shanghai,38692
+26487,Court 2,An-Ning,China,CHN,Asia/Shanghai,38692
+26489,Court 1,An-Ning,China,CHN,Asia/Shanghai,38692
+26631,Court 5,An-Ning,China,CHN,Asia/Shanghai,38692
+29126,Indoor C8,An-Ning,China,CHN,Asia/Shanghai,38692
+29128,Indoor C9,An-Ning,China,CHN,Asia/Shanghai,38692
+32910,Court 9 (indoor),An-Ning,China,CHN,Asia/Shanghai,38692
+32912,Court 7 (indoor),An-Ning,China,CHN,Asia/Shanghai,38692
+32914,Court 8 (indoor),An-Ning,China,CHN,Asia/Shanghai,38692
+32916,Court 10 (indoor),An-Ning,China,CHN,Asia/Shanghai,38692
+33830,Indoor Court 10,An-Ning,China,CHN,Asia/Shanghai,38692
+33832,Indoor Court 7,An-Ning,China,CHN,Asia/Shanghai,38692
+33834,Indoor Court 9,An-Ning,China,CHN,Asia/Shanghai,38692
+33836,Indoor Court 8,An-Ning,China,CHN,Asia/Shanghai,38692
+36421,Court 4,An-Ning,China,CHN,Asia/Shanghai,38692
+36527,Court 8,An-Ning,China,CHN,Asia/Shanghai,38692
+18129,Center Court,Rabat,Morocco,MAR,Africa/Casablanca,38694
+18131,Court 1,Rabat,Morocco,MAR,Africa/Casablanca,38694
+18133,Court 2,Rabat,Morocco,MAR,Africa/Casablanca,38694
+18135,Court 3,Rabat,Morocco,MAR,Africa/Casablanca,38694
+1790,Manolo Santana Stadium,Madrid,Spain,ESP,Europe/Madrid,38698
+1791,Arantxa Sanchez Stadium,Madrid,Spain,ESP,Europe/Madrid,38698
+1792,Stadium 3,Madrid,Spain,ESP,Europe/Madrid,38698
+1794,Court 5,Madrid,Spain,ESP,Europe/Madrid,38698
+1795,Court 6,Madrid,Spain,ESP,Europe/Madrid,38698
+1796,Court 7,Madrid,Spain,ESP,Europe/Madrid,38698
+28665,Court 4,Madrid,Spain,ESP,Europe/Madrid,38698
+30587,Court 8,Madrid,Spain,ESP,Europe/Madrid,38698
+30621,Court 3,Madrid,Spain,ESP,Europe/Madrid,38698
+24202,Court 3,Houston,USA,USA,America/Chicago,38704
+24204,Court 1,Houston,USA,USA,America/Chicago,38704
+24208,Court 5,Houston,USA,USA,America/Chicago,38704
+24212,Court 6,Houston,USA,USA,America/Chicago,38704
+24214,Court 8,Houston,USA,USA,America/Chicago,38704
+24218,Court 9,Houston,USA,USA,America/Chicago,38704
+24220,Court 7,Houston,USA,USA,America/Chicago,38704
+28581,Stadium Court,Houston,USA,USA,America/Chicago,38704
+46458,Indoor 3,Houston,USA,USA,America/Chicago,38704
+46546,Court 13,Houston,USA,USA,America/Chicago,38704
+46548,Court 11,Houston,USA,USA,America/Chicago,38704
+1903,Court 4,Budapest,Hungary,HUN,Europe/Budapest,38712
+1904,Court 5,Budapest,Hungary,HUN,Europe/Budapest,38712
+1905,Court 6,Budapest,Hungary,HUN,Europe/Budapest,38712
+18956,Centre Court,Budapest,Hungary,HUN,Europe/Budapest,38712
+18958,Court 1,Budapest,Hungary,HUN,Europe/Budapest,38712
+19933,Court 2,Budapest,Hungary,HUN,Europe/Budapest,38712
+22802,Court 9,Budapest,Hungary,HUN,Europe/Budapest,38712
+22842,Court 7,Budapest,Hungary,HUN,Europe/Budapest,38712
+30563,Court 8,Budapest,Hungary,HUN,Europe/Budapest,38712
+31329,Court 3,Budapest,Hungary,HUN,Europe/Budapest,38712
+1777,Central,Estoril,Portugal,PRT,Europe/Lisbon,38716
+1778,Centralito,Estoril,Portugal,PRT,Europe/Lisbon,38716
+1779,Court 1,Estoril,Portugal,PRT,Europe/Lisbon,38716
+1780,Court 2,Estoril,Portugal,PRT,Europe/Lisbon,38716
+1781,Court 3,Estoril,Portugal,PRT,Europe/Lisbon,38716
+1782,Court 4,Estoril,Portugal,PRT,Europe/Lisbon,38716
+16067,Estadio Millennium,Estoril,Portugal,PRT,Europe/Lisbon,38716
+18127,Court Cascais,Estoril,Portugal,PRT,Europe/Lisbon,38716
+18143,Court 6,Estoril,Portugal,PRT,Europe/Lisbon,38716
+70599,Court CTE,Estoril,Portugal,PRT,Europe/Lisbon,38716
+1501,Court 1,Lyon,France,FRA,Europe/Paris,38720
+1502,Court Central,Lyon,France,FRA,Europe/Paris,38720
+2338,Plaine de Jeux de Gerland,Lyon,France,FRA,Europe/Paris,38720
+21570,Court 3,Lyon,France,FRA,Europe/Paris,38720
+1913,Enbw Court,Stuttgart,Germany,DEU,Europe/Berlin,38722
+1914,Grandstand,Stuttgart,Germany,DEU,Europe/Berlin,38722
+16271,Mercedes Court,Stuttgart,Germany,DEU,Europe/Berlin,38722
+30915,Center Court,Stuttgart,Germany,DEU,Europe/Berlin,38722
+30917,Match Court 2,Stuttgart,Germany,DEU,Europe/Berlin,38722
+71581,Colosseum,Stuttgart,Germany,DEU,Europe/Berlin,38722
+837,Stade Pierre Mauroy,Lille,France,FRA,Europe/Paris,38732
+28247,Center,Lille,France,FRA,Europe/Paris,38732
+28249,Court 3,Lille,France,FRA,Europe/Paris,38732
+28251,Court 5,Lille,France,FRA,Europe/Paris,38732
+38734,Court 1,Lille,France,FRA,Europe/Paris,38732
+28411,Pista 2,Alicante,Spain,ESP,Europe/Madrid,38882
+28413,Pista 1,Alicante,Spain,ESP,Europe/Madrid,38882
+28415,Pista 6,Alicante,Spain,ESP,Europe/Madrid,38882
+28417,Pista 7,Alicante,Spain,ESP,Europe/Madrid,38882
+74276,Pista Carlos Alcaraz,Alicante,Spain,ESP,Europe/Madrid,38882
+19701,Central,Sophia Antipolis,France,FRA,Europe/Paris,38884
+38906,Court 1,Sophia Antipolis,France,FRA,Europe/Paris,38884
+38908,Court 2,Sophia Antipolis,France,FRA,Europe/Paris,38884
+38984,Indoor 1,Sophia Antipolis,France,FRA,Europe/Paris,38884
+26891,Stadium,Taipei,Chinese Taipei,TPE,Asia/Taipei,38986
+18047,I Bilanciai (C1),Barletta,Italy,ITA,Europe/Rome,38988
+18049,Altitud (C2),Barletta,Italy,ITA,Europe/Rome,38988
+39014,Pista Central,Murcia,Spain,ESP,Europe/Madrid,38990
+39030,Pista 2,Murcia,Spain,ESP,Europe/Madrid,38990
+39032,Pista 3,Murcia,Spain,ESP,Europe/Madrid,38990
+1673,Cancha 4,Bogota,Colombia,COL,America/Bogota,39000
+18039,Campo 1,Bogota,Colombia,COL,America/Bogota,39000
+18041,Campo 2,Bogota,Colombia,COL,America/Bogota,39000
+18063,Campo 5,Bogota,Colombia,COL,America/Bogota,39000
+28501,Campo 3,Bogota,Colombia,COL,America/Bogota,39000
+57808,Cancha Central,Bogota,Colombia,COL,America/Bogota,39000
+61096,Campo Directv,Bogota,Colombia,COL,America/Bogota,39000
+61098,Grandstand,Bogota,Colombia,COL,America/Bogota,39000
+16040,James T. Driscoll,Sarasota,USA,USA,America/New_York,39093
+16042,Pnc,Sarasota,USA,USA,America/New_York,39093
+17590,Ed Smith Stadium,Sarasota,USA,USA,America/New_York,39093
+13834,Cancha 8,San Luis de Potosi,Mexico,MEX,America/Mexico_City,39095
+13836,Cancha Central,San Luis de Potosi,Mexico,MEX,America/Mexico_City,39095
+13842,Cancha 4,San Luis de Potosi,Mexico,MEX,America/Mexico_City,39095
+13844,Cancha 3,San Luis de Potosi,Mexico,MEX,America/Mexico_City,39095
+15974,Estadio,San Luis de Potosi,Mexico,MEX,America/Mexico_City,39095
+62949,Estadio BMW,San Luis de Potosi,Mexico,MEX,America/Mexico_City,39095
+77215,Cancha 7,San Luis de Potosi,Mexico,MEX,America/Mexico_City,39095
+13894,Court Central,Tunis,Tunisia,TUN,Africa/Tunis,39097
+13896,Court 1,Tunis,Tunisia,TUN,Africa/Tunis,39097
+13910,Court 5,Tunis,Tunisia,TUN,Africa/Tunis,39097
+28495,Court 7,Tunis,Tunisia,TUN,Africa/Tunis,39097
+28499,Court 9,Tunis,Tunisia,TUN,Africa/Tunis,39097
+71095,Court Aziz Zouhir,Tunis,Tunisia,TUN,Africa/Tunis,39097
+71123,Court 6,Tunis,Tunisia,TUN,Africa/Tunis,39097
+15321,Court 3,Helsinki,Finland,FIN,Europe/Helsinki,39167
+15353,Court 9,Helsinki,Finland,FIN,Europe/Helsinki,39167
+22564,Court 8,Helsinki,Finland,FIN,Europe/Helsinki,39167
+25654,Court 4,Helsinki,Finland,FIN,Europe/Helsinki,39167
+25656,Court 1,Helsinki,Finland,FIN,Europe/Helsinki,39167
+32872,Court 7,Helsinki,Finland,FIN,Europe/Helsinki,39167
+32874,Court 6,Helsinki,Finland,FIN,Europe/Helsinki,39167
+18033,Center Court,Gwangju,Republic of Korea,KOR,Asia/Seoul,39377
+18035,Show Court,Gwangju,Republic of Korea,KOR,Asia/Seoul,39377
+18059,Court 1,Gwangju,Republic of Korea,KOR,Asia/Seoul,39377
+18061,Court 3,Gwangju,Republic of Korea,KOR,Asia/Seoul,39377
+39405,Court 2,Gwangju,Republic of Korea,KOR,Asia/Seoul,39377
+66485,Court 4,Gwangju,Republic of Korea,KOR,Asia/Seoul,39377
+70983,Indoor 2,Gwangju,Republic of Korea,KOR,Asia/Seoul,39377
+70985,Indoor 4,Gwangju,Republic of Korea,KOR,Asia/Seoul,39377
+77415,Court 8,Gwangju,Republic of Korea,KOR,Asia/Seoul,39377
+14030,Center Court,Samarkand,Uzbekistan,UZB,Asia/Tashkent,39379
+14032,Court 1,Samarkand,Uzbekistan,UZB,Asia/Tashkent,39379
+14034,Court 2,Samarkand,Uzbekistan,UZB,Asia/Tashkent,39379
+14036,Court 3,Samarkand,Uzbekistan,UZB,Asia/Tashkent,39379
+14038,Court 4,Samarkand,Uzbekistan,UZB,Asia/Tashkent,39379
+14024,Hortkorn Court,Heilbronn,Germany,DEU,Europe/Berlin,39381
+14026,Court 1,Heilbronn,Germany,DEU,Europe/Berlin,39381
+14028,Court 2,Heilbronn,Germany,DEU,Europe/Berlin,39381
+14064,Court 3,Heilbronn,Germany,DEU,Europe/Berlin,39381
+16157,Court 7,Heilbronn,Germany,DEU,Europe/Berlin,39381
+22738,Stauwehrhalle,Heilbronn,Germany,DEU,Europe/Berlin,39381
+29526,Court 4,Heilbronn,Germany,DEU,Europe/Berlin,39381
+21560,Estadio CIF,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+21562,Court Lisboa,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+21564,Court Belem,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+21566,Court 5,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+23888,Court 7,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+23892,Court Central,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+23894,Court 9,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+23902,Court 8,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+28353,Court 6,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+39385,Center Court,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+39387,Court 1,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+39389,Court 2,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+39391,Court 3,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+39393,Court 4,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+80153,Indoor 1,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+80155,Indoor 2,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+80157,Indoor 3,Lisbon,Portugal,PRT,Europe/Lisbon,39383
+52459,Court 1,London,England,ENG,Europe/London,39491
+52463,Court 5,London,England,ENG,Europe/London,39491
+64161,Court 3,London,England,ENG,Europe/London,39491
+64163,Centre Court,London,England,ENG,Europe/London,39491
+65683,Court 2,London,England,ENG,Europe/London,39491
+65685,Court 7,London,England,ENG,Europe/London,39491
+71749,Court 4,London,England,ENG,Europe/London,39491
+71751,Court 6,London,England,ENG,Europe/London,39491
+71753,Court 8,London,England,ENG,Europe/London,39491
+71755,Court 9,London,England,ENG,Europe/London,39491
+71757,Court 10,London,England,ENG,Europe/London,39491
+21712,Alaaddin Karagoz,Antalya,Turkiye,TUR,Europe/Istanbul,39493
+21714,Duygu Aksit Oal,Antalya,Turkiye,TUR,Europe/Istanbul,39493
+1956,Stadium,"Washington, D.C.",USA,USA,America/New_York,39503
+1957,John Harris Court,"Washington, D.C.",USA,USA,America/New_York,39503
+1958,Match Court 1,"Washington, D.C.",USA,USA,America/New_York,39503
+1962,Match Court 2,"Washington, D.C.",USA,USA,America/New_York,39503
+2455,Centre Court,"Washington, D.C.",USA,USA,America/New_York,39503
+2463,Court 3,"Washington, D.C.",USA,USA,America/New_York,39503
+8839,Grandstand,"Washington, D.C.",USA,USA,America/New_York,39503
+43936,Court 4,"Washington, D.C.",USA,USA,America/New_York,39503
+43938,Court 5,"Washington, D.C.",USA,USA,America/New_York,39503
+18533,P 1,Los Cabos,Mexico,MEX,America/Mexico_City,39505
+18547,Stadium,Los Cabos,Mexico,MEX,America/Mexico_City,39505
+21950,Center Court,Los Cabos,Mexico,MEX,America/Mexico_City,39505
+22188,P2,Los Cabos,Mexico,MEX,America/Mexico_City,39505
+32315,Estadio Pegaso,Los Cabos,Mexico,MEX,America/Mexico_City,39505
+42898,Centre Court,Lausanne,Switzerland,CHE,Europe/Zurich,39507
+42900,Court 1,Lausanne,Switzerland,CHE,Europe/Zurich,39507
+42902,Court 2,Lausanne,Switzerland,CHE,Europe/Zurich,39507
+22692,Court 2,Karlsruhe,Germany,DEU,Europe/Berlin,39511
+22696,Court 5,Karlsruhe,Germany,DEU,Europe/Berlin,39511
+22700,Court 8,Karlsruhe,Germany,DEU,Europe/Berlin,39511
+22706,Court 9,Karlsruhe,Germany,DEU,Europe/Berlin,39511
+22712,Court 6,Karlsruhe,Germany,DEU,Europe/Berlin,39511
+32942,Court 3,Karlsruhe,Germany,DEU,Europe/Berlin,39511
+43968,Centre Court,Karlsruhe,Germany,DEU,Europe/Berlin,39511
+43982,Court 1,Karlsruhe,Germany,DEU,Europe/Berlin,39511
+78561,Court 2,Karlsruhe,Germany,DEU,Europe/Berlin,39511
+1649,Center Court,San Jose,USA,USA,America/Los_Angeles,39513
+1650,Courtside Club 16,San Jose,USA,USA,America/Los_Angeles,39513
+32237,Stadium,San Jose,USA,USA,America/Los_Angeles,39513
+32239,Court 1,San Jose,USA,USA,America/Los_Angeles,39513
+65217,Court 2,San Jose,USA,USA,America/Los_Angeles,39513
+65219,Court 3,San Jose,USA,USA,America/Los_Angeles,39513
+1999,Court Rogers,Montreal,Canada,CAN,America/Toronto,39515
+2001,Court 9,Montreal,Canada,CAN,America/Toronto,39515
+2002,Court 5,Montreal,Canada,CAN,America/Toronto,39515
+2003,Court 2,Montreal,Canada,CAN,America/Toronto,39515
+2004,Court 10,Montreal,Canada,CAN,America/Toronto,39515
+2005,Court 6,Montreal,Canada,CAN,America/Toronto,39515
+2006,Court 7,Montreal,Canada,CAN,America/Toronto,39515
+2028,Court Central,Montreal,Canada,CAN,America/Toronto,39515
+14088,Center Court,Vicenza,Italy,ITA,Europe/Rome,39591
+14090,Court 1,Vicenza,Italy,ITA,Europe/Rome,39591
+14092,Court 2,Vicenza,Italy,ITA,Europe/Rome,39591
+14094,Court 5,Vicenza,Italy,ITA,Europe/Rome,39591
+78031,Court 4,Vicenza,Italy,ITA,Europe/Rome,39591
+78099,Court 3,Vicenza,Italy,ITA,Europe/Rome,39591
+78115,Indoor,Vicenza,Italy,ITA,Europe/Rome,39591
+78117,Indoor 6,Vicenza,Italy,ITA,Europe/Rome,39591
+30217,Indoor 12,Madrid,Spain,ESP,Europe/Madrid,39852
+30221,Indoor 11,Madrid,Spain,ESP,Europe/Madrid,39852
+70693,Pista Central,Madrid,Spain,ESP,Europe/Madrid,39852
+70695,Pista 2,Madrid,Spain,ESP,Europe/Madrid,39852
+70697,Pista 3,Madrid,Spain,ESP,Europe/Madrid,39852
+5098,Fargona Stadium,Fergana,Uzbekistan,UZB,Asia/Tashkent,39864
+14176,Centre Court,Fergana,Uzbekistan,UZB,Asia/Tashkent,39864
+14178,Court 2,Fergana,Uzbekistan,UZB,Asia/Tashkent,39864
+14190,Court 1,Fergana,Uzbekistan,UZB,Asia/Tashkent,39864
+14192,Court 4,Fergana,Uzbekistan,UZB,Asia/Tashkent,39864
+14194,Court 5,Fergana,Uzbekistan,UZB,Asia/Tashkent,39864
+18319,Court 6,Fergana,Uzbekistan,UZB,Asia/Tashkent,39864
+30675,Court 7,Fergana,Uzbekistan,UZB,Asia/Tashkent,39864
+14184,Central,Blois,France,FRA,Europe/Paris,39866
+14186,Court 1,Blois,France,FRA,Europe/Paris,39866
+14212,Court 2,Blois,France,FRA,Europe/Paris,39866
+18315,Indoor 2,Blois,France,FRA,Europe/Paris,39866
+18317,Indoor 3,Blois,France,FRA,Europe/Paris,39866
+30637,Center Court,Blois,France,FRA,Europe/Paris,39866
+71957,Court 3,Blois,France,FRA,Europe/Paris,39866
+78379,Indoor 1,Blois,France,FRA,Europe/Paris,39866
+78385,Indoor 3,Blois,France,FRA,Europe/Paris,39866
+78387,Indoor 4,Blois,France,FRA,Europe/Paris,39866
+78389,Indoor 5,Blois,France,FRA,Europe/Paris,39866
+39912,Center Court,Parma,Italy,ITA,Europe/Rome,39868
+39914,Grand Stand,Parma,Italy,ITA,Europe/Rome,39868
+54435,Court 1,Parma,Italy,ITA,Europe/Rome,39868
+77901,Court 2,Parma,Italy,ITA,Europe/Rome,39868
+16324,Court 2,Ilkley,England,ENG,Europe/London,39870
+16330,Centre Court,Ilkley,England,ENG,Europe/London,39870
+16332,Court 1,Ilkley,England,ENG,Europe/London,39870
+16334,Court 6,Ilkley,England,ENG,Europe/London,39870
+16338,Court 4,Ilkley,England,ENG,Europe/London,39870
+16340,Court 5,Ilkley,England,ENG,Europe/London,39870
+16342,Court 7,Ilkley,England,ENG,Europe/London,39870
+18301,Court 3,Ilkley,England,ENG,Europe/London,39870
+40092,Indoor Court 5,Ilkley,England,ENG,Europe/London,39870
+71919,Indoor Court 4,Ilkley,England,ENG,Europe/London,39870
+71921,Indoor Court 1,Ilkley,England,ENG,Europe/London,39870
+71935,Indoor Court 4,Ilkley,England,ENG,Europe/London,39870
+15300,Centre Court,Bratislava,Slovakia,SVK,Europe/Bratislava,39872
+15302,Court 3,Bratislava,Slovakia,SVK,Europe/Bratislava,39872
+17278,Court 2,Bratislava,Slovakia,SVK,Europe/Bratislava,39872
+22388,Court 8,Bratislava,Slovakia,SVK,Europe/Bratislava,39872
+22410,Court 7,Bratislava,Slovakia,SVK,Europe/Bratislava,39872
+22422,Court 5,Bratislava,Slovakia,SVK,Europe/Bratislava,39872
+22490,Court 9,Bratislava,Slovakia,SVK,Europe/Bratislava,39872
+32633,Court 10,Bratislava,Slovakia,SVK,Europe/Bratislava,39872
+14242,Grandstand,Milan,Italy,ITA,Europe/Rome,40110
+14244,Court 13,Milan,Italy,ITA,Europe/Rome,40110
+25582,Center Court,Milan,Italy,ITA,Europe/Rome,40110
+78477,Court 10,Milan,Italy,ITA,Europe/Rome,40110
+78499,Court 14,Milan,Italy,ITA,Europe/Rome,40110
+78527,Court 16,Milan,Italy,ITA,Europe/Rome,40110
+78551,Court 15,Milan,Italy,ITA,Europe/Rome,40110
+14520,Centrale,Recanati,Italy,ITA,Europe/Rome,40788
+14522,Grandstand,Recanati,Italy,ITA,Europe/Rome,40788
+40790,Court 1,Recanati,Italy,ITA,Europe/Rome,40788
+40792,Court 2,Recanati,Italy,ITA,Europe/Rome,40788
+2053,Court 18,New York,USA,USA,America/New_York,44124
+18587,Court P6,New York,USA,USA,America/New_York,44124
+34242,Indoor 12,New York,USA,USA,America/New_York,44124
+34248,Indoor 5,New York,USA,USA,America/New_York,44124
+34250,Indoor 3,New York,USA,USA,America/New_York,44124
+65861,Stadium Court 1,New York,USA,USA,America/New_York,44124
+65863,Stadium Court 2,New York,USA,USA,America/New_York,44124
+65865,Court 3,New York,USA,USA,America/New_York,44124
+65867,Court 5,New York,USA,USA,America/New_York,44124
+65869,Court 7,New York,USA,USA,America/New_York,44124
+65871,Court 8,New York,USA,USA,America/New_York,44124
+65873,Court 10,New York,USA,USA,America/New_York,44124
+65875,Court 12,New York,USA,USA,America/New_York,44124
+65877,Court 1,New York,USA,USA,America/New_York,44124
+65879,Court 6,New York,USA,USA,America/New_York,44124
+14258,Central Court,Nanchang,China,CHN,Asia/Shanghai,44126
+14260,Court 1,Nanchang,China,CHN,Asia/Shanghai,44126
+14262,Court 2,Nanchang,China,CHN,Asia/Shanghai,44126
+14278,Court 3,Nanchang,China,CHN,Asia/Shanghai,44126
+16808,Court 8,Nanchang,China,CHN,Asia/Shanghai,44126
+16810,Court 7,Nanchang,China,CHN,Asia/Shanghai,44126
+16812,Court 6,Nanchang,China,CHN,Asia/Shanghai,44126
+18665,Court 12,Nanchang,China,CHN,Asia/Shanghai,44126
+18667,Court 11,Nanchang,China,CHN,Asia/Shanghai,44126
+18683,Indoor 3,Nanchang,China,CHN,Asia/Shanghai,44126
+38443,CC,Nanchang,China,CHN,Asia/Shanghai,44126
+19897,Centre Court,Zhengzhou,China,CHN,Asia/Shanghai,44128
+19903,Court 3,Zhengzhou,China,CHN,Asia/Shanghai,44128
+19909,Indoor 2,Zhengzhou,China,CHN,Asia/Shanghai,44128
+19911,Indoor 3,Zhengzhou,China,CHN,Asia/Shanghai,44128
+19913,Indoor 4,Zhengzhou,China,CHN,Asia/Shanghai,44128
+28705,Court 10,Zhengzhou,China,CHN,Asia/Shanghai,44128
+28707,Court 9,Zhengzhou,China,CHN,Asia/Shanghai,44128
+28709,Court 11,Zhengzhou,China,CHN,Asia/Shanghai,44128
+28711,Court 12,Zhengzhou,China,CHN,Asia/Shanghai,44128
+1339,Court Central,Metz,France,FRA,Europe/Paris,44130
+1340,Court 1,Metz,France,FRA,Europe/Paris,44130
+2088,Court 3,Metz,France,FRA,Europe/Paris,44130
+18705,Court Patrice Dominguez,Metz,France,FRA,Europe/Paris,44130
+44132,Court 2,Metz,France,FRA,Europe/Paris,44130
+1354,Court 1,Tokyo,Japan,JPN,Asia/Tokyo,44516
+1355,Court 2,Tokyo,Japan,JPN,Asia/Tokyo,44516
+1356,Center Court,Tokyo,Japan,JPN,Asia/Tokyo,44516
+1361,Court 3,Tokyo,Japan,JPN,Asia/Tokyo,44516
+1362,Court 4,Tokyo,Japan,JPN,Asia/Tokyo,44516
+2110,Court 8,Tokyo,Japan,JPN,Asia/Tokyo,44516
+13180,Court 9,Tokyo,Japan,JPN,Asia/Tokyo,44516
+18685,Colosseum,Tokyo,Japan,JPN,Asia/Tokyo,44516
+18727,Indoor 1,Tokyo,Japan,JPN,Asia/Tokyo,44516
+18729,Indoor 3,Tokyo,Japan,JPN,Asia/Tokyo,44516
+23540,Indoor Stadium,Tokyo,Japan,JPN,Asia/Tokyo,44516
+47006,Rakuten Mobile Arena,Tokyo,Japan,JPN,Asia/Tokyo,44516
+48799,Court 5,Tokyo,Japan,JPN,Asia/Tokyo,44516
+59338,Court 6,Tokyo,Japan,JPN,Asia/Tokyo,44516
+59340,Court 7,Tokyo,Japan,JPN,Asia/Tokyo,44516
+59342,Court 10,Tokyo,Japan,JPN,Asia/Tokyo,44516
+59344,Court 11,Tokyo,Japan,JPN,Asia/Tokyo,44516
+66043,Show Court,Tokyo,Japan,JPN,Asia/Tokyo,44516
+66089,Indoor Court 5,Tokyo,Japan,JPN,Asia/Tokyo,44516
+74612,Kinoshita Group Arena,Tokyo,Japan,JPN,Asia/Tokyo,44516
+80733,Indoor 6,Tokyo,Japan,JPN,Asia/Tokyo,44516
+1119,Shanghai Stadium,Shanghai,China,CHN,Asia/Shanghai,44518
+1374,Grandstand,Shanghai,China,CHN,Asia/Shanghai,44518
+1376,Court 4,Shanghai,China,CHN,Asia/Shanghai,44518
+1377,Court 5,Shanghai,China,CHN,Asia/Shanghai,44518
+1378,Stadium Court,Shanghai,China,CHN,Asia/Shanghai,44518
+2111,Centre Court,Shanghai,China,CHN,Asia/Shanghai,44518
+2113,Court 6,Shanghai,China,CHN,Asia/Shanghai,44518
+2709,Show Court,Shanghai,China,CHN,Asia/Shanghai,44518
+9573,Court 7,Shanghai,China,CHN,Asia/Shanghai,44518
+13196,Court A,Shanghai,China,CHN,Asia/Shanghai,44518
+13198,Court B,Shanghai,China,CHN,Asia/Shanghai,44518
+13200,Court C,Shanghai,China,CHN,Asia/Shanghai,44518
+18631,Court 1,Shanghai,China,CHN,Asia/Shanghai,44518
+18633,Court 2,Shanghai,China,CHN,Asia/Shanghai,44518
+18635,Court 3,Shanghai,China,CHN,Asia/Shanghai,44518
+23518,Indoor East,Shanghai,China,CHN,Asia/Shanghai,44518
+24398,Indoor 3,Shanghai,China,CHN,Asia/Shanghai,44518
+35072,Show Court 3,Shanghai,China,CHN,Asia/Shanghai,44518
+47156,Grandstand 2,Shanghai,China,CHN,Asia/Shanghai,44518
+80369,Indoor A1,Shanghai,China,CHN,Asia/Shanghai,44518
+80371,Indoor A3,Shanghai,China,CHN,Asia/Shanghai,44518
+1349,Center Court,Seoul,Republic of Korea,KOR,Asia/Seoul,44520
+1350,Court 2,Seoul,Republic of Korea,KOR,Asia/Seoul,44520
+1351,Court 13,Seoul,Republic of Korea,KOR,Asia/Seoul,44520
+9485,Court 12,Seoul,Republic of Korea,KOR,Asia/Seoul,44520
+1344,CENTRE,Tashkent,Uzbekistan,UZB,Asia/Tashkent,44522
+1345,COURT 3,Tashkent,Uzbekistan,UZB,Asia/Tashkent,44522
+1346,COURT 4,Tashkent,Uzbekistan,UZB,Asia/Tashkent,44522
+1347,COURT 5,Tashkent,Uzbekistan,UZB,Asia/Tashkent,44522
+2084,Court 1,Tashkent,Uzbekistan,UZB,Asia/Tashkent,44522
+2085,Court 2,Tashkent,Uzbekistan,UZB,Asia/Tashkent,44522
+14766,Campo Centrale,Cordenons,Italy,ITA,Europe/Rome,44640
+14768,Campo 11,Cordenons,Italy,ITA,Europe/Rome,44640
+14770,Campo 12,Cordenons,Italy,ITA,Europe/Rome,44640
+14780,Campo 13,Cordenons,Italy,ITA,Europe/Rome,44640
+14782,Campo 14,Cordenons,Italy,ITA,Europe/Rome,44640
+26283,Court 6,Cordenons,Italy,ITA,Europe/Rome,44640
+26285,Court 7,Cordenons,Italy,ITA,Europe/Rome,44640
+26287,Court 8,Cordenons,Italy,ITA,Europe/Rome,44640
+35650,Centre Court,Cordenons,Italy,ITA,Europe/Rome,44640
+44300,Serena Wines 1881,Cordenons,Italy,ITA,Europe/Rome,44640
+44318,Acqua Maniva,Cordenons,Italy,ITA,Europe/Rome,44640
+44638,CT Dolomia Serena,Cordenons,Italy,ITA,Europe/Rome,44640
+53231,Court 13,Cordenons,Italy,ITA,Europe/Rome,44640
+65341,Court 12,Cordenons,Italy,ITA,Europe/Rome,44640
+72873,Serena Maniva Centre,Cordenons,Italy,ITA,Europe/Rome,44640
+1364,Center,Beijing,China,CHN,Asia/Shanghai,46526
+1365,Court 1,Beijing,China,CHN,Asia/Shanghai,46526
+1366,Court 4,Beijing,China,CHN,Asia/Shanghai,46526
+1367,Court 5,Beijing,China,CHN,Asia/Shanghai,46526
+1368,Court 7,Beijing,China,CHN,Asia/Shanghai,46526
+1369,Court 8,Beijing,China,CHN,Asia/Shanghai,46526
+1370,Court 9,Beijing,China,CHN,Asia/Shanghai,46526
+1371,Court 2,Beijing,China,CHN,Asia/Shanghai,46526
+2102,Lotus,Beijing,China,CHN,Asia/Shanghai,46526
+2103,Moon,Beijing,China,CHN,Asia/Shanghai,46526
+2104,Court 3,Beijing,China,CHN,Asia/Shanghai,46526
+9523,Court 6,Beijing,China,CHN,Asia/Shanghai,46526
+15152,Brad Drewett,Beijing,China,CHN,Asia/Shanghai,46526
+33578,Capital Group Diamond,Beijing,China,CHN,Asia/Shanghai,46526
+3108,Stade de la Source,Orleans,France,FRA,Europe/Paris,46550
+15012,La Foret 4,Orleans,France,FRA,Europe/Paris,46550
+15054,La Foret 1,Orleans,France,FRA,Europe/Paris,46550
+34868,Grandstand,Florence,Italy,ITA,Europe/Rome,46552
+1385,Centre Court,Linz,Austria,AUT,Europe/Vienna,47140
+1386,Match Court 1,Linz,Austria,AUT,Europe/Vienna,47140
+24048,Court 2,Linz,Austria,AUT,Europe/Vienna,47140
+24050,Court 3,Linz,Austria,AUT,Europe/Vienna,47140
+35086,Show Court,Linz,Austria,AUT,Europe/Vienna,47140
+16996,Stadium Court,Fairfield,USA,USA,America/New_York,47146
+16998,Court 1,Fairfield,USA,USA,America/New_York,47146
+18868,Eve Zimmerman Court,Fairfield,USA,USA,America/New_York,47146
+18870,Court 6,Fairfield,USA,USA,America/New_York,47146
+18872,Court 7,Fairfield,USA,USA,America/New_York,47146
+20225,Alumni Hall,Fairfield,USA,USA,America/New_York,47146
+20749,Campus Field,Fairfield,USA,USA,America/New_York,47146
+24062,Court 2,Fairfield,USA,USA,America/New_York,47146
+24064,Court 4,Fairfield,USA,USA,America/New_York,47146
+24066,Court 5,Fairfield,USA,USA,America/New_York,47146
+66689,Cammisa Court,Fairfield,USA,USA,America/New_York,47146
+66693,Kennedy-Grossman Court,Fairfield,USA,USA,America/New_York,47146
+74536,Tad Taube Court,Fairfield,USA,USA,America/New_York,47146
+949,Luzhniki Stadium,Moscow,Russia,RUS,Europe/Moscow,47302
+24334,Center Court,Ismaning,Germany,DEU,Europe/Berlin,47306
+24336,Court 1,Ismaning,Germany,DEU,Europe/Berlin,47306
+24338,Court 2,Ismaning,Germany,DEU,Europe/Berlin,47306
+24340,Court 3,Ismaning,Germany,DEU,Europe/Berlin,47306
+24342,Court 4,Ismaning,Germany,DEU,Europe/Berlin,47306
+26349,Court 3,Playford City,Australia,AUS,Australia/Adelaide,47815
+26351,Court 4,Playford City,Australia,AUS,Australia/Adelaide,47815
+26353,Court 5,Playford City,Australia,AUS,Australia/Adelaide,47815
+15270,Center Court,Eckental,Germany,DEU,Europe/Berlin,47817
+15272,Court 1,Eckental,Germany,DEU,Europe/Berlin,47817
+25170,Court 2,Eckental,Germany,DEU,Europe/Berlin,47817
+15349,Court 2,Guayaquil,Ecuador,ECU,America/Guayaquil,47819
+26252,Court 3,Guayaquil,Ecuador,ECU,America/Guayaquil,47819
+26258,Court 4,Guayaquil,Ecuador,ECU,America/Guayaquil,47819
+39107,Court 5,Guayaquil,Ecuador,ECU,America/Guayaquil,47819
+39109,Court 6,Guayaquil,Ecuador,ECU,America/Guayaquil,47819
+44702,Cancha 3,Guayaquil,Ecuador,ECU,America/Guayaquil,47819
+14240,Centre Court,Milan,Italy,ITA,Europe/Rome,47893
+21760,Court 14,Milan,Italy,ITA,Europe/Rome,47893
+25368,Court 1,Milan,Italy,ITA,Europe/Rome,47893
+25370,Court 2,Milan,Italy,ITA,Europe/Rome,47893
+30841,Court 15,Milan,Italy,ITA,Europe/Rome,47893
+48601,Allianz Cloud Court,Milan,Italy,ITA,Europe/Rome,47893
+48953,Court 5,Maia,Portugal,PRT,Europe/Lisbon,48857
+48955,Center Court,Maia,Portugal,PRT,Europe/Lisbon,48857
+48957,Court 4,Maia,Portugal,PRT,Europe/Lisbon,48857
+19144,Center Court,Honolulu,USA,USA,Pacific/Honolulu,49319
+19146,Court 1,Honolulu,USA,USA,Pacific/Honolulu,49319
+19150,Court 6,Honolulu,USA,USA,Pacific/Honolulu,49319
+25802,Court 2,Honolulu,USA,USA,Pacific/Honolulu,49319
+25804,Court 3,Honolulu,USA,USA,Pacific/Honolulu,49319
+25958,Court 4,Honolulu,USA,USA,Pacific/Honolulu,49319
+31399,Court 5,Honolulu,USA,USA,Pacific/Honolulu,49319
+31401,Stadium,Honolulu,USA,USA,Pacific/Honolulu,49319
+31403,Court 10,Honolulu,USA,USA,Pacific/Honolulu,49319
+42104,Court 9,Honolulu,USA,USA,Pacific/Honolulu,49319
+25342,Court 3,Canberra,Australia,AUS,Australia/ACT,49633
+25344,Court 1,Canberra,Australia,AUS,Australia/ACT,49633
+28099,Court 13,Canberra,Australia,AUS,Australia/ACT,49633
+28115,Court 11,Canberra,Australia,AUS,Australia/ACT,49633
+28117,Court 10,Canberra,Australia,AUS,Australia/ACT,49633
+49653,Court 2,Canberra,Australia,AUS,Australia/ACT,49633
+10644,Stade Numa-Daly Magenta,Noumea,New Caledonia,NCL,Pacific/Noumea,49635
+15483,Court N'godrela,Noumea,New Caledonia,NCL,Pacific/Noumea,49635
+15485,Court Morault,Noumea,New Caledonia,NCL,Pacific/Noumea,49635
+15493,Court 7,Noumea,New Caledonia,NCL,Pacific/Noumea,49635
+15495,Court 8,Noumea,New Caledonia,NCL,Pacific/Noumea,49635
+81579,Court Hertz,Noumea,New Caledonia,NCL,Pacific/Noumea,49635
+49805,Centre Court,Melbourne,Australia,AUS,Australia/Melbourne,49803
+17100,Cancha 1,Santiago,Chile,CHL,America/Santiago,50605
+17102,Cancha 2,Santiago,Chile,CHL,America/Santiago,50605
+17104,Court 3,Santiago,Chile,CHL,America/Santiago,50605
+26008,Cancha Central,Santiago,Chile,CHL,America/Santiago,50605
+50607,San Carlos De Apoquindo,Santiago,Chile,CHL,America/Santiago,50605
+76925,Court Jaime Fillol,Santiago,Chile,CHL,America/Santiago,50605
+38061,Court 4,"Cleveland, OH",USA,USA,America/New_York,50709
+76147,Stadium,"Cleveland, OH",USA,USA,America/New_York,50709
+57820,Campo Centrale,Cagliari,Italy,ITA,Europe/Rome,50973
+57822,Campo 14,Cagliari,Italy,ITA,Europe/Rome,50973
+57824,Campo 2,Cagliari,Italy,ITA,Europe/Rome,50973
+23922,Cancha 1,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,51757
+23928,Cancha 2,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,51757
+23934,Court 5,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,51757
+34170,Court 4,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,51757
+34448,Cancha 3,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,51757
+34450,Cancha 6,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,51757
+34456,Cancha 7,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,51757
+34458,Cancha 5,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,51757
+67281,Cancha Central,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,51757
+77117,Cancha Central,Asuncion,Paraguay,PRY,America/Asuncion,51791
+77119,Cancha 3,Asuncion,Paraguay,PRY,America/Asuncion,51791
+77121,Cancha 4,Asuncion,Paraguay,PRY,America/Asuncion,51791
+52277,Centralni Teren,Zajecar,Serbia,SRB,Europe/Belgrade,52275
+52279,Teren 6,Zajecar,Serbia,SRB,Europe/Belgrade,52275
+52281,Teren 7,Zajecar,Serbia,SRB,Europe/Belgrade,52275
+52283,Teren 8,Zajecar,Serbia,SRB,Europe/Belgrade,52275
+52285,Teren 9,Zajecar,Serbia,SRB,Europe/Belgrade,52275
+52287,Teren 10,Zajecar,Serbia,SRB,Europe/Belgrade,52275
+35740,Pista 12,Castellon,Spain,ESP,Europe/Madrid,52527
+35744,Pista 13,Castellon,Spain,ESP,Europe/Madrid,52527
+35758,Pista 11,Castellon,Spain,ESP,Europe/Madrid,52527
+35798,Pista 14,Castellon,Spain,ESP,Europe/Madrid,52527
+29542,Court 9,Prague,Czechia,CZE,Europe/Prague,52537
+44018,Court 1,Roehampton,England,ENG,Europe/London,52559
+52561,Center Court,Roehampton,England,ENG,Europe/London,52559
+14636,Court 3,Lexington,USA,USA,America/New_York,52665
+22164,Court 2,Lexington,USA,USA,America/New_York,52665
+52697,Center Court,Lexington,USA,USA,America/New_York,52665
+19899,Court 1,Zhengzhou,China,CHN,Asia/Shanghai,53263
+19901,Court 2,Zhengzhou,China,CHN,Asia/Shanghai,53263
+74488,Center Court,Zhengzhou,China,CHN,Asia/Shanghai,53263
+74490,Grandstand,Zhengzhou,China,CHN,Asia/Shanghai,53263
+58784,Centre Court,Bad Homburg,Germany,DEU,Europe/Berlin,53979
+58800,Court 1,Bad Homburg,Germany,DEU,Europe/Berlin,53979
+58802,Court 2,Bad Homburg,Germany,DEU,Europe/Berlin,53979
+1758,Court 3,Rome,Italy,ITA,Europe/Rome,54105
+1759,Court 4,Rome,Italy,ITA,Europe/Rome,54105
+1760,Court 5,Rome,Italy,ITA,Europe/Rome,54105
+1761,Court 6,Rome,Italy,ITA,Europe/Rome,54105
+1762,Center Court,Rome,Italy,ITA,Europe/Rome,54105
+1764,Pietrangeli,Rome,Italy,ITA,Europe/Rome,54105
+2356,Court 1,Rome,Italy,ITA,Europe/Rome,54105
+2357,Court 2,Rome,Italy,ITA,Europe/Rome,54105
+2358,Court 10,Rome,Italy,ITA,Europe/Rome,54105
+14060,Grand Stand Arena,Rome,Italy,ITA,Europe/Rome,54105
+71013,Court 12,Rome,Italy,ITA,Europe/Rome,54105
+71015,Court 13,Rome,Italy,ITA,Europe/Rome,54105
+55023,Forte Village Court,Sardinia,Italy,ITA,Europe/Rome,55029
+55025,Sardegna Court,Sardinia,Italy,ITA,Europe/Rome,55029
+55027,Court 5,Sardinia,Italy,ITA,Europe/Rome,55029
+56908,Court 2,Antalya,Turkiye,TUR,Europe/Istanbul,56886
+15433,Center Court,Abu Dhabi,United Arab Emirates,ARE,Asia/Dubai,56888
+49315,Stadium Court,Abu Dhabi,United Arab Emirates,ARE,Asia/Dubai,56888
+56896,Court 1,Abu Dhabi,United Arab Emirates,ARE,Asia/Dubai,56888
+56898,Court 2,Abu Dhabi,United Arab Emirates,ARE,Asia/Dubai,56888
+56900,Court 3,Abu Dhabi,United Arab Emirates,ARE,Asia/Dubai,56888
+56902,Court 4,Abu Dhabi,United Arab Emirates,ARE,Asia/Dubai,56888
+76201,ADCB Court 1,Abu Dhabi,United Arab Emirates,ARE,Asia/Dubai,56888
+51685,Court 10,Potchefstroom,South Africa,ZAF,Africa/Johannesburg,57152
+51695,Court 1,Potchefstroom,South Africa,ZAF,Africa/Johannesburg,57152
+51941,Court 8,Potchefstroom,South Africa,ZAF,Africa/Johannesburg,57152
+57156,Palapajetta Court,Biella,Italy,ITA,Europe/Rome,57154
+57158,Jocker Court,Biella,Italy,ITA,Europe/Rome,57154
+57190,Cancha Central,Concepcion,Chile,CHL,America/Santiago,57188
+57192,Cancha 1,Concepcion,Chile,CHL,America/Santiago,57188
+57194,Cancha 2,Concepcion,Chile,CHL,America/Santiago,57188
+57250,Center Court,Kallang,Singapore,SGP,Asia/Singapore,57248
+39775,Court 12,Lyon,France,FRA,Europe/Paris,57286
+57326,Court 2,Saint Petersburg,Russia,RUS,Europe/Moscow,57308
+57952,Center Court,Istanbul,Turkiye,TUR,Europe/Istanbul,57950
+57956,Court 2,Istanbul,Turkiye,TUR,Europe/Istanbul,57950
+57980,Court Can Uner,Istanbul,Turkiye,TUR,Europe/Istanbul,57950
+63225,Court 3,Istanbul,Turkiye,TUR,Europe/Istanbul,57950
+33970,Court 15,Zagreb,Croatia,HRV,Europe/Zagreb,58380
+34014,Court 14,Zagreb,Croatia,HRV,Europe/Zagreb,58380
+58180,Court 13,Zagreb,Croatia,HRV,Europe/Zagreb,58380
+58384,Court 16,Zagreb,Croatia,HRV,Europe/Zagreb,58380
+58386,Court 17,Zagreb,Croatia,HRV,Europe/Zagreb,58380
+58574,Center Court,Parma,Italy,ITA,Europe/Rome,58572
+58576,Grand Stand,Parma,Italy,ITA,Europe/Rome,58572
+58578,Court 1,Parma,Italy,ITA,Europe/Rome,58572
+39709,Stadium,Little Rock,USA,USA,America/Chicago,58652
+39711,Court 1,Little Rock,USA,USA,America/Chicago,58652
+39713,Court 13,Little Rock,USA,USA,America/Chicago,58652
+39751,Indoor Ct1,Little Rock,USA,USA,America/Chicago,58652
+39753,Indoor Ct3,Little Rock,USA,USA,America/Chicago,58652
+21980,Court 1,Porto,Portugal,PRT,Europe/Lisbon,58874
+22088,Court 2,Porto,Portugal,PRT,Europe/Lisbon,58874
+22184,Court 3,Porto,Portugal,PRT,Europe/Lisbon,58874
+64687,Court Vila Gale Hotel,Porto,Portugal,PRT,Europe/Lisbon,58874
+64689,Court McDonalds Antas,Porto,Portugal,PRT,Europe/Lisbon,58874
+64691,Court Carlsberg,Porto,Portugal,PRT,Europe/Lisbon,58874
+72435,Banco Carregosa,Porto,Portugal,PRT,Europe/Lisbon,58874
+79055,Central Eupago,Porto,Portugal,PRT,Europe/Lisbon,58874
+16320,Grandstand,Perugia,Italy,ITA,Europe/Rome,58972
+16322,Court 3,Perugia,Italy,ITA,Europe/Rome,58972
+16326,Campo 4,Perugia,Italy,ITA,Europe/Rome,58972
+31393,Center Court,Perugia,Italy,ITA,Europe/Rome,58972
+52959,Court 2,Anif,Austria,AUT,Europe/Vienna,59004
+52961,Court 6,Anif,Austria,AUT,Europe/Vienna,59004
+52963,Court 1,Anif,Austria,AUT,Europe/Vienna,59004
+52965,Court 3,Anif,Austria,AUT,Europe/Vienna,59004
+52967,Court 7,Anif,Austria,AUT,Europe/Vienna,59004
+52969,Court 8,Anif,Austria,AUT,Europe/Vienna,59004
+59006,Center Court,Anif,Austria,AUT,Europe/Vienna,59004
+14284,Center Court,Braunschweig,Germany,DEU,Europe/Berlin,59008
+14286,Court 11,Braunschweig,Germany,DEU,Europe/Berlin,59008
+14310,Court 5,Braunschweig,Germany,DEU,Europe/Berlin,59008
+14312,Court 7,Braunschweig,Germany,DEU,Europe/Berlin,59008
+21808,Court 12,Braunschweig,Germany,DEU,Europe/Berlin,59008
+34116,Court 1,Iasi,Romania,ROU,Europe/Bucharest,59082
+34118,Court 3,Iasi,Romania,ROU,Europe/Bucharest,59082
+34122,Court 4,Iasi,Romania,ROU,Europe/Bucharest,59082
+34124,Court 2,Iasi,Romania,ROU,Europe/Bucharest,59082
+53631,Court 5,Iasi,Romania,ROU,Europe/Bucharest,59082
+64779,Center Court,Iasi,Romania,ROU,Europe/Bucharest,59082
+65323,Court 6,Iasi,Romania,ROU,Europe/Bucharest,59082
+42966,Court 1,Amersfoort,Netherlands,NLD,Europe/Brussels,59090
+42968,Court 2,Amersfoort,Netherlands,NLD,Europe/Brussels,59090
+42970,Court 3,Amersfoort,Netherlands,NLD,Europe/Brussels,59090
+42972,Center Court,Amersfoort,Netherlands,NLD,Europe/Brussels,59090
+43230,Van Mossel Kia Court,Amersfoort,Netherlands,NLD,Europe/Brussels,59090
+59092,KNLTB Court,Amersfoort,Netherlands,NLD,Europe/Brussels,59090
+59094,Schoonderbeekbouw Court,Amersfoort,Netherlands,NLD,Europe/Brussels,59090
+14304,Grandstand,Todi,Italy,ITA,Europe/Rome,59096
+14306,COURT 1,Todi,Italy,ITA,Europe/Rome,59096
+21620,Centre Court,Todi,Italy,ITA,Europe/Rome,59096
+64667,Court 4,Todi,Italy,ITA,Europe/Rome,59096
+59206,Centre Court,Gydnia,Poland,POL,Europe/Warsaw,59204
+59208,Court 1,Gydnia,Poland,POL,Europe/Warsaw,59204
+59210,Court 2,Gydnia,Poland,POL,Europe/Warsaw,59204
+18531,Court 1,Los Cabos,Mexico,MEX,America/Mexico_City,59212
+32317,Grandstand Caliente,Los Cabos,Mexico,MEX,America/Mexico_City,59212
+43934,Court 2,Los Cabos,Mexico,MEX,America/Mexico_City,59212
+65327,Stadium CSC,Los Cabos,Mexico,MEX,America/Mexico_City,59212
+1943,Goran Ivanisevic Stadium,Umag,Croatia,HRV,Europe/Zagreb,59214
+1944,Grandstand,Umag,Croatia,HRV,Europe/Zagreb,59214
+1945,Court 1,Umag,Croatia,HRV,Europe/Zagreb,59214
+1946,Court 2,Umag,Croatia,HRV,Europe/Zagreb,59214
+1954,Court 4,Umag,Croatia,HRV,Europe/Zagreb,59214
+2453,Court 3,Umag,Croatia,HRV,Europe/Zagreb,59214
+14606,Court 5,Umag,Croatia,HRV,Europe/Zagreb,59214
+78889,Studenac Arena,Umag,Croatia,HRV,Europe/Zagreb,59214
+23514,Court 15,Cary,USA,USA,America/New_York,59292
+23516,Court 13,Cary,USA,USA,America/New_York,59292
+56150,Indoor 3,Cary,USA,USA,America/New_York,59292
+59294,Stadium,Cary,USA,USA,America/New_York,59292
+79205,Court 10,Cary,USA,USA,America/New_York,59292
+23270,Court 4,Trieste,Italy,ITA,Europe/Rome,59332
+23290,Court 3,Trieste,Italy,ITA,Europe/Rome,59332
+45558,Center Court Giorgi,Trieste,Italy,ITA,Europe/Rome,59332
+23248,Court 2,Trieste,Italy,ITA,Europe/Rome,59334
+23284,Center court,Trieste,Italy,ITA,Europe/Rome,59334
+23286,Court 1,Trieste,Italy,ITA,Europe/Rome,59334
+33948,Indoor 8,Trieste,Italy,ITA,Europe/Rome,59334
+33950,Indoor 7,Trieste,Italy,ITA,Europe/Rome,59334
+34046,Court 9,Trieste,Italy,ITA,Europe/Rome,59334
+16024,Center Court,Charleston,USA,USA,America/New_York,59348
+57816,Court 1,Charleston,USA,USA,America/New_York,59348
+57818,Court 2,Charleston,USA,USA,America/New_York,59348
+74308,Court 3,Charleston,USA,USA,America/New_York,59348
+81237,Court 7,Charleston,USA,USA,America/New_York,59348
+44664,Center Court,Concord,USA,USA,America/New_York,59464
+59550,Court 1,Concord,USA,USA,America/New_York,59464
+59634,Court 2,Concord,USA,USA,America/New_York,59464
+14666,Svijany Court,Liberec,Czechia,CZE,Europe/Prague,59544
+14668,Gea Court,Liberec,Czechia,CZE,Europe/Prague,59544
+14670,Mlyn Perner Court,Liberec,Czechia,CZE,Europe/Prague,59544
+59546,Syner Court,Liberec,Czechia,CZE,Europe/Prague,59544
+59548,Pernerka Court,Liberec,Czechia,CZE,Europe/Prague,59544
+72911,Wilson,Liberec,Czechia,CZE,Europe/Prague,59544
+73093,INDOOR B,Liberec,Czechia,CZE,Europe/Prague,59544
+73095,INDOOR C,Liberec,Czechia,CZE,Europe/Prague,59544
+14718,Center Court,San Marino,San Marino,SMR,Europe/San_Marino,59730
+14720,Court 2 De Luigi,San Marino,San Marino,SMR,Europe/San_Marino,59730
+14722,Court 3,San Marino,San Marino,SMR,Europe/San_Marino,59730
+59756,Campo 4,Verona,Italy,ITA,Europe/Rome,59754
+59758,Campo 5,Verona,Italy,ITA,Europe/Rome,59754
+59760,Campo Centrale,Verona,Italy,ITA,Europe/Rome,59754
+59882,Campo 6,Verona,Italy,ITA,Europe/Rome,59754
+78915,Volvo Arena,Verona,Italy,ITA,Europe/Rome,59754
+78917,Grandstand,Verona,Italy,ITA,Europe/Rome,59754
+59776,Centre Court,Luedenscheid,Germany,DEU,Europe/Berlin,59774
+59778,Court 3,Luedenscheid,Germany,DEU,Europe/Berlin,59774
+59782,Court 7,Luedenscheid,Germany,DEU,Europe/Berlin,59774
+59878,Court 1,Luedenscheid,Germany,DEU,Europe/Berlin,59774
+72959,Court 2,Luedenscheid,Germany,DEU,Europe/Berlin,59774
+72961,Indoor 1,Luedenscheid,Germany,DEU,Europe/Berlin,59774
+72963,Indoor 2,Luedenscheid,Germany,DEU,Europe/Berlin,59774
+33988,Court 1,Chicago,USA,USA,America/Chicago,59868
+33990,Court 2,Chicago,USA,USA,America/Chicago,59868
+33992,Court 3,Chicago,USA,USA,America/Chicago,59868
+33994,Court 4,Chicago,USA,USA,America/Chicago,59868
+33996,Court 5,Chicago,USA,USA,America/Chicago,59868
+34036,Indoor 10,Chicago,USA,USA,America/Chicago,59868
+34076,Indoor 8,Chicago,USA,USA,America/Chicago,59868
+59870,Stadium,Chicago,USA,USA,America/Chicago,59868
+59932,Center Court,Chicago,USA,USA,America/Chicago,59868
+60740,Indoor 9,Chicago,USA,USA,America/Chicago,59868
+65387,Court 21,Chicago,USA,USA,America/Chicago,59868
+65389,Court 23,Chicago,USA,USA,America/Chicago,59868
+72299,Indoor 6,Chicago,USA,USA,America/Chicago,59868
+59892,Court 1,"Cleveland, OH",USA,USA,America/New_York,59890
+59894,Court 2,"Cleveland, OH",USA,USA,America/New_York,59890
+59930,Stadium Court,"Cleveland, OH",USA,USA,America/New_York,59890
+65701,Indoor 1,"Cleveland, OH",USA,USA,America/New_York,59890
+65703,Indoor 2,"Cleveland, OH",USA,USA,America/New_York,59890
+1804,Center Court,Warsaw,Poland,POL,Europe/Warsaw,59994
+1805,COURT 1,Warsaw,Poland,POL,Europe/Warsaw,59994
+1806,Court 2,Warsaw,Poland,POL,Europe/Warsaw,59994
+1807,Court 3,Warsaw,Poland,POL,Europe/Warsaw,59994
+44526,Court 4,Warsaw,Poland,POL,Europe/Warsaw,59994
+59992,Court 6,Warsaw,Poland,POL,Europe/Warsaw,59994
+60020,Indoor 1,Warsaw,Poland,POL,Europe/Warsaw,59994
+60024,Indoor 2,Warsaw,Poland,POL,Europe/Warsaw,59994
+72755,Indoor 3,Warsaw,Poland,POL,Europe/Warsaw,59994
+22688,Klenert Court,Karlsruhe,Germany,DEU,Europe/Berlin,60188
+39701,Center Court,Karlsruhe,Germany,DEU,Europe/Berlin,60188
+39705,Staerk Court,Karlsruhe,Germany,DEU,Europe/Berlin,60188
+60260,Court 1,Karlsruhe,Germany,DEU,Europe/Berlin,60188
+14876,Centre Court,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo,60190
+14878,Court 5,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo,60190
+14908,Court 3,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo,60190
+30073,Court 1,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo,60190
+33978,Central Cabesto,Cassis,France,FRA,Europe/Paris,60192
+33980,Court Club House,Cassis,France,FRA,Europe/Paris,60192
+33982,Court 8,Cassis,France,FRA,Europe/Paris,60192
+34020,Court 9,Cassis,France,FRA,Europe/Paris,60192
+60224,Court 1,Cassis,France,FRA,Europe/Paris,60192
+60226,Court 7,Cassis,France,FRA,Europe/Paris,60192
+65911,Court 2,Cassis,France,FRA,Europe/Paris,60192
+22974,Court 1,Kiev,Ukraine,UKR,Europe/Kyiv,60194
+22976,Court 5,Kiev,Ukraine,UKR,Europe/Kyiv,60194
+22980,Court 2,Kiev,Ukraine,UKR,Europe/Kyiv,60194
+59224,Court 3,Kiev,Ukraine,UKR,Europe/Kyiv,60194
+59226,Court 4,Kiev,Ukraine,UKR,Europe/Kyiv,60194
+60214,Court 10,Kiev,Ukraine,UKR,Europe/Kyiv,60194
+60216,Court 12,Kiev,Ukraine,UKR,Europe/Kyiv,60194
+60218,Court 11,Kiev,Ukraine,UKR,Europe/Kyiv,60194
+14882,Court 3,Seville,Spain,ESP,Europe/Madrid,60196
+14890,Court 2,Seville,Spain,ESP,Europe/Madrid,60196
+23346,Pista 4,Seville,Spain,ESP,Europe/Madrid,60196
+24148,Pista 1,Seville,Spain,ESP,Europe/Madrid,60196
+34022,Center Court,Seville,Spain,ESP,Europe/Madrid,60196
+34134,Central,Seville,Spain,ESP,Europe/Madrid,60196
+34138,Court 6,Seville,Spain,ESP,Europe/Madrid,60196
+34140,Court 5,Seville,Spain,ESP,Europe/Madrid,60196
+34180,Court 9,Seville,Spain,ESP,Europe/Madrid,60196
+35176,Court 1,Seville,Spain,ESP,Europe/Madrid,60196
+47356,Pista 6,Seville,Spain,ESP,Europe/Madrid,60196
+47358,Pista 5,Seville,Spain,ESP,Europe/Madrid,60196
+60220,Pista 2,Seville,Spain,ESP,Europe/Madrid,60196
+60222,Pista 3,Seville,Spain,ESP,Europe/Madrid,60196
+60200,Centre Court,Tulln,Austria,AUT,Europe/Berlin,60198
+60202,Court 1,Tulln,Austria,AUT,Europe/Berlin,60198
+60204,Court 2,Tulln,Austria,AUT,Europe/Berlin,60198
+60206,Court 3,Tulln,Austria,AUT,Europe/Berlin,60198
+73717,Grandstand,Tulln,Austria,AUT,Europe/Berlin,60198
+65945,Center Court,Istanbul,Turkiye,TUR,Europe/Istanbul,60272
+65947,Court 9 Limak,Istanbul,Turkiye,TUR,Europe/Istanbul,60272
+65949,Court 3,Istanbul,Turkiye,TUR,Europe/Istanbul,60272
+73697,Grand Tarabaya Court,Istanbul,Turkiye,TUR,Europe/Istanbul,60272
+14952,Cancha 2,Quito,Ecuador,ECU,America/Guayaquil,60274
+14988,Cancha 5,Quito,Ecuador,ECU,America/Guayaquil,60274
+15612,Cancha 1,Quito,Ecuador,ECU,America/Guayaquil,60274
+15614,Cancha 3,Quito,Ecuador,ECU,America/Guayaquil,60274
+17760,Stadium,Quito,Ecuador,ECU,America/Guayaquil,60274
+27077,Cancha 4,Quito,Ecuador,ECU,America/Guayaquil,60274
+60354,Cancha 8,Quito,Ecuador,ECU,America/Guayaquil,60274
+14896,Central Court,Szczecin,Poland,POL,Europe/Warsaw,60276
+14898,Court 1,Szczecin,Poland,POL,Europe/Warsaw,60276
+14900,Court 2,Szczecin,Poland,POL,Europe/Warsaw,60276
+16822,Court 6,Szczecin,Poland,POL,Europe/Warsaw,60276
+23508,Court 8,Szczecin,Poland,POL,Europe/Warsaw,60276
+52431,Court 5,Szczecin,Poland,POL,Europe/Warsaw,60276
+52479,Court 4,Szczecin,Poland,POL,Europe/Warsaw,60276
+52481,Court 3,Szczecin,Poland,POL,Europe/Warsaw,60276
+52547,Court 7,Szczecin,Poland,POL,Europe/Warsaw,60276
+37005,Court Francoise Savatier,Rennes,France,FRA,Europe/Paris,60350
+50009,Court Le Liberte,Rennes,France,FRA,Europe/Paris,60350
+65953,Court Saint Gregoire 1,Rennes,France,FRA,Europe/Paris,60350
+19881,Center Court,Biel,Switzerland,CHE,Europe/Zurich,60386
+57746,Court 2,Biel,Switzerland,CHE,Europe/Zurich,60386
+57748,Court 3,Biel,Switzerland,CHE,Europe/Zurich,60386
+57750,Court 1,Biel,Switzerland,CHE,Europe/Zurich,60386
+57778,Court 4,Biel,Switzerland,CHE,Europe/Zurich,60386
+66321,Match Court,Biel,Switzerland,CHE,Europe/Zurich,60386
+65939,Central Court,Bucharest,Romania,ROU,Europe/Bucharest,60416
+65941,Court 8,Bucharest,Romania,ROU,Europe/Bucharest,60416
+65943,Court 10,Bucharest,Romania,ROU,Europe/Bucharest,60416
+79791,Court 6,Bucharest,Romania,ROU,Europe/Bucharest,60416
+15317,Estadio 1. de Maio,Braga,Portugal,PRT,Europe/Lisbon,60418
+29200,Center Court,Braga,Portugal,PRT,Europe/Lisbon,60418
+29202,Court 1,Braga,Portugal,PRT,Europe/Lisbon,60418
+29204,Court 2,Braga,Portugal,PRT,Europe/Lisbon,60418
+39375,Court 3,Braga,Portugal,PRT,Europe/Lisbon,60418
+39397,Indoor 6,Braga,Portugal,PRT,Europe/Lisbon,60418
+39399,Indoor 5,Braga,Portugal,PRT,Europe/Lisbon,60418
+80277,Indoor 1,Braga,Portugal,PRT,Europe/Lisbon,60418
+80279,Indoor 2,Braga,Portugal,PRT,Europe/Lisbon,60418
+60424,Center Court,Ambato,Ecuador,ECU,America/Guayaquil,60420
+60426,Court 1,Ambato,Ecuador,ECU,America/Guayaquil,60420
+60428,Court 2,Ambato,Ecuador,ECU,America/Guayaquil,60420
+60430,Court 3,Ambato,Ecuador,ECU,America/Guayaquil,60420
+60466,Court 4,Ambato,Ecuador,ECU,America/Guayaquil,60420
+15016,Centre Court,Sibiu,Romania,ROU,Europe/Bucharest,60538
+15018,Court 5,Sibiu,Romania,ROU,Europe/Bucharest,60538
+15020,Court 6,Sibiu,Romania,ROU,Europe/Bucharest,60538
+15022,Court 8,Sibiu,Romania,ROU,Europe/Bucharest,60538
+18703,Court 7,Sibiu,Romania,ROU,Europe/Bucharest,60538
+60552,Barnes Stadium,San Diego,USA,USA,America/Los_Angeles,60540
+60554,Stadium 2,San Diego,USA,USA,America/Los_Angeles,60540
+66055,Grandstand,San Diego,USA,USA,America/Los_Angeles,60540
+66651,Stadium Court,San Diego,USA,USA,America/Los_Angeles,60540
+66653,Hologic Court 2,San Diego,USA,USA,America/Los_Angeles,60540
+73869,Court 2,San Diego,USA,USA,America/Los_Angeles,60540
+29710,Court 2,Naples,Italy,ITA,Europe/Rome,60640
+60680,Arena,Naples,Italy,ITA,Europe/Rome,60640
+60690,Campo D'Avalos,Naples,Italy,ITA,Europe/Rome,60640
+60692,Campo Fabrizio Gasparini,Naples,Italy,ITA,Europe/Rome,60640
+60694,Court 1,Naples,Italy,ITA,Europe/Rome,60640
+66881,TC Pozzuoli Court 1,Naples,Italy,ITA,Europe/Rome,60640
+66883,TC Pozzuoli Court 2,Naples,Italy,ITA,Europe/Rome,60640
+77201,Campo 2,Naples,Italy,ITA,Europe/Rome,60640
+60862,Center Court,Naples,Italy,ITA,Europe/Rome,60860
+60864,Court 1,Naples,Italy,ITA,Europe/Rome,60860
+60866,Court 2,Naples,USA,USA,America/New_York,60860
+60884,Court 3,Naples,USA,USA,America/New_York,60860
+61050,Centre Court,Santa Cruz de Tenerife,Spain,ESP,Europe/Madrid,61026
+61052,Court 2,Santa Cruz de Tenerife,Spain,ESP,Europe/Madrid,61026
+61054,Court 3,Santa Cruz de Tenerife,Spain,ESP,Europe/Madrid,61026
+61128,Court 1,Santa Cruz de Tenerife,Spain,ESP,Europe/Madrid,61026
+61387,Grandstand,Santa Cruz de Tenerife,Spain,ESP,Europe/Madrid,61026
+69563,Court 5,Santa Cruz de Tenerife,Spain,ESP,Europe/Madrid,61026
+69613,Court 6,Santa Cruz de Tenerife,Spain,ESP,Europe/Madrid,61026
+61012,Tennis Centar Punta,Losinj,Croatia,HRV,Europe/Zagreb,61028
+27127,Court 4,Bergamo,Italy,ITA,Europe/Rome,61333
+27295,PalaAgnelli,Bergamo,Italy,ITA,Europe/Rome,61333
+61371,Italcementi,Bergamo,Italy,ITA,Europe/Rome,61333
+67367,Palaintred,Bergamo,Italy,ITA,Europe/Rome,61333
+61395,Court 1,"Midland, Michigan",USA,USA,UTC,61339
+61397,Meredith McGrath Stadium Court,"Midland, Michigan",USA,USA,UTC,61339
+61399,Court 2,"Midland, Michigan",USA,USA,UTC,61339
+67397,Court 4,"Midland, Michigan",USA,USA,UTC,61339
+61465,Court Pierre Troisgros,Roanne,France,FRA,Europe/Paris,61425
+61467,Court 1,Roanne,France,FRA,Europe/Paris,61425
+61499,Centre Court,Turin,Italy,ITA,Europe/Rome,61437
+29206,Court 1,Brasilia,Brazil,BRA,Brazil/East,61551
+29208,Court 2,Brasilia,Brazil,BRA,Brazil/East,61551
+29210,Court 3,Brasilia,Brazil,BRA,Brazil/East,61551
+29212,Centre Court,Brasilia,Brazil,BRA,Brazil/East,61551
+61625,Quadra 9,Brasilia,Brazil,BRA,Brazil/East,61551
+61637,Indoor 5,Brasilia,Brazil,BRA,Brazil/East,61551
+61639,Indoor 4,Brasilia,Brazil,BRA,Brazil/East,61551
+28179,Court 3,Manama,Bahrain,BHR,Asia/Bahrain,61553
+28181,Court 4,Manama,Bahrain,BHR,Asia/Bahrain,61553
+28183,Court 5,Manama,Bahrain,BHR,Asia/Bahrain,61553
+28185,Center Court,Manama,Bahrain,BHR,Asia/Bahrain,61553
+28187,Court 1,Manama,Bahrain,BHR,Asia/Bahrain,61553
+38754,Court 7,Manama,Bahrain,BHR,Asia/Bahrain,61553
+38756,Court CC,Manama,Bahrain,BHR,Asia/Bahrain,61553
+61603,Court 2,Manama,Bahrain,BHR,Asia/Bahrain,61553
+61557,Center Court,Bari,Italy,ITA,Europe/Rome,61555
+61559,Court 1,Bari,Italy,ITA,Europe/Rome,61555
+61561,Court 3,Bari,Italy,ITA,Europe/Rome,61555
+61563,Court 2,Bari,Italy,ITA,Europe/Rome,61555
+61659,Indoor Court,Bari,Italy,ITA,Europe/Rome,61555
+29062,Estadio Puerto Vallarta,Puerto Vallarta,Mexico,MEX,America/Mexico_City,61565
+29064,Cancha La Aficion,Puerto Vallarta,Mexico,MEX,America/Mexico_City,61565
+61567,Center Court,Puerto Vallarta,Mexico,MEX,America/Mexico_City,61565
+61569,Court 1,Puerto Vallarta,Mexico,MEX,America/Mexico_City,61565
+61571,Court 2,Puerto Vallarta,Mexico,MEX,America/Mexico_City,61565
+61573,Court 3,Puerto Vallarta,Mexico,MEX,America/Mexico_City,61565
+61631,Cancha 7,Puerto Vallarta,Mexico,MEX,America/Mexico_City,61565
+70141,Estadio Puerto Magico,Puerto Vallarta,Mexico,MEX,America/Mexico_City,61565
+70143,Cancha Vino America,Puerto Vallarta,Mexico,MEX,America/Mexico_City,61565
+53855,Center Court,Forli,Italy,ITA,Europe/Rome,61641
+53857,Grandstand,Forli,Italy,ITA,Europe/Rome,61641
+53917,Court 1,Forli,Italy,ITA,Europe/Rome,61641
+53919,Court 2,Forli,Italy,ITA,Europe/Rome,61641
+58760,Court 3,Forli,Italy,ITA,Europe/Rome,61641
+61839,Citta Di Forl√¨,Forli,Italy,ITA,Europe/Rome,61641
+61841,Gencom,Forli,Italy,ITA,Europe/Rome,61641
+3814,Centre Court 1,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+3816,Court 1,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+3818,Court 2,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+13840,Court 3,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+15660,Court 7,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+17801,Court 11,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+25872,Court 4,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+27403,Court 12,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+27405,Court 9,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+27407,Court 10,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+27409,Court 8,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+27411,Court 13,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+27581,Centre Court,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+38613,Court 14,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+46948,Quadra Central,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+46950,Quadra 13,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+46968,Quadra 14,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+46994,Quadra 8,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+47372,Quadra 3,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+47374,Quadra 2,Sao Paulo,Brazil,BRA,America/Sao_Paulo,61643
+21754,Center Court,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23014,Court 5,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23032,Court 6,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23048,Court 4,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23112,Court 9,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23114,Court 2,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23120,Court 8,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23126,Court 11,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23128,Court 10,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23948,Court 16,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+23950,Court 13,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+25480,Court 7,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+49771,Court 22,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+49773,Court 17,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+49775,Court 20,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+49777,Court 21,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+56904,Court 1,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+56910,Court 3,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+57018,Court 14,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+57026,Court 23,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+57028,Court 24,Antalya,Turkiye,TUR,Europe/Istanbul,61645
+28802,Court 3,Angers,France,FRA,Europe/Paris,61707
+28804,Court Central,Angers,France,FRA,Europe/Paris,61707
+28810,Court 7,Angers,France,FRA,Europe/Paris,61707
+39177,Court 4,Angers,France,FRA,Europe/Paris,61707
+39185,Court 5,Angers,France,FRA,Europe/Paris,61707
+39209,Centre Court,Angers,France,FRA,Europe/Paris,61707
+57982,Court 6,Angers,France,FRA,Europe/Paris,61707
+61741,Court 1,Rio de Janeiro,Brazil,BRA,Brazil/East,61737
+61743,Court 2,Rio de Janeiro,Brazil,BRA,Brazil/East,61737
+1352,Court 11,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+2687,Indoor 5,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+2689,Indoor 7,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+2691,Indoor 8,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+14944,Court 4,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+14956,Centre Court,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+16131,Court 3,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+34576,Indoor C5,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+34578,Indoor 6,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+79921,Grandstand,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+79923,Court 1,Seoul,Republic of Korea,KOR,Asia/Seoul,61761
+62189,Stadium,Dallas,USA,USA,America/Chicago,62147
+62191,Grandstand,Dallas,USA,USA,America/Chicago,62147
+1389,Court 1,Moscow,Russia,RUS,Europe/Moscow,62319
+1390,Court 2,Moscow,Russia,RUS,Europe/Moscow,62319
+1391,Court 3,Moscow,Russia,RUS,Europe/Moscow,62319
+16279,Court 9,Moscow,Russia,RUS,Europe/Moscow,62319
+22390,Court 5,Moscow,Russia,RUS,Europe/Moscow,62319
+22394,Court 8,Moscow,Russia,RUS,Europe/Moscow,62319
+22396,Court 11,Moscow,Russia,RUS,Europe/Moscow,62319
+22400,Court 4,Moscow,Russia,RUS,Europe/Moscow,62319
+22404,Court 10,Moscow,Russia,RUS,Europe/Moscow,62319
+22420,Court 12,Moscow,Russia,RUS,Europe/Moscow,62319
+22428,Court 7,Moscow,Russia,RUS,Europe/Moscow,62319
+22430,Court 6,Moscow,Russia,RUS,Europe/Moscow,62319
+22674,Court 10,Moscow,Russia,RUS,Europe/Moscow,62319
+61006,Central Court,Moscow,Russia,RUS,Europe/Moscow,62319
+22296,Court 4,Las Palmas de Gran Canaria,Spain,ESP,Europe/Madrid,62321
+22298,Court 5,Las Palmas de Gran Canaria,Spain,ESP,Europe/Madrid,62321
+22554,Court Center,Las Palmas de Gran Canaria,Spain,ESP,Europe/Madrid,62321
+32565,Court 2,Las Palmas de Gran Canaria,Spain,ESP,Europe/Madrid,62321
+56408,Court 3,Las Palmas de Gran Canaria,Spain,ESP,Europe/Madrid,62321
+57254,Grandstand,Las Palmas de Gran Canaria,Spain,ESP,Europe/Madrid,62321
+58190,Court 1,Las Palmas de Gran Canaria,Spain,ESP,Europe/Madrid,62321
+16071,Campo Centrale,Turin,Italy,ITA,Europe/Rome,62323
+62325,Court 1,Turin,Italy,ITA,Europe/Rome,62323
+62327,Campo 2,Turin,Italy,ITA,Europe/Rome,62323
+62329,Court 3,Turin,Italy,ITA,Europe/Rome,62323
+62331,Campo 4,Turin,Italy,ITA,Europe/Rome,62323
+71183,Campo 9,Turin,Italy,ITA,Europe/Rome,62323
+71215,Indoor 1,Turin,Italy,ITA,Europe/Rome,62323
+71217,Indoor 2,Turin,Italy,ITA,Europe/Rome,62323
+77903,Campo 3,Turin,Italy,ITA,Europe/Rome,62323
+21990,Court 1,Nonthaburi,Thailand,THA,Asia/Bangkok,62401
+22030,Court A,Nonthaburi,Thailand,THA,Asia/Bangkok,62401
+22050,Court 8,Nonthaburi,Thailand,THA,Asia/Bangkok,62401
+22192,Court 3,Nonthaburi,Thailand,THA,Asia/Bangkok,62401
+31239,Court 2,Nonthaburi,Thailand,THA,Asia/Bangkok,62401
+65767,Center Court,Nonthaburi,Thailand,THA,Asia/Bangkok,62401
+75829,Court B,Nonthaburi,Thailand,THA,Asia/Bangkok,62401
+62411,Center Court,Roseto Degli Abruzzi,Italy,ITA,Europe/Rome,62409
+62413,Court 1,Roseto Degli Abruzzi,Italy,ITA,Europe/Rome,62409
+62415,Court 2,Roseto Degli Abruzzi,Italy,ITA,Europe/Rome,62409
+62417,Court 3,Roseto Degli Abruzzi,Italy,ITA,Europe/Rome,62409
+1602,Cancha Central,Santiago,Chile,CHL,America/Santiago,62419
+1603,Cancha 2,Santiago,Chile,CHL,America/Santiago,62419
+1604,Cancha 4,Santiago,Chile,CHL,America/Santiago,62419
+1605,Cancha 6,Santiago,Chile,CHL,America/Santiago,62419
+2233,Cancha 14,Santiago,Chile,CHL,America/Santiago,62419
+2234,Cancha 16,Santiago,Chile,CHL,America/Santiago,62419
+2235,Cancha 17,Santiago,Chile,CHL,America/Santiago,62419
+13830,Cancha 1,Santiago,Chile,CHL,America/Santiago,62419
+13832,Cancha 3,Santiago,Chile,CHL,America/Santiago,62419
+15858,Centre Court,Santiago,Chile,CHL,America/Santiago,62419
+15860,Court 16,Santiago,Chile,CHL,America/Santiago,62419
+15862,Court 15,Santiago,Chile,CHL,America/Santiago,62419
+15864,Court 11,Santiago,Chile,CHL,America/Santiago,62419
+25740,Court 4,Santiago,Chile,CHL,America/Santiago,62419
+26188,Central,Santiago,Chile,CHL,America/Santiago,62419
+35892,Court 6,Santiago,Chile,CHL,America/Santiago,62419
+35916,Court 7,Santiago,Chile,CHL,America/Santiago,62419
+35918,Court 8,Santiago,Chile,CHL,America/Santiago,62419
+57598,Cancha 11,Santiago,Chile,CHL,America/Santiago,62419
+77037,Cancha 2,Santiago,Chile,CHL,America/Santiago,62419
+2403,Estadio Hernan Ramirez Villegas,Pereira,Colombia,COL,America/Bogota,62595
+62597,Cancha 1,Pereira,Colombia,COL,America/Bogota,62595
+62599,Cancha 2,Pereira,Colombia,COL,America/Bogota,62595
+62601,Cancha 3,Pereira,Colombia,COL,America/Bogota,62595
+62603,Cancha 4,Pereira,Colombia,COL,America/Bogota,62595
+62605,Estadio,Pereira,Colombia,COL,America/Bogota,62595
+62607,Cancha Central,Pereira,Colombia,COL,America/Bogota,62595
+62609,Campo 1,Pereira,Colombia,COL,America/Bogota,62595
+62611,Campo 2,Pereira,Colombia,COL,America/Bogota,62595
+62613,Campo 3,Pereira,Colombia,COL,America/Bogota,62595
+62615,Campo 4,Pereira,Colombia,COL,America/Bogota,62595
+62703,Cancha Santiago Giraldo,Pereira,Colombia,COL,America/Bogota,62595
+5660,Corner Arena,Lugano,Switzerland,CHE,Europe/Zurich,62617
+28539,Centrale,Lugano,Switzerland,CHE,Europe/Zurich,62617
+28541,Campo 1,Lugano,Switzerland,CHE,Europe/Zurich,62617
+28543,Court 2,Lugano,Switzerland,CHE,Europe/Zurich,62617
+28591,Court 3,Lugano,Switzerland,CHE,Europe/Zurich,62617
+28593,Court 4,Lugano,Switzerland,CHE,Europe/Zurich,62617
+28599,Court 5,Lugano,Switzerland,CHE,Europe/Zurich,62617
+28613,TC Cureglia Court 1,Lugano,Switzerland,CHE,Europe/Zurich,62617
+28615,TC Cureglia Court 2,Lugano,Switzerland,CHE,Europe/Zurich,62617
+38688,TC Lido Lugano,Lugano,Switzerland,CHE,Europe/Zurich,62617
+39006,Indoor 1,Lugano,Switzerland,CHE,Europe/Zurich,62617
+39008,Indoor 2,Lugano,Switzerland,CHE,Europe/Zurich,62617
+38818,Court Marc Gicquel,Saint-Brieuc,France,FRA,Europe/Paris,62619
+62621,Center Court,Saint-Brieuc,France,FRA,Europe/Paris,62619
+62623,Court 1,Saint-Brieuc,France,FRA,Europe/Paris,62619
+62625,Court 2,Saint-Brieuc,France,FRA,Europe/Paris,62619
+62627,Court 3,Saint-Brieuc,France,FRA,Europe/Paris,62619
+62629,Court 4,Saint-Brieuc,France,FRA,Europe/Paris,62619
+28523,Grandstand,Mexico City,Mexico,MEX,America/Mexico_City,62811
+29414,Estadio,Mexico City,Mexico,MEX,America/Mexico_City,62811
+62813,Central,Mexico City,Mexico,MEX,America/Mexico_City,62811
+62815,Cancha 1,Mexico City,Mexico,MEX,America/Mexico_City,62811
+62817,Cancha 2,Mexico City,Mexico,MEX,America/Mexico_City,62811
+62819,Cancha 3,Mexico City,Mexico,MEX,America/Mexico_City,62811
+62821,Cancha 4,Mexico City,Mexico,MEX,America/Mexico_City,62811
+57984,Central,Salinas,Ecuador,ECU,America/Guayaquil,62823
+57986,Cancha 3,Salinas,Ecuador,ECU,America/Guayaquil,62823
+57988,Cancha 4,Salinas,Ecuador,ECU,America/Guayaquil,62823
+58196,Cancha 5,Salinas,Ecuador,ECU,America/Guayaquil,62823
+58310,Court 3,Salinas,Ecuador,ECU,America/Guayaquil,62823
+58312,Court 4,Salinas,Ecuador,ECU,America/Guayaquil,62823
+58314,Court 5,Salinas,Ecuador,ECU,America/Guayaquil,62823
+58316,Cancha Central,Salinas,Ecuador,ECU,America/Guayaquil,62823
+58318,Court 1,Salinas,Ecuador,ECU,America/Guayaquil,62823
+62433,Cancha 1,Salinas,Ecuador,ECU,America/Guayaquil,62823
+62435,Cancha 2,Salinas,Ecuador,ECU,America/Guayaquil,62823
+72587,Cancha Central A. Gomez,Salinas,Ecuador,ECU,America/Guayaquil,62823
+72589,Cancha N. Lapenti,Salinas,Ecuador,ECU,America/Guayaquil,62823
+72591,Cancha R. Viver,Salinas,Ecuador,ECU,America/Guayaquil,62823
+72593,Cancha P. Segura,Salinas,Ecuador,ECU,America/Guayaquil,62823
+62849,Court 6,Sanremo,Italy,ITA,Europe/Rome,62847
+62851,Court 5,Sanremo,Italy,ITA,Europe/Rome,62847
+62853,Center Court,Sanremo,Italy,ITA,Europe/Rome,62847
+70549,Centrale,Sanremo,Italy,ITA,Europe/Rome,62847
+70551,Campo 1,Sanremo,Italy,ITA,Europe/Rome,62847
+70553,Campo 2,Sanremo,Italy,ITA,Europe/Rome,62847
+1737,Court Central,Monte Carlo,Monaco,MCO,Europe/Paris,62903
+1738,Court Des Princes,Monte Carlo,Monaco,MCO,Europe/Paris,62903
+1739,Court 2,Monte Carlo,Monaco,MCO,Europe/Paris,62903
+1740,Court 9,Monte Carlo,Monaco,MCO,Europe/Paris,62903
+1753,Court 11,Monte Carlo,Monaco,MCO,Europe/Paris,62903
+6228,Court 14,Monte Carlo,Monaco,MCO,Europe/Paris,62903
+18055,Court Rainier III,Monte Carlo,Monaco,MCO,Europe/Paris,62903
+57918,Court 7,Monte Carlo,Monaco,MCO,Europe/Paris,62903
+57920,Court 13,Monte Carlo,Monaco,MCO,Europe/Paris,62903
+13846,Center,Sarasota,USA,USA,America/New_York,62905
+13848,Court 4,Sarasota,USA,USA,America/New_York,62905
+13850,Court 5,Sarasota,USA,USA,America/New_York,62905
+16044,Court 9,Sarasota,USA,USA,America/New_York,62905
+18051,Court 2,Sarasota,USA,USA,America/New_York,62905
+18053,Court 3,Sarasota,USA,USA,America/New_York,62905
+19907,Court 8,Sarasota,USA,USA,America/New_York,62905
+28713,Court 7,Sarasota,USA,USA,America/New_York,62905
+28715,Court 1,Sarasota,USA,USA,America/New_York,62905
+39111,Elizabeth Moore Court,Sarasota,USA,USA,America/New_York,62905
+62951,Remington Reynolds Court,Sarasota,USA,USA,America/New_York,62905
+70715,Nick Bollettieri Court,Sarasota,USA,USA,America/New_York,62905
+70721,Court 10,Sarasota,USA,USA,America/New_York,62905
+18057,Campo 5,Barletta,Italy,ITA,Europe/Rome,62907
+39419,Center Court,Barletta,Italy,ITA,Europe/Rome,62907
+39421,Court 3,Barletta,Italy,ITA,Europe/Rome,62907
+39423,Court 4,Barletta,Italy,ITA,Europe/Rome,62907
+39431,Grand Stand,Barletta,Italy,ITA,Europe/Rome,62907
+39469,Indoor Angiulli Bari1,Barletta,Italy,ITA,Europe/Rome,62907
+39471,Indoor Angiulli Bari2,Barletta,Italy,ITA,Europe/Rome,62907
+39473,Indoor Angiulli Bari3,Barletta,Italy,ITA,Europe/Rome,62907
+59904,Campo 1,Barletta,Italy,ITA,Europe/Rome,62907
+59906,Campo 2,Barletta,Italy,ITA,Europe/Rome,62907
+62955,Court 5,Barletta,Italy,ITA,Europe/Rome,62907
+62957,Court 1,Barletta,Italy,ITA,Europe/Rome,62907
+62959,Court 2,Barletta,Italy,ITA,Europe/Rome,62907
+63035,Center Court,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+63037,Court 1,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+63039,Court 2,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+63041,Court 3,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+63043,Court 4,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+63045,Cancha Central,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+63047,Cancha 1,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+63049,Cancha 2,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+63051,Cancha 3,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+63053,Cancha 4,Aguascalientes,Mexico,MEX,America/Mexico_City,63033
+54027,OTP Court,Split,Croatia,HRV,Europe/Zagreb,63055
+57826,Center Court,Split,Croatia,HRV,Europe/Zagreb,63055
+57828,Court 3,Split,Croatia,HRV,Europe/Zagreb,63055
+57830,Court 4,Split,Croatia,HRV,Europe/Zagreb,63055
+63205,Court 1,Split,Croatia,HRV,Europe/Zagreb,63055
+63207,Court 2,Split,Croatia,HRV,Europe/Zagreb,63055
+13918,Center,Tallahassee,USA,USA,America/New_York,63057
+13920,Court 1,Tallahassee,USA,USA,America/New_York,63057
+13924,Court 4,Tallahassee,USA,USA,America/New_York,63057
+13946,Court 3,Tallahassee,USA,USA,America/New_York,63057
+19925,Stadium Court,Tallahassee,USA,USA,America/New_York,63057
+26248,Court 5,Tallahassee,USA,USA,America/New_York,63057
+49171,Court 2,Tallahassee,USA,USA,America/New_York,63057
+51857,Gene Cox Stadium,Tallahassee,USA,USA,America/New_York,63057
+1940,Center Court,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+1941,Court A,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+1942,Court B,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+1951,Court C,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+14496,Court 1,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+14498,Court 2,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+14892,Court 3,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+14904,Court 6,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+16059,Court 4,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+16061,Court 5,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+16814,Court Steigenberger,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+22572,Court 7,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+34404,Indoor 3,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+34406,Indoor 2,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+39085,Pamukspor 1,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+55233,Indoor 1,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+57954,Court 1,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+60286,Court 9,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+60348,Court 9,Istanbul,Turkiye,TUR,Europe/Istanbul,63059
+77483,Centre Court,Ostrava,Czechia,CZE,Europe/Prague,63245
+77485,Court 3,Ostrava,Czechia,CZE,Europe/Prague,63245
+77487,Court 4,Ostrava,Czechia,CZE,Europe/Prague,63245
+1763,Center Court,Rome,Italy,ITA,Europe/Rome,63247
+18169,Campo 3,Rome,Italy,ITA,Europe/Rome,63247
+18173,Campo 5,Rome,Italy,ITA,Europe/Rome,63247
+29194,Court 4 Tevere,Rome,Italy,ITA,Europe/Rome,63247
+29262,Campo Centrale,Rome,Italy,ITA,Europe/Rome,63247
+29518,Court 3,Rome,Italy,ITA,Europe/Rome,63247
+77469,FUSP Center Court,Rome,Italy,ITA,Europe/Rome,63247
+77471,Decathlon Court,Rome,Italy,ITA,Europe/Rome,63247
+77473,SICEurope Court,Rome,Italy,ITA,Europe/Rome,63247
+13874,Court 6,Savannah,USA,USA,America/New_York,63249
+13876,Court 16,Savannah,USA,USA,America/New_York,63249
+20031,Court 15,Savannah,USA,USA,America/New_York,63249
+29060,Savannah Toyota Court,Savannah,USA,USA,America/New_York,63249
+32421,The Landings Club,Savannah,USA,USA,America/New_York,63249
+63251,Center Court,Savannah,USA,USA,America/New_York,63249
+63273,Landings Company Court,Savannah,USA,USA,America/New_York,63249
+70873,Atlantic Radiology Court,Savannah,USA,USA,America/New_York,63249
+34544,Court 6,Saint Malo,France,FRA,Europe/Paris,63309
+46324,Court 1,Saint Malo,France,FRA,Europe/Paris,63309
+46326,Court 2,Saint Malo,France,FRA,Europe/Paris,63309
+53391,Court Central,Saint Malo,France,FRA,Europe/Paris,63309
+53409,Court 4,Saint Malo,France,FRA,Europe/Paris,63309
+77559,Indoor Central,Saint Malo,France,FRA,Europe/Paris,63309
+77561,Indoor 1,Saint Malo,France,FRA,Europe/Paris,63309
+77563,Indoor 2,Saint Malo,France,FRA,Europe/Paris,63309
+63313,Centre Court,Mauthausen,Austria,AUT,Europe/Vienna,63311
+63315,Court 1,Mauthausen,Austria,AUT,Europe/Vienna,63311
+63317,Court 2,Mauthausen,Austria,AUT,Europe/Vienna,63311
+63319,Cancha 3,Mauthausen,Austria,AUT,Europe/Vienna,63311
+18161,Court 1,Aix-en-Provence,France,FRA,Europe/Paris,63321
+18163,Court 3,Aix-en-Provence,France,FRA,Europe/Paris,63321
+18177,Court 5,Aix-en-Provence,France,FRA,Europe/Paris,63321
+18183,Court Smart Trade,Aix-en-Provence,France,FRA,Europe/Paris,63321
+18185,Court Nissan,Aix-en-Provence,France,FRA,Europe/Paris,63321
+18193,Court Central Cepac,Aix-en-Provence,France,FRA,Europe/Paris,63321
+39361,Court 2,Aix-en-Provence,France,FRA,Europe/Paris,63321
+70971,Court Credit Agricole,Aix-en-Provence,France,FRA,Europe/Paris,63321
+70975,Court Eiffage,Aix-en-Provence,France,FRA,Europe/Paris,63321
+63325,Center Court,Salvador,Brazil,BRA,America/Bahia,63323
+63373,Court 4,Salvador,Brazil,BRA,America/Bahia,63323
+14040,Court Ideal Groupe,Bordeaux,France,FRA,Europe/Paris,63407
+14042,Court 11,Bordeaux,France,FRA,Europe/Paris,63407
+14062,Court 12,Bordeaux,France,FRA,Europe/Paris,63407
+18197,Court Patrice Dominguez,Bordeaux,France,FRA,Europe/Paris,63407
+18199,Court 2,Bordeaux,France,FRA,Europe/Paris,63407
+29426,Indoors 16,Bordeaux,France,FRA,Europe/Paris,63407
+29428,Indoors 17,Bordeaux,France,FRA,Europe/Paris,63407
+29430,Indoors 18,Bordeaux,France,FRA,Europe/Paris,63407
+63493,Court 4,Bordeaux,France,FRA,Europe/Paris,63407
+63411,Center Court,Coquimbo,Chile,CHL,America/Santiago,63409
+63413,Court 1,Coquimbo,Chile,CHL,America/Santiago,63409
+63415,Court 3,Coquimbo,Chile,CHL,America/Santiago,63409
+63417,Cancha 4,Coquimbo,Chile,CHL,America/Santiago,63409
+63419,Court 2,Coquimbo,Chile,CHL,America/Santiago,63409
+66897,Cancha Central,Coquimbo,Chile,CHL,America/Santiago,63409
+66899,Cancha 2,Coquimbo,Chile,CHL,America/Santiago,63409
+66901,Cancha 3,Coquimbo,Chile,CHL,America/Santiago,63409
+20045,Court 11,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+20047,Court 8,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+20053,Court 7,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+23768,Court 6,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+23774,Court 5,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+27201,Court 4,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+27203,Court 3,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+27205,Court 2,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+28519,Court 10,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+28579,Court 12,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+39115,Court 9,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+39281,Centre Court,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+57068,Court 1,Shymkent,Kazakhstan,KAZ,Asia/Almaty,63427
+63499,Court Central,Paris,France,FRA,Europe/Paris,63429
+63501,Court 1,Paris,France,FRA,Europe/Paris,63429
+63503,Court 2,Paris,France,FRA,Europe/Paris,63429
+71141,Court 3,Paris,France,FRA,Europe/Paris,63429
+19917,Court 1,Francavilla al Mare,Italy,ITA,Europe/Rome,63527
+19919,Court 2,Francavilla al Mare,Italy,ITA,Europe/Rome,63527
+19921,Court 3,Francavilla al Mare,Italy,ITA,Europe/Rome,63527
+19927,Grandstand,Francavilla al Mare,Italy,ITA,Europe/Rome,63527
+19929,Center Court,Francavilla al Mare,Italy,ITA,Europe/Rome,63527
+39291,Court 6,Troisdorf,Germany,DEU,Europe/Berlin,63649
+39293,Court 1,Troisdorf,Germany,DEU,Europe/Berlin,63649
+39301,Court 7,Troisdorf,Germany,DEU,Europe/Berlin,63649
+39307,Court 8,Troisdorf,Germany,DEU,Europe/Berlin,63649
+39309,Court 5,Troisdorf,Germany,DEU,Europe/Berlin,63649
+39311,Centre Court 3,Troisdorf,Germany,DEU,Europe/Berlin,63649
+39313,Court 4,Troisdorf,Germany,DEU,Europe/Berlin,63649
+39315,Court 2,Troisdorf,Germany,DEU,Europe/Berlin,63649
+52311,Center Court,Troisdorf,Germany,DEU,Europe/Berlin,63649
+63675,B and B Court,Troisdorf,Germany,DEU,Europe/Berlin,63649
+17276,Court 1,Bratislava,Slovakia,SVK,Europe/Bratislava,63833
+22398,Court 4,Bratislava,Slovakia,SVK,Europe/Bratislava,63833
+22416,Court 6,Bratislava,Slovakia,SVK,Europe/Bratislava,63833
+63965,Court 9,Bratislava,Slovakia,SVK,Europe/Bratislava,63833
+71633,Central Court,Bratislava,Slovakia,SVK,Europe/Bratislava,63833
+71635,Court 8,Bratislava,Slovakia,SVK,Europe/Bratislava,63833
+71691,Court 11,Bratislava,Slovakia,SVK,Europe/Bratislava,63833
+26671,Stadium,Orlando,USA,USA,America/New_York,63835
+26681,Court 5,Orlando,USA,USA,America/New_York,63835
+26683,Court 3,Orlando,USA,USA,America/New_York,63835
+27689,Court 1,Orlando,USA,USA,America/New_York,63835
+39976,Court 4,Orlando,USA,USA,America/New_York,63835
+39984,Court 2,Orlando,USA,USA,America/New_York,63835
+40046,Court 6,Orlando,USA,USA,America/New_York,63835
+61997,Indoor 2,Orlando,USA,USA,America/New_York,63835
+14122,Center Court,Prostejov,Czechia,CZE,Europe/Prague,63907
+14124,Court 1,Prostejov,Czechia,CZE,Europe/Prague,63907
+59764,Court 6,Prostejov,Czechia,CZE,Europe/Prague,63907
+59772,Court 2,Prostejov,Czechia,CZE,Europe/Prague,63907
+63905,Prostejov Arena,Prostejov,Czechia,CZE,Europe/Prague,63907
+1843,TennisPoint Court,Halle,Germany,DEU,Europe/Berlin,63933
+1844,Court 2,Halle,Germany,DEU,Europe/Berlin,63933
+2387,Court 3,Halle,Germany,DEU,Europe/Berlin,63933
+14170,Court 4,Halle,Germany,DEU,Europe/Berlin,63933
+14172,Court 5,Halle,Germany,DEU,Europe/Berlin,63933
+14174,Court 6,Halle,Germany,DEU,Europe/Berlin,63933
+58726,Centre Court,Halle,Germany,DEU,Europe/Berlin,63933
+71839,Owl Arena,Halle,Germany,DEU,Europe/Berlin,63933
+25482,Court 5,Corrientes,Argentina,ARG,America/Argentina/Cordoba,63937
+25484,Court 2,Corrientes,Argentina,ARG,America/Argentina/Cordoba,63937
+25486,Court 6,Corrientes,Argentina,ARG,America/Argentina/Cordoba,63937
+25488,Court 1,Corrientes,Argentina,ARG,America/Argentina/Cordoba,63937
+25490,Court 3,Corrientes,Argentina,ARG,America/Argentina/Cordoba,63937
+35492,Court 4,Corrientes,Argentina,ARG,America/Argentina/Cordoba,63937
+63939,Center Court,Corrientes,Argentina,ARG,America/Argentina/Cordoba,63937
+64217,Estadio Leonardo Mayer,Corrientes,Argentina,ARG,America/Argentina/Cordoba,63937
+58728,Centre Court,Berlin,Germany,DEU,Europe/Berlin,63941
+58698,Court 2,Gaiba,Italy,ITA,Europe/Rome,63943
+58700,Court 1,Gaiba,Italy,ITA,Europe/Rome,63943
+58702,Center Court,Gaiba,Italy,ITA,Europe/Rome,63943
+58714,Court 4,Gaiba,Italy,ITA,Europe/Rome,63943
+64261,Court 3,Gaiba,Italy,ITA,Europe/Rome,63943
+61849,Court Diego Schwarzman,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,64051
+64289,Enrique Morea,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,64051
+74522,Cancha Central,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,64051
+75897,Cancha 2,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,64051
+75899,Cancha 3,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires,64051
+64293,Court 1,London,England,ENG,Europe/London,64265
+64295,Court 2,London,England,ENG,Europe/London,64265
+64297,Court 3,London,England,ENG,Europe/London,64265
+64299,Court 4,London,England,ENG,Europe/London,64265
+64301,Court 5,London,England,ENG,Europe/London,64265
+64303,Court 7,London,England,ENG,Europe/London,64265
+64305,Court 8,London,England,ENG,Europe/London,64265
+64307,Court 9,London,England,ENG,Europe/London,64265
+64309,Court 10,London,England,ENG,Europe/London,64265
+64311,Stadium Court,London,England,ENG,Europe/London,64265
+64313,Court 12,London,England,ENG,Europe/London,64265
+64315,Court 13,London,England,ENG,Europe/London,64265
+64317,Court 14,London,England,ENG,Europe/London,64265
+64319,Court 15,London,England,ENG,Europe/London,64265
+64321,Court 16,London,England,ENG,Europe/London,64265
+64323,Court 18,London,England,ENG,Europe/London,64265
+64355,Court 6,London,England,ENG,Europe/London,64265
+64357,Court 17,London,England,ENG,Europe/London,64265
+78501,Show Court 1,London,England,ENG,Europe/London,64265
+78503,Court 11,London,England,ENG,Europe/London,64265
+64371,Center Court,Malaga,Spain,ESP,Europe/Madrid,64369
+64373,Court 1,Malaga,Spain,ESP,Europe/Madrid,64369
+64375,Court 2,Malaga,Spain,ESP,Europe/Madrid,64369
+64377,Court 3,Malaga,Spain,ESP,Europe/Madrid,64369
+31811,Court 2,Troyes,France,FRA,US/Pacific,64379
+31817,Court 1,Troyes,France,FRA,US/Pacific,64379
+31819,Court 3,Troyes,France,FRA,US/Pacific,64379
+64381,Center Court,Troyes,France,FRA,US/Pacific,64379
+64653,Indoor 1,Troyes,France,FRA,US/Pacific,64379
+64655,Indoor 2,Troyes,France,FRA,US/Pacific,64379
+78587,Court Amplitude,Troyes,France,FRA,US/Pacific,64379
+64669,Court 2,Salzburg,Austria,AUT,Europe/Vienna,64571
+64671,Court 1,Salzburg,Austria,AUT,Europe/Vienna,64571
+64673,Center Court,Salzburg,Austria,AUT,Europe/Vienna,64571
+78681,Court 3,Salzburg,Austria,AUT,Europe/Vienna,64571
+31371,Court 1,Contrexeville,France,FRA,Europe/Paris,64573
+31375,Court Central,Contrexeville,France,FRA,Europe/Paris,64573
+31377,Court 2,Contrexeville,France,FRA,Europe/Paris,64573
+42438,Court 3,Contrexeville,France,FRA,Europe/Paris,64573
+59034,Court 4,Contrexeville,France,FRA,Europe/Paris,64573
+64753,Center Court,Rome,USA,USA,America/New_York,64751
+64755,Court 1,Rome,USA,USA,America/New_York,64751
+64757,Court 3,Rome,USA,USA,America/New_York,64751
+64793,Court 4,Rome,USA,USA,America/New_York,64751
+64795,Court 5,Rome,USA,USA,America/New_York,64751
+1933,Center Court,Hamburg,Germany,DEU,Europe/Berlin,64869
+1934,M1,Hamburg,Germany,DEU,Europe/Berlin,64869
+1935,M2,Hamburg,Germany,DEU,Europe/Berlin,64869
+1936,M3,Hamburg,Germany,DEU,Europe/Berlin,64869
+14488,Court 2,Hamburg,Germany,DEU,Europe/Berlin,64869
+24904,Court 1,Hamburg,Germany,DEU,Europe/Berlin,64869
+65073,M4,Hamburg,Germany,DEU,Europe/Berlin,64869
+72609,M5,Hamburg,Germany,DEU,Europe/Berlin,64869
+64873,Center,Indianapolis,USA,USA,America/New_York,64871
+64875,Court 1,Indianapolis,USA,USA,America/New_York,64871
+64877,Court 2,Indianapolis,USA,USA,America/New_York,64871
+64879,Court 3,Indianapolis,USA,USA,America/New_York,64871
+64881,Court 4,Indianapolis,USA,USA,America/New_York,64871
+32553,Court 3,Pozoblanco,Spain,ESP,Europe/Madrid,64883
+32555,Court 4,Pozoblanco,Spain,ESP,Europe/Madrid,64883
+32557,Court 2,Pozoblanco,Spain,ESP,Europe/Madrid,64883
+32559,Court 1,Pozoblanco,Spain,ESP,Europe/Madrid,64883
+32746,Pista Fabian Dorado,Pozoblanco,Spain,ESP,Europe/Madrid,64883
+44292,Pista 2,Pozoblanco,Spain,ESP,Europe/Madrid,64883
+44296,Pista 4,Pozoblanco,Spain,ESP,Europe/Madrid,64883
+44298,Pista 3,Pozoblanco,Spain,ESP,Europe/Madrid,64883
+59228,Center Court,Pozoblanco,Spain,ESP,Europe/Madrid,64883
+14612,Center Court,Tampere,Finland,FIN,Europe/Helsinki,64885
+14614,Court 1,Tampere,Finland,FIN,Europe/Helsinki,64885
+16496,Court 5,Tampere,Finland,FIN,Europe/Helsinki,64885
+31957,Court 4,Tampere,Finland,FIN,Europe/Helsinki,64885
+31959,Court 7,Tampere,Finland,FIN,Europe/Helsinki,64885
+31963,Court 3,Tampere,Finland,FIN,Europe/Helsinki,64885
+14406,Centrale,San Benedetto,Italy,ITA,Europe/Rome,65099
+14408,Campo 2,San Benedetto,Italy,ITA,Europe/Rome,65099
+14410,Campo 3,San Benedetto,Italy,ITA,Europe/Rome,65099
+18393,Court 4,Winnipeg,Canada,CAN,America/Chicago,65103
+18395,Court 6,Winnipeg,Canada,CAN,America/Chicago,65103
+18397,Court 8,Winnipeg,Canada,CAN,America/Chicago,65103
+31355,Court 9,Winnipeg,Canada,CAN,America/Chicago,65103
+31395,Court 10,Winnipeg,Canada,CAN,America/Chicago,65103
+31397,Court 11,Winnipeg,Canada,CAN,America/Chicago,65103
+42086,Court 2,Winnipeg,Canada,CAN,America/Chicago,65103
+42088,Court 3,Winnipeg,Canada,CAN,America/Chicago,65103
+65187,Court 1,Winnipeg,Canada,CAN,America/Chicago,65103
+65141,Centre Court,Zug,Switzerland,CHE,Europe/Zurich,65105
+65143,Court 1,Zug,Switzerland,CHE,Europe/Zurich,65105
+65145,Court 2,Zug,Switzerland,CHE,Europe/Zurich,65105
+78957,Jego Court 1,Zug,Switzerland,CHE,Europe/Zurich,65105
+78959,Tramondo Court 2,Zug,Switzerland,CHE,Europe/Zurich,65105
+14632,Stadium 1,Lexington,USA,USA,America/New_York,65205
+14638,Court 6,Lexington,USA,USA,America/New_York,65205
+18449,Indoor 1,Lexington,USA,USA,America/New_York,65205
+18451,Indoor 2,Lexington,USA,USA,America/New_York,65205
+18459,Indoor 4,Lexington,USA,USA,America/New_York,65205
+52729,Indoor 11,Lexington,USA,USA,America/New_York,65205
+52731,Indoor 9,Lexington,USA,USA,America/New_York,65205
+65207,Center Court,Lexington,USA,USA,America/New_York,65205
+65209,Court 1,Lexington,USA,USA,America/New_York,65205
+65211,Court 2,Lexington,USA,USA,America/New_York,65205
+65213,Court 3,Lexington,USA,USA,America/New_York,65205
+79053,Court 7,Lexington,USA,USA,America/New_York,65205
+65287,Stadium 6,Iasi,Romania,ROU,Europe/Bucharest,65215
+15355,Cancha Central,Lima,Peru,PER,America/Lima,65347
+15359,Cancha 5,Lima,Peru,PER,America/Lima,65347
+17200,Estadio,Lima,Peru,PER,America/Lima,65347
+17202,Cancha 6,Lima,Peru,PER,America/Lima,65347
+17204,Cancha 7,Lima,Peru,PER,America/Lima,65347
+24640,Cancha 1,Lima,Peru,PER,America/Lima,65347
+24642,Cancha 2,Lima,Peru,PER,America/Lima,65347
+24846,Cancha 8,Lima,Peru,PER,America/Lima,65347
+24848,Cancha 4,Lima,Peru,PER,America/Lima,65347
+60778,Center Court,Lima,Peru,PER,America/Lima,65347
+60874,Cancha 3,Lima,Peru,PER,America/Lima,65347
+60878,Cancha 11,Lima,Peru,PER,America/Lima,65347
+60880,Cancha 10,Lima,Peru,PER,America/Lima,65347
+60882,Cancha 9,Lima,Peru,PER,America/Lima,65347
+61014,Cancha 13,Lima,Peru,PER,America/Lima,65347
+22718,Court 2,West Vancouver,Canada,CAN,America/Vancouver,65435
+22720,Court 1,West Vancouver,Canada,CAN,America/Vancouver,65435
+22724,Centre Court,West Vancouver,Canada,CAN,America/Vancouver,65435
+44680,Polygon Court,West Vancouver,Canada,CAN,America/Vancouver,65435
+43984,Court 6,Grodzisk Mazowiecki,Poland,POL,Europe/Warsaw,65437
+43988,Court 7,Grodzisk Mazowiecki,Poland,POL,Europe/Warsaw,65437
+43992,Court 8,Grodzisk Mazowiecki,Poland,POL,Europe/Warsaw,65437
+44022,Court 9,Grodzisk Mazowiecki,Poland,POL,Europe/Warsaw,65437
+58964,GKS Pogon Stadium,Grodzisk Mazowiecki,Poland,POL,Europe/Warsaw,65437
+65293,Center Court,Grodzisk Mazowiecki,Poland,POL,Europe/Warsaw,65437
+65295,Court 12,Grodzisk Mazowiecki,Poland,POL,Europe/Warsaw,65437
+65297,Court 13,Grodzisk Mazowiecki,Poland,POL,Europe/Warsaw,65437
+65299,Court 14,Grodzisk Mazowiecki,Poland,POL,Europe/Warsaw,65437
+73133,Indoor 1,Kozerki,Poland,POL,Europe/Warsaw,65437
+73141,Indoor 3,Kozerki,Poland,POL,Europe/Warsaw,65437
+73217,Indoor Court 2,Kozerki,Poland,POL,Europe/Warsaw,65437
+14524,Court Central,Granby,Canada,CAN,Canada/Eastern,65597
+14526,Court 3,Granby,Canada,CAN,Canada/Eastern,65597
+14528,Court 4,Granby,Canada,CAN,Canada/Eastern,65597
+14530,Court 1,Granby,Canada,CAN,Canada/Eastern,65597
+14532,Court 7,Granby,Canada,CAN,Canada/Eastern,65597
+31909,Court 8,Granby,Canada,CAN,Canada/Eastern,65597
+32101,Indoor Court 1,Granby,Canada,CAN,Canada/Eastern,65597
+32103,Indoor Court 3,Granby,Canada,CAN,Canada/Eastern,65597
+63869,Indoor 4,Granby,Canada,CAN,Canada/Eastern,65597
+64071,Indoor 2,Granby,Canada,CAN,Canada/Eastern,65597
+65667,Centre Court,Prague,Czechia,CZE,Europe/Prague,65601
+65669,Court 5,Prague,Czechia,CZE,Europe/Prague,65601
+65671,Court 7,Prague,Czechia,CZE,Europe/Prague,65601
+65765,Court 8,Prague,Czechia,CZE,Europe/Prague,65601
+14906,Court 4,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo,65603
+65675,Central Court,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo,65603
+65677,Grandstand,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo,65603
+65679,Court 1,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo,65603
+73147,Court 2,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo,65603
+14794,Center Court,Como,Italy,ITA,Europe/Rome,65717
+14796,Court 1,Como,Italy,ITA,Europe/Rome,65717
+14798,Court 2,Como,Italy,ITA,Europe/Rome,65717
+33956,Court 5,Como,Italy,ITA,Europe/Rome,65717
+33958,Indoor 1,Como,Italy,ITA,Europe/Rome,65717
+33960,Indoor 2,Como,Italy,ITA,Europe/Rome,65717
+73581,TC Giussano Indoors 3,Como,Italy,ITA,Europe/Rome,65717
+73583,TC Giussano Indoors 4,Como,Italy,ITA,Europe/Rome,65717
+73585,TC Giussano Indoors 5,Como,Italy,ITA,Europe/Rome,65717
+60096,Pista 4,Mallorca,Spain,ESP,Europe/Madrid,65719
+65721,Pista 1,Mallorca,Spain,ESP,Europe/Madrid,65719
+65723,Pista 2,Mallorca,Spain,ESP,Europe/Madrid,65719
+65725,Pista 3,Mallorca,Spain,ESP,Europe/Madrid,65719
+65727,Court 1,Mallorca,Spain,ESP,Europe/Madrid,65719
+65729,Court 2,Mallorca,Spain,ESP,Europe/Madrid,65719
+65731,Court 3,Mallorca,Spain,ESP,Europe/Madrid,65719
+65733,Grandstand,Mallorca,Spain,ESP,Europe/Madrid,65719
+65735,Court Central,Mallorca,Spain,ESP,Europe/Madrid,65719
+65737,Center Court,Mallorca,Spain,ESP,Europe/Madrid,65719
+30717,Court 17,Toulouse,France,FRA,Europe/Paris,65739
+30719,Court 16,Toulouse,France,FRA,Europe/Paris,65739
+30729,Court Central,Toulouse,France,FRA,Europe/Paris,65739
+65741,Centre Court,Toulouse,France,FRA,Europe/Paris,65739
+65743,Court 1,Toulouse,France,FRA,Europe/Paris,65739
+65745,Court 2,Toulouse,France,FRA,Europe/Paris,65739
+65747,Court 3,Toulouse,France,FRA,Europe/Paris,65739
+65749,Court 4,Toulouse,France,FRA,Europe/Paris,65739
+65893,Lapietra Center Court,Bari,Italy,ITA,Europe/Rome,65849
+65915,Ferrovie Del Sud Est Court,Bari,Italy,ITA,Europe/Rome,65849
+65917,Court 2 Coop,Bari,Italy,ITA,Europe/Rome,65849
+73725,Court Maldarizzi,Bari,Italy,ITA,Europe/Rome,65849
+73779,Tato Paride Court,Bari,Italy,ITA,Europe/Rome,65849
+31795,Court 9,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+31801,Court 6,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+31803,Court 2,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+31805,Court 1,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+42040,Court 4,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+42050,Court 7,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+42052,Court 3,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+42494,Court 5,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+57700,Sportima Arena,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+58688,Court 12,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+66885,Court 17,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+66887,Centre Court,Vilnius,Lithuania,LTU,Europe/Vilnius,65975
+43520,Indoor 2,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+43522,Indoor 1,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+68431,Indoor 11,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+68437,Indoor 13,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+68499,Indoor 12,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+68549,Indoor 14,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+77827,Center Court,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+77829,Show Court,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+77831,Court 1,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+77869,Indoor Court,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+77885,Court 2,Taipei,Chinese Taipei,TPE,Asia/Taipei,65981
+65987,Center Court,Columbus,USA,USA,America/New_York,65985
+65989,Court 1,Columbus,USA,USA,America/New_York,65985
+65991,Court 2,Columbus,USA,USA,America/New_York,65985
+65993,Court 3,Columbus,USA,USA,America/New_York,65985
+65995,Court 4,Columbus,USA,USA,America/New_York,65985
+29634,Court 4,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29636,Court 2,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29638,Cancha 9,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29640,Court 3,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29642,Cancha 8,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29644,Cancha 10,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29646,Court 1,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29648,Cancha 11,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29650,Cancha 7,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29652,Cancha Central,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+29654,Cancha 5,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+57734,Cancha 2,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+57736,Cancha 6,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+57738,Cancha 3,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+57740,Cancha 1,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+57742,Cancha 4,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+57744,Court Central,Villa Maria,Argentina,ARG,America/Argentina/Cordoba,65997
+28303,Court 1,Tel Aviv,Israel,ISR,Asia/Jerusalem,66093
+66097,Centre Court,Tel Aviv,Israel,ISR,Asia/Jerusalem,66093
+33928,Court Central,Monastir,Tunisia,TUN,Africa/Tunis,66187
+34156,Court 7,Monastir,Tunisia,TUN,Africa/Tunis,66187
+34158,Court 6,Monastir,Tunisia,TUN,Africa/Tunis,66187
+34534,Center Court,Monastir,Tunisia,TUN,Africa/Tunis,66187
+34908,Court 3,Monastir,Tunisia,TUN,Africa/Tunis,66187
+34970,Court 4,Monastir,Tunisia,TUN,Africa/Tunis,66187
+34972,Court 5,Monastir,Tunisia,TUN,Africa/Tunis,66187
+34974,Court 2,Monastir,Tunisia,TUN,Africa/Tunis,66187
+34976,Court 1,Monastir,Tunisia,TUN,Africa/Tunis,66187
+35602,Court 8,Monastir,Tunisia,TUN,Africa/Tunis,66187
+60042,Central Tag Heuer,Saint-Tropez,France,FRA,Europe/Paris,66565
+74027,Center Court,Saint-Tropez,France,FRA,Europe/Paris,66565
+74029,Court 1,Saint-Tropez,France,FRA,Europe/Paris,66565
+74031,Court 2,Saint-Tropez,France,FRA,Europe/Paris,66565
+74033,Court 3,Saint-Tropez,France,FRA,Europe/Paris,66565
+74163,Court 5,Saint-Tropez,France,FRA,Europe/Paris,66565
+74165,Court 6,Saint-Tropez,France,FRA,Europe/Paris,66565
+14046,Court 1,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+14048,Court 3,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+14050,Court 5,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+16121,Court 2,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+18165,Stadium,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+20025,Court 4,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+29416,Indoor C1,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+29420,Indoor C4,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+29422,Indoor C6,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+66879,Center Court,Busan,Republic of Korea,KOR,Asia/Seoul,66785
+41042,Court 1,Hamburg,Germany,DEU,Europe/Berlin,66787
+66893,Court 3,Hamburg,Germany,DEU,Europe/Berlin,66787
+74726,Court 2,Hamburg,Germany,DEU,Europe/Berlin,66787
+15304,Central Court,Ortisei,Italy,ITA,Europe/Rome,66951
+15306,Court 1,Ortisei,Italy,ITA,Europe/Rome,66951
+24052,Center Court,Ortisei,Italy,ITA,Europe/Rome,66951
+24054,Court 2,Ortisei,Italy,ITA,Europe/Rome,66951
+24056,Court 3,Ortisei,Italy,ITA,Europe/Rome,66951
+67163,Cancha 2,Tampico,Mexico,MEX,America/Mexico_City,66953
+67165,Cancha 3,Tampico,Mexico,MEX,America/Mexico_City,66953
+67231,Estadio,Tampico,Mexico,MEX,America/Mexico_City,66953
+15664,Pallazzetto Alzano,Bergamo,Italy,ITA,Europe/Rome,67275
+27125,Court 1,Bergamo,Italy,ITA,Europe/Rome,67275
+27131,Court 2,Bergamo,Italy,ITA,Europe/Rome,67275
+52689,Bergamo,Bergamo,Italy,ITA,Europe/Rome,67275
+67315,Center Court,Bergamo,Italy,ITA,Europe/Rome,67275
+28465,Court 16,Matsuyama,Japan,JPN,Asia/Tokyo,67459
+28467,Court 8,Matsuyama,Japan,JPN,Asia/Tokyo,67459
+28469,Court 6,Matsuyama,Japan,JPN,Asia/Tokyo,67459
+74972,Center Court,Matsuyama,Japan,JPN,Asia/Tokyo,67459
+74974,Court 1,Matsuyama,Japan,JPN,Asia/Tokyo,67459
+74976,Court 2,Matsuyama,Japan,JPN,Asia/Tokyo,67459
+74978,Court 3,Matsuyama,Japan,JPN,Asia/Tokyo,67459
+75054,Court Indoor 12,Matsuyama,Japan,JPN,Asia/Tokyo,67459
+75088,Court Indoor 11,Matsuyama,Japan,JPN,Asia/Tokyo,67459
+15888,Court Central,Drummondville,Canada,CAN,America/Toronto,67621
+15890,Court 1,Drummondville,Canada,CAN,America/Toronto,67621
+54901,Centre Marcel Dionne,Drummondville,Canada,CAN,America/Toronto,67621
+44278,Centre Court,Yokkaichi,Japan,JPN,Asia/Tokyo,67855
+44280,Show Court 1,Yokkaichi,Japan,JPN,Asia/Tokyo,67855
+44282,Court 7,Yokkaichi,Japan,JPN,Asia/Tokyo,67855
+68083,Sub- Center,Yokkaichi,Japan,JPN,Asia/Tokyo,67855
+68085,Court 5,Yokkaichi,Japan,JPN,Asia/Tokyo,67855
+68157,Indoor Court 10,Yokkaichi,Japan,JPN,Asia/Tokyo,67855
+68159,Indoor Court 11,Yokkaichi,Japan,JPN,Asia/Tokyo,67855
+68161,Indoor Court 14,Yokkaichi,Japan,JPN,Asia/Tokyo,67855
+68163,Indoor Court 15,Yokkaichi,Japan,JPN,Asia/Tokyo,67855
+68259,Maspalomas Center Court,Maspalomas,Spain,ESP,Europe/Madrid,68141
+68261,EÓ Hotels Court,Maspalomas,Spain,ESP,Europe/Madrid,68141
+68263,Canary Islands Court,Maspalomas,Spain,ESP,Europe/Madrid,68141
+68983,Cancha Diego Schwartzman,Tigre,Argentina,ARG,America/Argentina/Buenos_Aires,68959
+68985,Cancha 2,Tigre,Argentina,ARG,America/Argentina/Buenos_Aires,68959
+68987,Cancha 3,Tigre,Argentina,ARG,America/Argentina/Buenos_Aires,68959
+60888,Court 5,Piracicaba,Brazil,BRA,America/Sao_Paulo,69121
+60892,Court 4,Piracicaba,Brazil,BRA,America/Sao_Paulo,69121
+60918,Court 6,Piracicaba,Brazil,BRA,America/Sao_Paulo,69121
+63217,Quadra 5,Piracicaba,Brazil,BRA,America/Sao_Paulo,69121
+63219,Quadra 4,Piracicaba,Brazil,BRA,America/Sao_Paulo,69121
+63221,Quadra 6,Piracicaba,Brazil,BRA,America/Sao_Paulo,69121
+63223,Quadra Central,Piracicaba,Brazil,BRA,America/Sao_Paulo,69121
+76145,Quadra 3,Piracicaba,Brazil,BRA,America/Sao_Paulo,69121
+76149,Quadra 7,Piracicaba,Brazil,BRA,America/Sao_Paulo,69121
+69277,Court Central,Ottignies-Louvain-la-Neuve,Belgium,BEL,Europe/Brussels,69179
+69279,Court 1,Ottignies-Louvain-la-Neuve,Belgium,BEL,Europe/Brussels,69179
+47216,Court 1,Cherbourg-en-Cotentin,France,FRA,Europe/Paris,69645
+47218,Court Central,Cherbourg-en-Cotentin,France,FRA,Europe/Paris,69645
+55105,Court 2,Cherbourg-en-Cotentin,France,FRA,Europe/Paris,69645
+60804,Court 4,Cherbourg-en-Cotentin,France,FRA,Europe/Paris,69645
+66677,Central,Cherbourg-en-Cotentin,France,FRA,Europe/Paris,69645
+66679,Court 5,Cherbourg-en-Cotentin,France,FRA,Europe/Paris,69645
+69769,Tourlaville,Cherbourg-en-Cotentin,France,FRA,Europe/Paris,69645
+69771,Jean Jaures,Cherbourg-en-Cotentin,France,FRA,Europe/Paris,69645
+69781,Center Court,Rome,USA,USA,America/New_York,69779
+69783,Court 1,Rome,USA,USA,America/New_York,69779
+69785,Court 2,Rome,USA,USA,America/New_York,69779
+69787,Court 3,Rome,USA,USA,America/New_York,69779
+69791,Center Court,Rovereto,Italy,ITA,Europe/Rome,69789
+69793,Court 1,Rovereto,Italy,ITA,Europe/Rome,69789
+69795,Court 2,Rovereto,Italy,ITA,Europe/Rome,69789
+69797,Court 3,Rovereto,Italy,ITA,Europe/Rome,69789
+69801,Center Court,Mérida,Mexico,MEX,America/Mexico_City,69799
+69803,Cancha 1,Mérida,Mexico,MEX,America/Mexico_City,69799
+69805,Cancha 2,Mérida,Mexico,MEX,America/Mexico_City,69799
+69807,Court 3,Mérida,Mexico,MEX,America/Mexico_City,69799
+69893,Estadio Akron,Mérida,Mexico,MEX,America/Mexico_City,69799
+25550,Court 1,Waco,USA,USA,America/Chicago,69965
+25552,Court 3,Waco,USA,USA,America/Chicago,69965
+25556,Court 4,Waco,USA,USA,America/Chicago,69965
+25564,Court 6,Waco,USA,USA,America/Chicago,69965
+25566,Court 5,Waco,USA,USA,America/Chicago,69965
+26052,Court 2,Waco,USA,USA,America/Chicago,69965
+35370,Court 9,Waco,USA,USA,America/Chicago,69965
+35372,Court 7,Waco,USA,USA,America/Chicago,69965
+35374,Court 8,Waco,USA,USA,America/Chicago,69965
+35436,Center,Waco,USA,USA,America/Chicago,69965
+47366,Court 12,Waco,USA,USA,America/Chicago,69965
+47368,Court 11,Waco,USA,USA,America/Chicago,69965
+47406,Indoor 2,Waco,USA,USA,America/Chicago,69965
+47408,Indoor 3,Waco,USA,USA,America/Chicago,69965
+47488,Stadium,Waco,USA,USA,America/Chicago,69965
+64693,Court R3,Waco,USA,USA,America/Chicago,69965
+64695,Court R5,Waco,USA,USA,America/Chicago,69965
+70071,Grandstand,Waco,USA,USA,America/Chicago,69965
+48965,Court 2,Austin,USA,USA,America/Chicago,69971
+48967,Court 1,Austin,USA,USA,America/Chicago,69971
+48971,Court 5,Austin,USA,USA,America/Chicago,69971
+48973,Court 3,Austin,USA,USA,America/Chicago,69971
+48975,Court 6,Austin,USA,USA,America/Chicago,69971
+48977,Court 4,Austin,USA,USA,America/Chicago,69971
+70041,Stadium,Austin,USA,USA,America/Chicago,69971
+70043,Grandstand,Austin,USA,USA,America/Chicago,69971
+76923,Court 8,Austin,USA,USA,America/Chicago,69971
+70273,Court 1,Birmingham,England,ENG,Europe/London,70271
+70275,Court 2,Birmingham,England,ENG,Europe/London,70271
+70277,Court 3,Birmingham,England,ENG,Europe/London,70271
+70279,Court 4,Birmingham,England,ENG,Europe/London,70271
+77055,MINORU YONEYAMA CRT,Birmingham,England,ENG,Europe/London,70271
+77057,12BET COURT,Birmingham,England,ENG,Europe/London,70271
+29612,Pista 1,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid,70335
+29614,Court 6,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid,70335
+29616,Court 2,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid,70335
+29620,Court 8,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid,70335
+29622,Court 7,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid,70335
+29716,Court 5,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid,70335
+61247,Pista Central,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid,70335
+67189,Pista 4,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid,70335
+67191,Pista 3,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid,70335
+52489,Pista Central,Girona,Spain,ESP,Europe/Madrid,70345
+52491,Pista 2,Girona,Spain,ESP,Europe/Madrid,70345
+61066,Court 14,Girona,Spain,ESP,Europe/Madrid,70345
+61070,Court 11,Girona,Spain,ESP,Europe/Madrid,70345
+61072,Court 10,Girona,Spain,ESP,Europe/Madrid,70345
+61074,Court 12,Girona,Spain,ESP,Europe/Madrid,70345
+61076,Court 13,Girona,Spain,ESP,Europe/Madrid,70345
+61078,Court 9,Girona,Spain,ESP,Europe/Madrid,70345
+61080,Court 8,Girona,Spain,ESP,Europe/Madrid,70345
+61144,Pista 5,Girona,Spain,ESP,Europe/Madrid,70345
+61146,Court 1,Girona,Spain,ESP,Europe/Madrid,70345
+61148,Court 3,Girona,Spain,ESP,Europe/Madrid,70345
+61150,Court 6,Girona,Spain,ESP,Europe/Madrid,70345
+61152,Pista 4,Girona,Spain,ESP,Europe/Madrid,70345
+66965,Court 2,Girona,Spain,ESP,Europe/Madrid,70345
+70709,Estadio Mextenis,Leon,Mexico,MEX,America/Mexico_City,70661
+70711,Grandstand Mifel,Leon,Mexico,MEX,America/Mexico_City,70661
+70713,Court 1,Leon,Mexico,MEX,America/Mexico_City,70661
+63263,Court 1,Split,Croatia,HRV,Europe/Zagreb,70663
+63269,Court 3,Split,Croatia,HRV,Europe/Zagreb,70663
+63271,Court 2,Split,Croatia,HRV,Europe/Zagreb,70663
+70761,Court Practice 8,Split,Croatia,HRV,Europe/Zagreb,70663
+70803,Indoor Court,Split,Croatia,HRV,Europe/Zagreb,70663
+63677,Teremeer Court,Troisdorf,Germany,DEU,Europe/Berlin,71287
+71389,Saturn Center Court,Troisdorf,Germany,DEU,Europe/Berlin,71287
+71409,B&B Court,Troisdorf,Germany,DEU,Europe/Berlin,71287
+29346,Court 2,La Bisbal D Emporda,Spain,ESP,Europe/Madrid,71431
+29348,Pista 1,La Bisbal D Emporda,Spain,ESP,Europe/Madrid,71431
+29356,Court 4,La Bisbal D Emporda,Spain,ESP,Europe/Madrid,71431
+29358,Court 3,La Bisbal D Emporda,Spain,ESP,Europe/Madrid,71431
+39425,Center Court,La Bisbal D Emporda,Spain,ESP,Europe/Madrid,71431
+39479,Court 5,La Bisbal D Emporda,Spain,ESP,Europe/Madrid,71431
+58388,Pista Court,La Bisbal D Emporda,Spain,ESP,Europe/Madrid,71431
+71925,Table 1,Tunis,Tunisia,TUN,Africa/Tunis,71923
+71927,Table 2,Tunis,Tunisia,TUN,Africa/Tunis,71923
+71929,Table 3,Tunis,Tunisia,TUN,Africa/Tunis,71923
+71931,Table 4,Tunis,Tunisia,TUN,Africa/Tunis,71923
+71999,Center Court,Modena,Italy,ITA,Europe/Rome,71961
+72001,Court 4,Modena,Italy,ITA,Europe/Rome,71961
+72003,Court 3,Modena,Italy,ITA,Europe/Rome,71961
+72115,Center Court,Bloomfield Hills,USA,USA,UTC,72061
+72117,Court 2,Bloomfield Hills,USA,USA,UTC,72061
+72119,Court 3,Bloomfield Hills,USA,USA,UTC,72061
+78571,Stadium,Bloomfield Hills,USA,USA,UTC,72061
+78573,Court 1,Bloomfield Hills,USA,USA,UTC,72061
+72525,Center Court,Nice,France,FRA,Europe/Paris,72523
+72527,Court 1,Nice,France,FRA,Europe/Paris,72523
+14672,Center Court,Segovia,Spain,ESP,Europe/Madrid,72533
+14674,Court 1,Segovia,Spain,ESP,Europe/Madrid,72533
+14676,Court 2,Segovia,Spain,ESP,Europe/Madrid,72533
+22122,Court 3,Segovia,Spain,ESP,Europe/Madrid,72533
+32175,Court 4,Segovia,Spain,ESP,Europe/Madrid,72533
+65135,Pista Pedro Munoz,Segovia,Spain,ESP,Europe/Madrid,72533
+65137,Pista 1,Segovia,Spain,ESP,Europe/Madrid,72533
+65139,Pista 4,Segovia,Spain,ESP,Europe/Madrid,72533
+18529,Grandstand,Los Cabos,Mexico,MEX,America/Mexico_City,72677
+59290,Court 3,Los Cabos,Mexico,MEX,America/Mexico_City,72677
+72679,STADIUM CSC,Los Cabos,Mexico,MEX,America/Mexico_City,72677
+72681,Center Court,Los Cabos,Mexico,MEX,America/Mexico_City,72677
+72683,Court 1,Los Cabos,Mexico,MEX,America/Mexico_City,72677
+72685,Court 2,Los Cabos,Mexico,MEX,America/Mexico_City,72677
+72689,Court 4,Los Cabos,Mexico,MEX,America/Mexico_City,72677
+72883,Estadio Mextenis,Los Cabos,Mexico,MEX,America/Mexico_City,72677
+1950,Court 6,Stanford,USA,USA,America/Los_Angeles,73167
+73169,Center Court,Stanford,USA,USA,America/Los_Angeles,73167
+73171,Court 1,Stanford,USA,USA,America/Los_Angeles,73167
+73173,Court 2,Stanford,USA,USA,America/Los_Angeles,73167
+73175,Court 3,Stanford,USA,USA,America/Los_Angeles,73167
+73177,Court 4,Stanford,USA,USA,America/Los_Angeles,73167
+31359,Stadium,Winnipeg,Canada,CAN,America/Chicago,73179
+73181,Center Court,Winnipeg,Canada,CAN,America/Chicago,73179
+73183,Court 1,Winnipeg,Canada,CAN,America/Chicago,73179
+73185,Court 2,Winnipeg,Canada,CAN,America/Chicago,73179
+73187,Court 4,Winnipeg,Canada,CAN,America/Chicago,73179
+73189,Court 3,Winnipeg,Canada,CAN,America/Chicago,73179
+73193,Central Court,Barranquilla,Colombia,COL,America/Bogota,73191
+73195,Court 1,Barranquilla,Colombia,COL,America/Bogota,73191
+73197,Court 2,Barranquilla,Colombia,COL,America/Bogota,73191
+73199,Court 3,Barranquilla,Colombia,COL,America/Bogota,73191
+73201,Court 4,Barranquilla,Colombia,COL,America/Bogota,73191
+74043,AO Arena,Manchester,England,ENG,Europe/London,73227
+23392,Central Court,Zhangjiagang,China,CHN,Asia/Shanghai,73463
+23394,Court 5,Zhangjiagang,China,CHN,Asia/Shanghai,73463
+23396,Court 6,Zhangjiagang,China,CHN,Asia/Shanghai,73463
+23398,Court 7,Zhangjiagang,China,CHN,Asia/Shanghai,73463
+23410,Indoor 11,Zhangjiagang,China,CHN,Asia/Shanghai,73463
+23412,Indoor 10,Zhangjiagang,China,CHN,Asia/Shanghai,73463
+23414,Indoor 12,Zhangjiagang,China,CHN,Asia/Shanghai,73463
+73967,Court 1,Ljubljana,Slovenia,SVN,Europe/Ljubljana,73795
+73969,Court 3,Ljubljana,Slovenia,SVN,Europe/Ljubljana,73795
+73971,Court Mima Jausovec,Ljubljana,Slovenia,SVN,Europe/Ljubljana,73795
+73983,Court 8,Ljubljana,Slovenia,SVN,Europe/Ljubljana,73795
+79835,Court 7,Ljubljana,Slovenia,SVN,Europe/Ljubljana,73795
+73799,Center Court,Guangzhou,China,CHN,Asia/Shanghai,73797
+73801,Court 1,Guangzhou,China,CHN,Asia/Shanghai,73797
+73803,Court 2,Guangzhou,China,CHN,Asia/Shanghai,73797
+73805,Court 3,Guangzhou,China,CHN,Asia/Shanghai,73797
+73887,Court 5,Guangzhou,China,CHN,Asia/Shanghai,73797
+73951,Indoor 9,Guangzhou,China,CHN,Asia/Shanghai,73797
+73953,Indoor 10,Guangzhou,China,CHN,Asia/Shanghai,73797
+73955,Indoor 11,Guangzhou,China,CHN,Asia/Shanghai,73797
+73985,Court 6,Guangzhou,China,CHN,Asia/Shanghai,73797
+77715,Indoor Court,Guangzhou,China,CHN,Asia/Shanghai,73797
+23936,Court 7,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,73807
+34168,Court 9,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,73807
+73809,Center Court,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,73807
+73811,Court 1,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,73807
+73813,Court 2,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,73807
+73815,Court 3,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,73807
+74035,Cancha Central,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,73807
+74037,Cancha 1,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,73807
+74039,Cancha 2,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz,73807
+73819,Court 3,Szczecin,Poland,POL,Europe/Warsaw,73817
+73821,Court 2,Szczecin,Poland,POL,Europe/Warsaw,73817
+73823,Court 1,Szczecin,Poland,POL,Europe/Warsaw,73817
+73825,Center Court,Szczecin,Poland,POL,Europe/Warsaw,73817
+26202,Cancha 7,Antofagasta,Chile,CHL,America/Santiago,73997
+26204,Cancha 8,Antofagasta,Chile,CHL,America/Santiago,73997
+73999,Cancha Central,Antofagasta,Chile,CHL,America/Santiago,73997
+74001,Court 1,Antofagasta,Chile,CHL,America/Santiago,73997
+74003,Court 2,Antofagasta,Chile,CHL,America/Santiago,73997
+74005,Court 3,Antofagasta,Chile,CHL,America/Santiago,73997
+74009,Center Court,Bad Waltersdorf,Austria,AUT,Europe/Vienna,74007
+74011,Court 1,Bad Waltersdorf,Austria,AUT,Europe/Vienna,74007
+74013,Court 2,Bad Waltersdorf,Austria,AUT,Europe/Vienna,74007
+74015,Court 3,Bad Waltersdorf,Austria,AUT,Europe/Vienna,74007
+74019,Center Court,Columbus,USA,USA,America/New_York,74017
+74021,Court 1,Columbus,USA,USA,America/New_York,74017
+74023,Court 2,Columbus,USA,USA,America/New_York,74017
+74025,Court 3,Columbus,USA,USA,America/New_York,74017
+74175,Center Court,Astana,Kazakhstan,KAZ,Asia/Almaty,74173
+74177,Court 1,Astana,Kazakhstan,KAZ,Asia/Almaty,74173
+74179,Court 2,Astana,Kazakhstan,KAZ,Asia/Almaty,74173
+74181,Court 3,Astana,Kazakhstan,KAZ,Asia/Almaty,74173
+78771,Court 4,Astana,Kazakhstan,KAZ,Asia/Almaty,74173
+18043,Cancha 3,Bogota,Colombia,COL,America/Bogota,74183
+19010,Cancha Central,Bogota,Colombia,COL,America/Bogota,74183
+19012,Cancha 1,Bogota,Colombia,COL,America/Bogota,74183
+19014,Cancha 2,Bogota,Colombia,COL,America/Bogota,74183
+74185,Center Court,Bogota,Colombia,COL,America/Bogota,74183
+74187,Court 1,Bogota,Colombia,COL,America/Bogota,74183
+74189,Court 2,Bogota,Colombia,COL,America/Bogota,74183
+74191,Court 3,Bogota,Colombia,COL,America/Bogota,74183
+74199,Court 2,Orleans,France,FRA,Europe/Paris,74193
+74201,Court 3,Orleans,France,FRA,Europe/Paris,74193
+74254,Central Arena,Orleans,France,FRA,Europe/Paris,74193
+80093,St Cyr En Val No.2,Orleans,France,FRA,Europe/Paris,74193
+26343,"Centre Court of ATP Playford, Australia",Playford City,Australia,AUS,Australia/Adelaide,74730
+26345,Court 1,Playford City,Australia,AUS,Australia/Adelaide,74730
+26347,Court 2,Playford City,Australia,AUS,Australia/Adelaide,74730
+18611,Pedro Amadeu,Curitiba,Brazil,BRA,Brazil/East,74732
+27297,Indoor 2,Curitiba,Brazil,BRA,Brazil/East,74732
+27299,Indoor 1,Curitiba,Brazil,BRA,Brazil/East,74732
+38762,Quadra 1,Curitiba,Brazil,BRA,Brazil/East,74732
+74802,Quadra Central 4,Curitiba,Brazil,BRA,Brazil/East,74732
+74950,Indoor 11,Curitiba,Brazil,BRA,Brazil/East,74732
+74952,Indoor 12,Curitiba,Brazil,BRA,Brazil/East,74732
+74776,Stadium 2,Tampico,Mexico,MEX,America/Mexico_City,74734
+74778,Stadium 3,Tampico,Mexico,MEX,America/Mexico_City,74734
+74812,Stadium 1,Tampico,Mexico,MEX,America/Mexico_City,74734
+74826,Huafa Center Court,Zhuhai,China,CHN,Asia/Shanghai,74736
+74910,Estadio Paradisus,Cancun,Mexico,MEX,America/Mexico_City,74912
+74964,Center Court,Sofia,Bulgaria,BGR,Europe/Sofia,74962
+74966,Court 1,Sofia,Bulgaria,BGR,Europe/Sofia,74962
+74968,Court 2,Sofia,Bulgaria,BGR,Europe/Sofia,74962
+74970,Court 3,Sofia,Bulgaria,BGR,Europe/Sofia,74962
+66069,Court 4,Danderyd,Sweden,SWE,Europe/Stockholm,75062
+66071,Court 2,Danderyd,Sweden,SWE,Europe/Stockholm,75062
+66073,Court 5,Danderyd,Sweden,SWE,Europe/Stockholm,75062
+75150,Court 1,Danderyd,Sweden,SWE,Europe/Stockholm,75062
+75104,Central Court,Kobe,Japan,JPN,Asia/Tokyo,75066
+75106,Court B,Kobe,Japan,JPN,Asia/Tokyo,75066
+75108,Court C,Kobe,Japan,JPN,Asia/Tokyo,75066
+67651,Court 5,Colina,Chile,CHL,America/Santiago,75070
+74980,Centre Court,Colina,Chile,CHL,America/Santiago,75070
+74982,Court 1,Colina,Chile,CHL,America/Santiago,75070
+74984,Court 2,Colina,Chile,CHL,America/Santiago,75070
+75120,Grandstand,Colina,Chile,CHL,America/Santiago,75070
+75198,Quadra 9,Brasilia,Brazil,BRA,Brazil/East,75192
+75304,Quadra 3,Brasilia,Brazil,BRA,Brazil/East,75192
+75338,Quadra 4,Brasilia,Brazil,BRA,Brazil/East,75192
+61947,Center Court,Florianopolis,Brazil,BRA,America/Sao_Paulo,75200
+62033,Court 1,Florianopolis,Brazil,BRA,America/Sao_Paulo,75200
+62035,Court 2,Florianopolis,Brazil,BRA,America/Sao_Paulo,75200
+75202,Quadra Central,Florianopolis,Brazil,BRA,America/Sao_Paulo,75200
+75204,Quadra 1,Florianopolis,Brazil,BRA,America/Sao_Paulo,75200
+75206,Quadra 2,Florianopolis,Brazil,BRA,America/Sao_Paulo,75200
+75208,Quadra 3,Florianopolis,Brazil,BRA,America/Sao_Paulo,75200
+81423,Indoor Court,Florianopolis,Brazil,BRA,America/Sao_Paulo,75200
+75609,Platz 1,Baden-Wurttemberg,Germany,DEU,Europe/Berlin,75607
+75611,Platz 2,Baden-Wurttemberg,Germany,DEU,Europe/Berlin,75607
+75613,Platz 3,Baden-Wurttemberg,Germany,DEU,Europe/Berlin,75607
+75615,Platz 4,Baden-Wurttemberg,Germany,DEU,Europe/Berlin,75607
+75733,Kurt 1,Prague,Czechia,CZE,Europe/Prague,75731
+75735,Kurt 2,Prague,Czechia,CZE,Europe/Prague,75731
+76185,Match Court,Trinec,Czechia,CZE,Europe/Prague,76035
+16842,Indoor 1,Guangzhou,China,CHN,Asia/Shanghai,76107
+79785,Court 1,Guangzhou,China,CHN,Asia/Shanghai,76107
+79787,Court 5,Guangzhou,China,CHN,Asia/Shanghai,76107
+79789,Court 6,Guangzhou,China,CHN,Asia/Shanghai,76107
+76929,Center Court,New Delhi,India,IND,Asia/Kolkata,76885
+76931,Court 1,New Delhi,India,IND,Asia/Kolkata,76885
+76933,Court 2,New Delhi,India,IND,Asia/Kolkata,76885
+77257,Central Court,Barcelona,Spain,ESP,Europe/Madrid,77217
+77259,Court 1,Barcelona,Spain,ESP,Europe/Madrid,77217
+77261,Court 2,Barcelona,Spain,ESP,Europe/Madrid,77217
+1343,COURT 2,Bucharest,Romania,ROU,Europe/Bucharest,77389
+2086,Center Court,Bucharest,Romania,ROU,Europe/Bucharest,77389
+2087,Court 1,Bucharest,Romania,ROU,Europe/Bucharest,77389
+62047,Cancha 2,San Miguel de Tucuman,Argentina,ARG,America/Argentina/Cordoba,77391
+62059,Cancha 1,San Miguel de Tucuman,Argentina,ARG,America/Argentina/Cordoba,77391
+67697,Cancha Central,San Miguel de Tucuman,Argentina,ARG,America/Argentina/Cordoba,77391
+76939,Cancha 7,San Miguel de Tucuman,Argentina,ARG,America/Argentina/Cordoba,77391
+77435,Cancha 9,San Miguel de Tucuman,Argentina,ARG,America/Argentina/Cordoba,77391
+2257,Cancha 2,Acapulco,Mexico,MEX,America/Mexico_City,77425
+2258,Cancha 3,Acapulco,Mexico,MEX,America/Mexico_City,77425
+13564,Grandstand,Acapulco,Mexico,MEX,America/Mexico_City,77425
+51479,Estadio Arena GNP Seguros,Acapulco,Mexico,MEX,America/Mexico_City,77425
+81335,CANCHA ESTADIO,Acapulco,Mexico,MEX,America/Mexico_City,77425
+81337,CANCHA CALIENTE,Acapulco,Mexico,MEX,America/Mexico_City,77425
+81339,CANCHA SKECHERS,Acapulco,Mexico,MEX,America/Mexico_City,77425
+81341,CANCHA GEMELA 2,Acapulco,Mexico,MEX,America/Mexico_City,77425
+77567,Center Court,Lleida,Spain,ESP,Europe/Madrid,77517
+77569,Court 1,Lleida,Spain,ESP,Europe/Madrid,77517
+77583,Court 2,Lleida,Spain,ESP,Europe/Madrid,77517
+77597,Huafa Center Court,Wuxi,China,CHN,Asia/Shanghai,77595
+77599,Court 1,Wuxi,China,CHN,Asia/Shanghai,77595
+77601,Court 2,Wuxi,China,CHN,Asia/Shanghai,77595
+77603,Court 3,Wuxi,China,CHN,Asia/Shanghai,77595
+77605,Court 4,Wuxi,China,CHN,Asia/Shanghai,77595
+77607,Court 5,Wuxi,China,CHN,Asia/Shanghai,77595
+77609,Court 6,Wuxi,China,CHN,Asia/Shanghai,77595
+77611,Indoor 1,Wuxi,China,CHN,Asia/Shanghai,77595
+77613,Indoor 2,Wuxi,China,CHN,Asia/Shanghai,77595
+77717,Center Court,Wuxi,China,CHN,Asia/Shanghai,77595
+77617,Quadra Central,Santos,Brazil,BRA,Brazil/East,77615
+77619,Quadra De Lisonda,Santos,Brazil,BRA,Brazil/East,77615
+77621,Quadra Coberta,Santos,Brazil,BRA,Brazil/East,77615
+77623,Quadra 1,Santos,Brazil,BRA,Brazil/East,77615
+77625,Quadra 2,Santos,Brazil,BRA,Brazil/East,77615
+77627,Quadra 3,Santos,Brazil,BRA,Brazil/East,77615
+77629,Quadra 4,Santos,Brazil,BRA,Brazil/East,77615
+77631,Quadra 5,Santos,Brazil,BRA,Brazil/East,77615
+77633,Quadra 6,Santos,Brazil,BRA,Brazil/East,77615
+11741,Court 1,Oeiras,Portugal,PRT,Europe/Lisbon,77763
+29608,Court 5,Oeiras,Portugal,PRT,Europe/Lisbon,77763
+29610,Court 4,Oeiras,Portugal,PRT,Europe/Lisbon,77763
+29618,Court Central,Oeiras,Portugal,PRT,Europe/Lisbon,77763
+29624,Court 3,Oeiras,Portugal,PRT,Europe/Lisbon,77763
+52907,Court 2,Oeiras,Portugal,PRT,Europe/Lisbon,77763
+57910,Court 6,Oeiras,Portugal,PRT,Europe/Lisbon,77763
+70991,Court 1,Kachreti,Georgia,GEO,Asia/Tbilisi,77883
+70993,Center Court,Kachreti,Georgia,GEO,Asia/Tbilisi,77883
+70995,Court 3,Kachreti,Georgia,GEO,Asia/Tbilisi,77883
+70997,Court 2,Kachreti,Georgia,GEO,Asia/Tbilisi,77883
+58382,Center Court,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+71009,Court 1,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+71051,Indoor 3,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+71053,Indoor 2,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+71055,Indoor 1,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+77887,Court 4,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+77895,Court 5,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+78095,Court 2,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+78097,Court 3,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+78139,Court 6,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+78141,Court 8,Zagreb,Croatia,HRV,Europe/Zagreb,78093
+78491,Court 3,Brasov,Romania,ROU,Europe/Bucharest,78489
+78493,Court 2,Brasov,Romania,ROU,Europe/Bucharest,78489
+78495,Court 1,Brasov,Romania,ROU,Europe/Bucharest,78489
+78497,Center Court,Brasov,Romania,ROU,Europe/Bucharest,78489
+78625,Court 4,Brasov,Romania,ROU,Europe/Bucharest,78489
+78755,Center Court,Verona,Italy,ITA,Europe/Rome,78753
+78757,Court 1,Verona,Italy,ITA,Europe/Rome,78753
+78759,Court 2,Verona,Italy,ITA,Europe/Rome,78753
+78761,Court 3,Verona,Italy,ITA,Europe/Rome,78753
+78955,Campo 4,Verona,Italy,ITA,Europe/Rome,78753
+78961,Volvo Arena,Verona,Italy,ITA,Europe/Rome,78753
+78963,Campo 1,Verona,Italy,ITA,Europe/Rome,78753
+78965,Grandstand,Verona,Italy,ITA,Europe/Rome,78753
+80221,Centre Court,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,78831
+80223,Court 1,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,78831
+80261,Court 2,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong,78831
+79147,Center Court,Bonn,Germany,DEU,Europe/Berlin,79097
+79149,Court 1,Bonn,Germany,DEU,Europe/Berlin,79097
+79151,Court 3,Bonn,Germany,DEU,Europe/Berlin,79097
+79153,Court 2,Bonn,Germany,DEU,Europe/Berlin,79097
+79173,Center Court,Lincoln,USA,USA,America/Chicago,79103
+79175,Court 11,Lincoln,USA,USA,America/Chicago,79103
+79177,Court 1,Lincoln,USA,USA,America/Chicago,79103
+34520,Court 1,Dobrich,Bulgaria,BGR,Europe/Sofia,79281
+34522,Center Court,Dobrich,Bulgaria,BGR,Europe/Sofia,79281
+34528,Court 2,Dobrich,Bulgaria,BGR,Europe/Sofia,79281
+34570,Court 3,Dobrich,Bulgaria,BGR,Europe/Sofia,79281
+53877,Central Court,Porto,Portugal,PRT,Europe/Lisbon,79459
+58876,Court 2,Porto,Portugal,PRT,Europe/Lisbon,79459
+72933,Court 1,Porto,Portugal,PRT,Europe/Lisbon,79459
+79635,Court 1,Giza,Egypt,EGY,Africa/Cairo,79633
+79637,Court 2,Giza,Egypt,EGY,Africa/Cairo,79633
+79639,Court 3,Giza,Egypt,EGY,Africa/Cairo,79633
+79641,Court 4,Giza,Egypt,EGY,Africa/Cairo,79633
+79643,Court 5,Giza,Egypt,EGY,Africa/Cairo,79633
+79645,Court 6,Giza,Egypt,EGY,Africa/Cairo,79633
+79647,Court 7,Giza,Egypt,EGY,Africa/Cairo,79633
+79649,Court 8,Giza,Egypt,EGY,Africa/Cairo,79633
+79651,Court 9,Giza,Egypt,EGY,Africa/Cairo,79633
+79653,Court 10,Giza,Egypt,EGY,Africa/Cairo,79633
+33964,Central,Montreux,Switzerland,CHE,Europe/Zurich,79665
+33974,Court 1,Montreux,Switzerland,CHE,Europe/Zurich,79665
+79945,Cancha Central,Santiago de Cali,Colombia,COL,America/Bogota,79837
+79947,Cancha 1,Santiago de Cali,Colombia,COL,America/Bogota,79837
+79949,Cancha 2,Santiago de Cali,Colombia,COL,America/Bogota,79837
+80745,Center Court,Jiujiang,China,CHN,Asia/Shanghai,80737
+80747,Court 1,Jiujiang,China,CHN,Asia/Shanghai,80737
+80749,Court 2,Jiujiang,China,CHN,Asia/Shanghai,80737
+80811,Indoor 1,Jiujiang,China,CHN,Asia/Shanghai,80737
+80873,Centre Court,Belgrade,Serbia,SRB,Europe/Belgrade,80851
+80875,Grandstand,Belgrade,Serbia,SRB,Europe/Belgrade,80851
+81011,COURT CENTRAL,Decines-Charpieu,France,FRA,Europe/Paris,80963
+81013,COURT 1,Decines-Charpieu,France,FRA,Europe/Paris,80963
+81015,COURT 2,Decines-Charpieu,France,FRA,Europe/Paris,80963
+81315,Cancha Central,Manzanillo,Mexico,MEX,America/Mexico_City,81249
+81317,Cancha 1,Manzanillo,Mexico,MEX,America/Mexico_City,81249
+81319,Cancha 2,Manzanillo,Mexico,MEX,America/Mexico_City,81249
+81321,Cancha 3,Manzanillo,Mexico,MEX,America/Mexico_City,81249
+81559,Headington Family Tennis Center - Court 2,Norman,USA,USA,America/Chicago,81543
+81561,Headington Family Tennis Center - Court 4,Norman,USA,USA,America/Chicago,81543
+81571,Headington Family Tennis Center - Court 1,Norman,USA,USA,America/Chicago,81543
+81573,Headington Family Tennis Center - Court 3,Norman,USA,USA,America/Chicago,81543
+81575,Headington Family Tennis Center - Court 5,Norman,USA,USA,America/Chicago,81543
+81581,Headington Family Tennis Center - Court 6,Norman,USA,USA,America/Chicago,81543
+81601,Royal SC Tennis - Court 02,Noda,Japan,JPN,Asia/Tokyo,81613
+81603,Royal SC Tennis - Court 04,Noda,Japan,JPN,Asia/Tokyo,81613
+81605,Royal SC Tennis - Court 06,Noda,Japan,JPN,Asia/Tokyo,81613
+81607,Royal SC Tennis - Court 05,Noda,Japan,JPN,Asia/Tokyo,81613
+81609,Royal SC Tennis - Court 03,Noda,Japan,JPN,Asia/Tokyo,81613
+81611,Royal SC Tennis - Court 01,Noda,Japan,JPN,Asia/Tokyo,81613
+81593,LSU - Court 04,Baton Rouge,USA,USA,America/Chicago,81635
+81595,LSU - Court 02,Baton Rouge,USA,USA,America/Chicago,81635
+81621,LSU - Court 03,Baton Rouge,USA,USA,America/Chicago,81635
+81623,LSU - Court 01,Baton Rouge,USA,USA,America/Chicago,81635
