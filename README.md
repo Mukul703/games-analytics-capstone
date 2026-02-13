@@ -41,11 +41,12 @@ The analysis follows a structured, end-to-end approach that begins with transfor
 
 The dashboard provides an executive view of the tennis competition ecosystem, summarizing competitor scale, global reach, and top performance metrics to support quick situational awareness.
 
-![Dashboard Overview](dashboard/streamlit_screenshots/dashboard_overview.png)
+<img src="dashboard/streamlit_screenshots/dashboard_overview.png" width="900"/>
 
+<img src="dashboard/streamlit_screenshots/leaderboard_insights.png" width="900"/>
 
+<img src="dashboard/streamlit_screenshots/country_wise_analysis.png" width="900"/>
 
-![Dashboard Overview](dashboard/streamlit_screenshots/country_wise_analysis.png)
 ## Business Impact & Use Cases
 
 - **Operations & Event Management:** Enables organizers to identify high-activity competition categories and venue hubs, supporting smarter scheduling, capacity planning, and resource allocation.  
@@ -102,6 +103,7 @@ games-analytics-capstone/
 │   └── README.md
 │
 └── README.md
+
 
 
 
