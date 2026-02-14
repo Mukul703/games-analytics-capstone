@@ -137,14 +137,4 @@ games-analytics-capstone/
 └── README.md
 
 
-
-
-
-
-
-
-
-
-
-
-
+Thank you !!!
